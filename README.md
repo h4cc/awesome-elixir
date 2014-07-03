@@ -66,13 +66,14 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
-* [faker](https://github.com/igas/faker) - Faker is pure Elixir library for generating fake data..
+* [faker](https://github.com/igas/faker) - Faker is pure Elixir library for generating fake data.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+* [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 ## Build Tools
 *Project build and automation tools.*
