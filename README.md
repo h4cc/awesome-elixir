@@ -28,6 +28,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Websites](#websites)
     - [Books](#books)
     - [Web Reading](#web-reading)
+    - [Screencasts](#screencasts)
 - [Contributing](#contributing)
 
 ## Package Management
@@ -220,6 +221,11 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 ## Web Reading
 *General web-development-related reading materials.*
+
+## Screencasts
+*Cool video tutorials.*
+
+* [Elixir Sips](http://elixirsips.com) - Tiny screencasts for learning Elixir.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.
