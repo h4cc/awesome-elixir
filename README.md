@@ -59,6 +59,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [cauldron](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 * [exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR.
+* [httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
 
