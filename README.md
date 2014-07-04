@@ -45,6 +45,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Frameworks
 *Web development frameworks.*
 
+* [dynamo](https://github.com/dynamo/dynamo) - Dynamo is an experimental web framework that runs on Elixir.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [weber](https://github.com/elixir-web/weber) - Web framework for Elixir inspired by Rails.
