@@ -204,6 +204,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+* [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
