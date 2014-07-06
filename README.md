@@ -16,6 +16,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Date and Time](#date-and-time)
     - [ORM and Datamapping](#orm-and-datamapping)
     - [Queue](#queue)
+    - [Authentication](#authentication)
     - [Text and Numbers](#text-and-numbers)
     - [REST and API](#rest-and-api)
     - [Caching](#caching)
@@ -122,6 +123,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with event and task queues.*
 
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
+
+## Authentication
+*Libraries for implementing authentications schemes.*
+
+* [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
