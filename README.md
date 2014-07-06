@@ -28,6 +28,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Websites](#websites)
     - [Books](#books)
     - [Web Reading](#web-reading)
+    - [Elixir Reading](#elixir-reading)
     - [Screencasts](#screencasts)
 - [Contributing](#contributing)
 
@@ -224,6 +225,11 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 ## Web Reading
 *General web-development-related reading materials.*
+
+## Elixir Reading
+*Elixir-releated reading materials.*
+
+* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet by Andy Hunt & Dave Thomas.
 
 ## Screencasts
 *Cool video tutorials.*
