@@ -31,6 +31,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Web Reading](#web-reading)
     - [Elixir Reading](#elixir-reading)
     - [Screencasts](#screencasts)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Package Management
@@ -242,6 +243,9 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Cool video tutorials.*
 
 * [Elixir Sips](http://elixirsips.com) - Tiny screencasts for learning Elixir.
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.
