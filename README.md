@@ -205,6 +205,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
+* [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 * [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
