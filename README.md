@@ -140,6 +140,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
+* [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
