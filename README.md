@@ -152,6 +152,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
+* [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
