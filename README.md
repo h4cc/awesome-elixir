@@ -214,6 +214,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 * [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
+* [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
