@@ -214,6 +214,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
+* [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
