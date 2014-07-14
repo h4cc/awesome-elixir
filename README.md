@@ -118,6 +118,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
+* [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
