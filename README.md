@@ -139,6 +139,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [calliope](https://github.com/nurugger07/calliope) - An elixir haml parser.
 * [cesso](https://github.com/meh/cesso) - CSV handling library for Elixir.
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
+* [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
