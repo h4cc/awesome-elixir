@@ -80,6 +80,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+* [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir using eprof.
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 ## Build Tools
