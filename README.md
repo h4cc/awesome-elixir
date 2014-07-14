@@ -117,7 +117,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
-* [postgrex](https://github.com/ericmj/postgrex) - ostgreSQL driver for Elixir.
+* [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
 
 ## Queue
