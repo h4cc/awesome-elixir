@@ -73,6 +73,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [faker](https://github.com/igas/faker) - Faker is pure Elixir library for generating fake data.
+* [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
