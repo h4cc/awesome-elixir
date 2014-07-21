@@ -25,6 +25,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Miscellaneous](#miscellaneous)
+    - [Static Page Generation](#static-page-generation)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -225,6 +226,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
+
+## Static Page Generation
+* [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
