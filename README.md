@@ -87,6 +87,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Build Tools
 *Project build and automation tools.*
 
+* [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 
