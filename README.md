@@ -58,6 +58,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Standalone component from web development frameworks.*
 
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+* [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
