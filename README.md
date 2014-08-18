@@ -217,6 +217,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
+* [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
