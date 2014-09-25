@@ -6,7 +6,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Release Management](#release-management)
     - [Frameworks](#frameworks)
     - [Framework Components](#framework-components)
+    - [Files and Directories](#files-and-directories)
     - [HTTP](#http)
+    - [Images](#images)
     - [Testing](#testing)
     - [Code Analysis](#code-analysis)
     - [Build Tools](#build-tools)
@@ -24,6 +26,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Networking](#networking)
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Translations and Internationalizations](#translations-and-internationalizations)
+    - [Validations](#validations)
     - [Miscellaneous](#miscellaneous)
     - [Static Page Generation](#static-page-generation)
 - [Resources](#resources)
@@ -51,14 +54,21 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [dynamo](https://github.com/dynamo/dynamo) - Dynamo is an experimental web framework that runs on Elixir.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
+* [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [weber](https://github.com/elixir-web/weber) - Web framework for Elixir inspired by Rails.
 
 ## Framework Components
 *Standalone component from web development frameworks.*
 
+* [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
+
+## Files and Directories
+*Libraries and implementations for working with files and directories.*
+
+* [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
@@ -68,6 +78,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
+
+## Images
+*Libraries for working with and manipulating images.*
+
+* [exexif](https://github.com/pragdave/exexif) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -101,6 +116,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools for debugging code and applications.*
 
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
+* [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
 
 ## Actors
 *Libraries and tools for working with actors and such.*
@@ -114,6 +130,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [chronos](https://github.com/nurugger07/chronos) - An elixir date/time library.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
+* [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
+* [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
@@ -152,8 +170,10 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
+* [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+* [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 * [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
@@ -163,6 +183,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+* [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
@@ -183,8 +204,12 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
+* [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+* [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
+* [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
+* [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
@@ -199,11 +224,18 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations of algorithms and datastructures.*
 
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
+* [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
 
 * [linguist](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
+
+## Validations
+*Libraries and implementations for validation of data.*
+
+* [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
@@ -241,6 +273,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
+* [How i start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
+* [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 
 ## Books
 *Fantastic books and e-books.*
@@ -250,9 +284,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013).
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
-
-## Web Reading
-*General web-development-related reading materials.*
+* [Elixir for the functional Rubyist](http://elixir-for-rubyists.com/) - Not yet released. By Johnny Winn.
+* [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
 
 ## Elixir Reading
 *Elixir-releated reading materials.*
@@ -266,6 +299,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).
+
+* [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things..
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.
