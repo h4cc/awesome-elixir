@@ -14,6 +14,8 @@ before_install:
     #- Install latest elixir
     - sudo apt-get update
     - sudo apt-get -y install elixir
+    - mix local.hex --force
+    - cd tests && mix deps.get
 
 script:
-    - cd tests && mix deps.get && mix run check.exs
+    - cd tests && mix run check.exs
