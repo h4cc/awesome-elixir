@@ -1,4 +1,4 @@
-# Awesome Elixir
+# Awesome Elixir [![Build Status](https://travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir)
 A curated list of amazingly awesome Elixir libraries, resources and shiny thing inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Elixir](#awesome-elixir)
