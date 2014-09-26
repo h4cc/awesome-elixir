@@ -263,6 +263,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ## Static Page Generation
+*Tools and libraries for generating static websites and content.*
+
 * [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 
 # Resources
@@ -297,10 +299,10 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Sips](http://elixirsips.com) - Tiny screencasts for learning Elixir.
 
-# Other Awesome Lists
-Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).
+## Other Awesome Lists
+*Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).*
 
-* [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things..
+* [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.
