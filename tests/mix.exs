@@ -8,10 +8,17 @@ defmodule MyProject.Mixfile do
      deps: deps()]
   end
 
-  def application, do: []
+  def application do
+    [applications: [:httpoison, :httpotion]]
+  end
 
   defp deps do
-    [{:earmark, "~> 0.1.10"}]
+    [
+        {:earmark, "~> 0.1.10"},
+        {:httpoison, "~> 0.4"},
+        {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.0"},
+        {:httpotion, "~> 0.2.0"},
+    ]
   end
 end
 

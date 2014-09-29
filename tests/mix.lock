@@ -1,1 +1,6 @@
-%{"earmark": {:package, "0.1.10"}}
+%{"earmark": {:package, "0.1.10"},
+  "hackney": {:package, "0.13.1"},
+  "httpoison": {:package, "0.4.2"},
+  "httpotion": {:package, "0.2.4"},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "7871e2ebe8811efb64e1917e2de455fa87e8dfe3", [tag: "v4.1.0"]},
+  "idna": {:package, "1.0.1"}}

@@ -1,28 +1,107 @@
 
 # This script will check if the readme markdown file contains valid formatting.
 
+defmodule Awesome.Order do
+    def check_string_list_in_order([first, second | tail]) do
+        case first < second do
+            false -> throw "Words not in order #{inspect first} and #{inspect second}"
+            true -> check_string_list_in_order([second] ++ tail)
+        end
+    end
+
+    def check_string_list_in_order([_one]) do
+        :true
+    end
+
+    def check_string_list_in_order([]) do
+        :true
+    end
+end
+
 defmodule Awesome do
+
+    import Awesome.Order
+
+    defp debug(message) do
+        IO.puts "[debug] #{message}"
+    end
 
 	# Entry point
 	def test_file(file) do
 		lines = File.read!(file)
-		# Using Earmark to parse to data structure we can work with.
+		debug "Using Earmark to parse to data structure we can work with."
 		{ blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
-		# Ensure that there is a header at first.
-		[
-			%Earmark.Block.Heading{},
-			_introduction,
-			%Earmark.Block.List{} = _tableOfContent |
-			blocksList
-		] = blocks
+
+		debug "Ensure that there is a header at first."
+        [%Earmark.Block.Heading{} | blocks] = blocks
+
+        debug "Ensure that there is a introduction."
+        [_introduction | blocks] = blocks
+
+        debug "Ensure that there is a table of content list."
+        [%Earmark.Block.List{blocks: tableOfContent} | blocksList ] = blocks
+
+        debug "Parse table of content to list of categories."
+        [%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{} | categories]} | tableOfContent ] = tableOfContent
+        [%Earmark.Block.List{blocks: categories}] = categories
+        categories = for %Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [name]}]} <- categories do
+            {title, _link} = parse_markdown_link(name)
+            title
+        end
+        #IO.inspect categories
+
+        debug "Parse table of content to list of resources."
+        [%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{} | resources]} | _tableOfContent ] = tableOfContent
+        [%Earmark.Block.List{blocks: resources}] = resources
+        resources = for %Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [name]}]} <- resources do
+            {title, _link} = parse_markdown_link(name)
+            title
+        end
+		#IO.inspect resources
+
 		IO.puts "--------- START"
-		# Parse the rest of the file
+		# Parse the main content
 		iterate_content(blocksList)
+
+        debug "Collect all headings."
+		headings = collect_headings(blocksList, [], [])
+		#IO.inspect headings
+
+		debug "Ensure headings are in alphabetic order."
+        for list <- headings, do: check_string_list_in_order(list)
+        debug "Ensure Headings are equal to the once in the tableOfContent."
+        [^categories, ^resources] = headings;
 	end
 
-	def iterate_content([]) do
-		IO.puts "--------- END"
+	def parse_markdown_link(string) do
+        [^string, title, link] = Regex.run ~r/\[(.+)\]\((.+)\)/, string
+        {title, link}
 	end
+
+	#-----
+
+    def collect_headings([ %Earmark.Block.Heading{content: heading, level: 2} | tail], found_headings, all_headings) do
+        collect_headings(tail, found_headings ++ [heading], all_headings)
+    end
+
+    def collect_headings([ %Earmark.Block.Heading{content: _heading, level: 1} | tail], found_headings, all_headings) do
+        check_string_list_in_order(found_headings)
+        collect_headings(tail, [], all_headings ++ [found_headings])
+    end
+
+    def collect_headings([_head | tail], found_headings, all_headings) do
+        collect_headings(tail, found_headings, all_headings)
+    end
+
+    def collect_headings([], _found_headings, all_headings) do
+        all_headings
+    end
+
+    #-----
+
+    def iterate_content([]) do
+        IO.puts "--------- END"
+    end
 
 	# Find a level 2 headline, followed by a paragraph and the list of links.
 	def iterate_content([
@@ -48,7 +127,6 @@ defmodule Awesome do
 		IO.inspect head
 		iterate_content(tail)
 	end
-	
 
 	# Iterate through all 
 	def check_list(list) do
@@ -59,8 +137,16 @@ defmodule Awesome do
 	def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
 		[^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
 		IO.puts "\t'#{name}' #{link} '#{description}'"
+		#request_http_url(link)
 	end
-	
+
+	def request_http_url(url) do
+	    IO.puts "Testing URL #{url}...\n"
+        case HTTPoison.get(url) do
+          response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
+          response -> throw "HTTP Request failed #{inspect response}"
+        end
+	end
 end
 
 Awesome.test_file("../README.md")
