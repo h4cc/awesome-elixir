@@ -8,27 +8,36 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Build Tools](#build-tools)
     - [Caching](#caching)
     - [Code Analysis](#code-analysis)
+    - [Configuration](#configuration)
+    - [CSV](#csv)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Files and Directories](#files-and-directories)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
     - [Geolocation](#geolocation)
+    - [Hardware](#hardware)
     - [HTTP](#http)
     - [Images](#images)
+    - [JSON](#json)
+    - [Markdown](#markdown)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
     - [ORM and Datamapping](#orm-and-datamapping)
+    - [OTP](#otp)
     - [Package Management](#package-management)
+    - [Protocols](#protocols)
     - [Queue](#queue)
-    - [REST and API](#rest-and-api)
     - [Release Management](#release-management)
+    - [REST and API](#rest-and-api)
     - [Static Page Generation](#static-page-generation)
+    - [Statistics](#statistics)
     - [Testing](#testing)
     - [Text and Numbers](#text-and-numbers)
     - [Third Party APIs](#third-party-apis)
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Validations](#validations)
+    - [XML](#xml)
 - [Resources](#resources)
     - [Books](#books)
     - [Other Awesome Lists](#other-awesome-lists)
@@ -47,9 +56,10 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Algorithms and Datastructures
 *Libraries and implementations of algorithms and datastructures.*
 
+* [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
-* [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+* [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
@@ -75,6 +85,20 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir using eprof.
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
+
+## Configuration
+*Libraries and tools working with configurations*
+
+* [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
+* [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+* [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
+
+## CSV
+*Libraries and implementations working with CSV.*
+
+* [cesso](https://github.com/meh/cesso) - CSV handling library for Elixir.
+* [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
+* [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -116,6 +140,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
+## Hardware
+*Hardware related things like I/O interfaces and such.*
+
+* [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
@@ -130,29 +159,35 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [exexif](https://github.com/pragdave/exexif) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 
+## JSON
+*Libraries and implementations working with JSON.*
+
+* [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
+* [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+* [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+* [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
+* [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
+* [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+
+## Markdown
+*Libraries and tools working with Markdown and such.*
+
+* [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
+* [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
-* [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
-* [core](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
-* [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-* [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
-* [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
-* [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
-* [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
-* [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
-* [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
-* [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ## Networking
@@ -175,20 +210,27 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
 
+## OTP
+*Libraries for working with OTP related things.*
+
+* [core](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
+* [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
+
 ## Package Management
 *Libraries and tools for package and dependency management.*
 
 * [Hex](https://hex.pm/) - A package manager for the Erlang ecosystem.
 
+## Protocols
+*Special protocol and format libraries.*
+
+* [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
+* [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
+
 ## Queue
 *Libraries for working with event and task queues.*
 
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
-
-## REST and API
-*Libraries and web tools for developing REST-ful APIs.*
-
-* [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 
 ## Release Management
 *Libraries and tools for release management.*
@@ -196,10 +238,22 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a rpm for your elixir release with ease.
 
+## REST and API
+*Libraries and web tools for developing REST-ful APIs.*
+
+* [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+* [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
+
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
 
 * [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
+
+## Statistics
+*Libraries around the topic statistics.*
+
+* [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+* [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -213,31 +267,15 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [calliope](https://github.com/nurugger07/calliope) - An elixir haml parser.
-* [cesso](https://github.com/meh/cesso) - CSV handling library for Elixir.
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-* [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
-* [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
-* [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-* [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
-* [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
-* [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
-* [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
-* [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-* [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-* [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
-* [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
-* [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
-* [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
-* [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
-* [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 
 ## Third Party APIs
@@ -265,6 +303,13 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations for validation of data.*
 
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+
+## XML
+*Libraries and implementations working with XML.*
+
+* [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
+* [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+* [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.

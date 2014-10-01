@@ -3,7 +3,7 @@
 
 defmodule Awesome.Order do
     def check_string_list_in_order([first, second | tail]) do
-        case first < second do
+        case String.downcase(first) < String.downcase(second) do
             false -> throw "Words not in order #{inspect first} and #{inspect second}"
             true -> check_string_list_in_order([second] ++ tail)
         end
