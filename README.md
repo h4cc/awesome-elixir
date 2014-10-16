@@ -211,6 +211,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
+* [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 
 ## OTP
 *Libraries for working with OTP related things.*
