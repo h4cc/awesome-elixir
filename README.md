@@ -66,6 +66,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
+* [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) - Apache httpasswd file reader/writer in Elixir.
 
 ## Build Tools
 *Project build and automation tools.*
