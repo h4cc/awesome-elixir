@@ -231,6 +231,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with event and task queues.*
 
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
+* [heapq](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
 
 ## Release Management
 *Libraries and tools for release management.*
