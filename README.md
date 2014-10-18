@@ -204,6 +204,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
 * [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+* [stmd](https://github.com/asaaki/stmd.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
