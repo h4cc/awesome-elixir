@@ -58,7 +58,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
+
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 
