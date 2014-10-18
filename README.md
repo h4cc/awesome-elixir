@@ -329,6 +329,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dpd_client](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
+* [ex_statsd](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
