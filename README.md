@@ -7,7 +7,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Authentication](#authentication)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
+    - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
     - [Code Analysis](#code-analysis)
+    - [Command Line Applications](#command-line-applications)
     - [Configuration](#configuration)
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
@@ -61,6 +63,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string matching algorithm implementations.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ## Authentication
@@ -84,6 +87,14 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
+## Cloud Infrastructure and Management
+*Applications, tools and libraries for your own cloud service.*
+
+* [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
+* [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+* [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
+* [sidetask](https://github.com/MSch/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
@@ -91,6 +102,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir using eprof.
+
+## Command Line Applications
+*Anything helpfull for building CLI applications.*
+
+* [anubis](https://github.com/bennyhallett/anubis) - Command Line application framework for Elixir.
 
 ## Configuration
 *Libraries and tools working with configurations*
@@ -110,6 +126,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with dates and times.*
 
 * [chronos](https://github.com/nurugger07/chronos) - An elixir date/time library.
+* [kalends](https://github.com/lau/kalends) - Kalends is a datetime library in pure Elixir with up-to-date timezone support using the Olson database. .
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
@@ -129,8 +146,13 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Framework Components
 *Standalone component from web development frameworks.*
 
+* [cors_plug](https://github.com/mschae/cors_plug) - An elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS) .
+* [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+* [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
+* [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+* [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## Frameworks
@@ -165,6 +187,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with and manipulating images.*
 
 * [exexif](https://github.com/pragdave/exexif) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ## JSON
 *Libraries and implementations working with JSON.*
@@ -181,11 +204,15 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
 * [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+* [stmd](https://github.com/asaaki/stmd.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
+* [address_us](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts. .
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
+* [charm](https://github.com/tomgco/elixir-charm) - Use ansi terminal characters to write colors and cursor positions.
+* [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load erlang modules from string input.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
@@ -203,6 +230,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+* [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
@@ -216,6 +244,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
+* [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
 
@@ -290,6 +319,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+* [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -299,11 +329,13 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dpd_client](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
+* [ex_statsd](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
+* [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client .
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
