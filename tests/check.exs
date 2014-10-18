@@ -71,11 +71,32 @@ defmodule Awesome do
         for list <- headings, do: check_string_list_in_order(list)
         debug "Ensure Headings are equal to the once in the tableOfContent."
         [^categories, ^resources] = headings;
+
+        debug "Ensure entries are in alphabetic order."
+        for block <- blocksList do
+            sorted_entries block
+        end
 	end
 
 	def parse_markdown_link(string) do
         [^string, title, link] = Regex.run ~r/\[(.+)\]\((.+)\)/, string
         {title, link}
+	end
+
+	#-----
+
+    def sorted_entries(%Earmark.Block.List{blocks: entriesList}) do
+        # Filter down to single lines
+        entries = Enum.map(entriesList, fn %Earmark.Block.ListItem{blocks: [ %Earmark.Block.Para{lines: [ line ]} ]} -> line end)
+        names = Enum.map(entries, fn line ->
+            [^line, name | _rest] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
+            name
+        end)
+        check_string_list_in_order(names)
+    end
+
+	def sorted_entries(_) do
+
 	end
 
 	#-----
