@@ -139,6 +139,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
 * [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+* [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## Frameworks
