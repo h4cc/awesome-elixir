@@ -58,7 +58,10 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
+
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
+* [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 
 ## Authentication
@@ -73,6 +76,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+* [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
+* [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for elixir projects.
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 
 ## Caching
@@ -182,11 +187,13 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
+* [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
@@ -236,6 +243,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
 * [heapq](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
+* [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 
 ## Release Management
 *Libraries and tools for release management.*
@@ -280,6 +288,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
+* [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
@@ -295,6 +304,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+* [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
+* [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
