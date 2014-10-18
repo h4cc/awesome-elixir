@@ -313,6 +313,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+* [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
