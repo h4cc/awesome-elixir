@@ -62,6 +62,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string matching algorithm implementations.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ## Authentication
