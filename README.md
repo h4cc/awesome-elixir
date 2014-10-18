@@ -188,6 +188,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
