@@ -138,6 +138,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
+* [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## Frameworks
