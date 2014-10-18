@@ -197,6 +197,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
+* [address_us](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts. .
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
 * [charm](https://github.com/tomgco/elixir-charm) - Use ansi terminal characters to write colors and cursor positions.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
