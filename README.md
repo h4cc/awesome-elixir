@@ -281,6 +281,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
+* [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
