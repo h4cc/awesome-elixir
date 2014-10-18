@@ -42,6 +42,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [XML](#xml)
 - [Resources](#resources)
     - [Books](#books)
+    - [Editors](#editors)
     - [Other Awesome Lists](#other-awesome-lists)
     - [Reading](#reading)
     - [Screencasts](#screencasts)
@@ -312,6 +313,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+* [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
@@ -333,9 +335,10 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+* [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-* [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client .
+* [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
@@ -371,6 +374,12 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013).
+
+## Editors
+*Editors and IDEs useable for Elixir/Erlang*
+
+* [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
+* [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
 ## Other Awesome Lists
 *Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).*
