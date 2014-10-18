@@ -198,6 +198,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
+* [charm](https://github.com/tomgco/elixir-charm) - Use ansi terminal characters to write colors and cursor positions.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
