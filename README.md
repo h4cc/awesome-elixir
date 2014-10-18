@@ -144,6 +144,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Framework Components
 *Standalone component from web development frameworks.*
 
+* [cors_plug](https://github.com/mschae/cors_plug) - An elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS) .
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
