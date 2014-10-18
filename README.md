@@ -42,6 +42,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [XML](#xml)
 - [Resources](#resources)
     - [Books](#books)
+    - [Editors](#editors)
     - [Other Awesome Lists](#other-awesome-lists)
     - [Reading](#reading)
     - [Screencasts](#screencasts)
@@ -373,6 +374,12 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013).
+
+## Editors
+*Editors and IDEs useable for Elixir/Erlang*
+
+* [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
+* [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
 ## Other Awesome Lists
 *Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).*
