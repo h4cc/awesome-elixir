@@ -9,6 +9,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Caching](#caching)
     - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
     - [Code Analysis](#code-analysis)
+    - [Command Line Applications](#command-line-applications)
     - [Configuration](#configuration)
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
@@ -98,6 +99,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir using eprof.
+
+## Command Line Applications
+*Anything helpfull for building CLI applications.*
+
+* [anubis](https://github.com/bennyhallett/anubis) - Command Line application framework for Elixir.
 
 ## Configuration
 *Libraries and tools working with configurations*
