@@ -7,6 +7,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Authentication](#authentication)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
+    - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
     - [Code Analysis](#code-analysis)
     - [Configuration](#configuration)
     - [CSV](#csv)
@@ -83,6 +84,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for caching data.*
 
 * [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+
+## Cloud Infrastructure and Management
+*Applications, tools and libraries for your own cloud service.*
+
+* [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
