@@ -225,6 +225,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
+* [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
 
