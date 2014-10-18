@@ -312,6 +312,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+* [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
