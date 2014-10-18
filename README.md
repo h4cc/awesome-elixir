@@ -92,6 +92,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+* [sidetask](https://github.com/MSch/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
