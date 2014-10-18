@@ -127,7 +127,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with dates and times.*
 
 * [chronos](https://github.com/nurugger07/chronos) - An elixir date/time library.
-* [kalends](https://github.com/lau/kalends) - Kalends is a datetime library in pure Elixir with up-to-date timezone support using the Olson database. .
+* [kalends](https://github.com/lau/kalends) - Kalends is a datetime library in pure Elixir with up-to-date timezone support using the Olson database.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
@@ -210,7 +210,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [address_us](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts. .
+* [address_us](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
 * [charm](https://github.com/tomgco/elixir-charm) - Use ansi terminal characters to write colors and cursor positions.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load erlang modules from string input.
