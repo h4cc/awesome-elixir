@@ -57,28 +57,27 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations of algorithms and datastructures.*
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
-* [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
-
-* [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
-* [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
-* [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+* [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
+* [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
+* [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
 
-* [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
 * [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) - Apache httpasswd file reader/writer in Elixir.
+* [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ## Build Tools
 *Project build and automation tools.*
 
-* [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
-* [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
-* [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
-* [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for elixir projects.
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+* [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
+* [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
+* [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+* [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for elixir projects.
 
 ## Caching
 *Libraries for caching data.*
@@ -89,16 +88,16 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
+* [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir using eprof.
-* [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 ## Configuration
 *Libraries and tools working with configurations*
 
-* [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
+* [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 
 ## CSV
 *Libraries and implementations working with CSV.*
@@ -111,15 +110,15 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with dates and times.*
 
 * [chronos](https://github.com/nurugger07/chronos) - An elixir date/time library.
+* [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
-* [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
-* [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
+* [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
 ## Files and Directories
 *Libraries and implementations for working with files and directories.*
@@ -188,10 +187,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
-* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+* [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
-* [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
@@ -215,11 +213,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
+* [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
-* [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 
 ## OTP
 *Libraries for working with OTP related things.*
@@ -235,8 +233,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Protocols
 *Special protocol and format libraries.*
 
-* [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
+* [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 
 ## Queue
 *Libraries for working with event and task queues.*
@@ -266,8 +264,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Statistics
 *Libraries around the topic statistics.*
 
-* [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
+* [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -286,12 +284,12 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
+* [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
-* [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -300,14 +298,14 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [dpd_client](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
+* [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
-* [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-* [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
+* [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
@@ -324,9 +322,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## XML
 *Libraries and implementations working with XML.*
 
+* [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
-* [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
@@ -334,13 +332,13 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Books
 *Fantastic books and e-books.*
 
-* [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
+* [Elixir for the functional Rubyist](http://elixir-for-rubyists.com/) - Not yet released. By Johnny Winn.
 * [Elixir in Action](http://www.manning.com/juric/) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2014).
+* [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
+* [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
+* [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013).
-* [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
-* [Elixir for the functional Rubyist](http://elixir-for-rubyists.com/) - Not yet released. By Johnny Winn.
-* [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
 
 ## Other Awesome Lists
 *Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists).*
@@ -362,8 +360,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
-* [How i start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
+* [How i start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.

@@ -10,5 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 * End all descriptions with a full stop/period.
 * Check your spelling and grammar.
 * New categories, or improvements to the existing categorisation are welcome.
+* Category names have to be alphabetically sorted from a-z.
+* Entry names inside Categories have to be alphabetically sorted from a-z.
 
 Thank you for your suggestions!
