@@ -136,7 +136,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Framework Components
 *Standalone component from web development frameworks.*
 
-* [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications..
+* [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
@@ -176,7 +176,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with and manipulating images.*
 
 * [exexif](https://github.com/pragdave/exexif) - Pure elixir library to extract tiff and exif metadata from jpeg files.
-* [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line..
+* [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ## JSON
 *Libraries and implementations working with JSON.*
