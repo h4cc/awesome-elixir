@@ -91,6 +91,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Applications, tools and libraries for your own cloud service.*
 
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
+* [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
