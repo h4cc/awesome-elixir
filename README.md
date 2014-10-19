@@ -60,6 +60,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations of algorithms and datastructures.*
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+* [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with datastructures.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash ring implemention for Elixir.
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
@@ -197,8 +198,10 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 * [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
+* [json](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+* [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
@@ -216,7 +219,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load erlang modules from string input.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-* [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
+* [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
@@ -239,6 +242,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
+* [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
@@ -248,6 +252,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
+* [tirexs](https://github.com/roundscope/tirexs) - An Elixir based DSL for managing the ElasticSearch related stuff.
 
 ## OTP
 *Libraries for working with OTP related things.*
@@ -304,6 +309,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [faker](https://github.com/igas/faker) - Faker is pure Elixir library for generating fake data.
 * [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
+* [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
@@ -341,6 +347,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
+* [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation compatible with Pusher libraries.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
@@ -373,7 +380,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
 * [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
-* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013).
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Editors
 *Editors and IDEs useable for Elixir/Erlang*
@@ -403,6 +410,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [How i start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
+* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/CONTRIBUTING.md) for details.
