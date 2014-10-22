@@ -114,6 +114,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools working with configurations*
 
 * [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+* [dotenv](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 
