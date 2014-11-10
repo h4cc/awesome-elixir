@@ -196,9 +196,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations working with JSON.*
 
 * [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
+* [exjsx](https://github.com/talentdeficit/exjsx) - json for elixir.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-* [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
 * [json](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
@@ -207,9 +207,9 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
 
+* [cmark](https://github.com/asaaki/cmark.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
 * [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
-* [stmd](https://github.com/asaaki/stmd.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
