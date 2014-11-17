@@ -152,6 +152,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations for working with files and directories.*
 
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+* [exfswatch](https://github.com/falood/exfswatch) - Elixir version of fswatch base on [fswatch](https://github.com/emcrisostomo/fswatch).
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir inspired by Python's Enhpath
 
 ## Framework Components
