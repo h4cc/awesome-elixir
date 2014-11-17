@@ -4,6 +4,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 - [Awesome Elixir](#awesome-elixir)
     - [Actors](#actors)
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
+    - [Applications](#applications)
     - [Authentication](#authentication)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
@@ -67,6 +68,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string matching algorithm implementations.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
+
+## Applications
+*Standalone applications.*
+
+* [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation compatible with Pusher libraries.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
@@ -349,7 +355,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
-* [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation compatible with Pusher libraries.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
