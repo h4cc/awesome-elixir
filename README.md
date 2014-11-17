@@ -353,6 +353,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced Api Client for Elixir.
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
+* [dogstatsd](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 * [dpd_client](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
