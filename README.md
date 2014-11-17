@@ -259,6 +259,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
+* [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
@@ -346,6 +347,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
+* [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
