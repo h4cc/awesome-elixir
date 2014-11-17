@@ -196,6 +196,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for working with and manipulating images.*
 
 * [exexif](https://github.com/pragdave/exexif) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ## JSON
