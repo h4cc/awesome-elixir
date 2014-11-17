@@ -68,6 +68,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string matching algorithm implementations.
+* [tinymt](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ## Applications
