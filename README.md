@@ -359,6 +359,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [elixilorem](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
+* [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
