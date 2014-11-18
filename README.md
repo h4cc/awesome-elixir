@@ -360,6 +360,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
+* [tomlex](https://github.com/zamith/tomlex) - A TOML parser for elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
