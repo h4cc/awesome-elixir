@@ -392,6 +392,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
+* [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*
