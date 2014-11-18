@@ -15,6 +15,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
+    - [Documentation](#documentation)
     - [Files and Directories](#files-and-directories)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
@@ -149,6 +150,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
+## Documentation
+*Libraries and tools for creating documentation.*
+
+* [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
+
 ## Files and Directories
 *Libraries and implementations for working with files and directories.*
 
@@ -207,6 +213,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations working with JSON.*
 
 * [exjson](https://github.com/guedes/exjson) - JSON parser and genarator in Elixir.
+* [exjsx](https://github.com/talentdeficit/exjsx) - JSON for Elixir based on `jsx`.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 * [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
