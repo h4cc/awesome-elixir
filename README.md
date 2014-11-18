@@ -340,6 +340,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [faker](https://github.com/igas/faker) - Faker is pure Elixir library for generating fake data.
 * [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
+* [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ## Text and Numbers
