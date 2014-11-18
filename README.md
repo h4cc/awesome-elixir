@@ -228,6 +228,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
 
+* [cmark](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
 * [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 * [stmd](https://github.com/asaaki/stmd.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
