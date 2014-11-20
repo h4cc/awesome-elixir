@@ -261,6 +261,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
+* [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
