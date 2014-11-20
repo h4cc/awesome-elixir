@@ -309,6 +309,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Protocols
 *Special protocol and format libraries.*
 
+* [elixir_radius](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir made easy.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 
