@@ -173,7 +173,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Standalone component from web development frameworks.*
 
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
-* [cors_plug](https://github.com/mschae/cors_plug) - An elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS) .
+* [cors_plug](https://github.com/mschae/cors_plug) - An elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
@@ -412,7 +412,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
-* [pathway](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API..
+* [pathway](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
