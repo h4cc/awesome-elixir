@@ -24,6 +24,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [HTTP](#http)
     - [Images](#images)
     - [JSON](#json)
+    - [Logging](#logging)
     - [Markdown](#markdown)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
@@ -225,6 +226,12 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
+
+## Logging
+*Logging infos and messages.*
+
+* [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+
 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
