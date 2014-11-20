@@ -364,6 +364,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 * [mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
+* [ponos](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [shouldi](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ## Text and Numbers
