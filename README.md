@@ -236,7 +236,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
-
 ## Markdown
 *Libraries and tools working with Markdown and such.*
 
@@ -329,6 +328,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
+* [changex](https://github.com/Gazler/changex) - Automated changelog generation from git logs.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a rpm for your elixir release with ease.
 
