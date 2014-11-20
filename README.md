@@ -204,6 +204,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
+* [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 
 ## Images
 *Libraries for working with and manipulating images.*
