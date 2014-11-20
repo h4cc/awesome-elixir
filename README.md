@@ -376,6 +376,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
+* [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
