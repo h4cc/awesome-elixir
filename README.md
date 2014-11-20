@@ -402,6 +402,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+* [forcex](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](http://instrumentalapp.com/).
