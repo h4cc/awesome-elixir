@@ -1,6 +1,8 @@
 
 # This script will check if the readme markdown file contains valid formatting.
 
+require Logger
+
 defmodule Awesome.Order do
     def check_string_list_in_order([first, second | tail]) do
         case String.downcase(first) < String.downcase(second) do
@@ -18,6 +20,7 @@ defmodule Awesome.Order do
     end
 end
 
+
 defmodule Awesome do
 
     import Awesome.Order
@@ -28,6 +31,10 @@ defmodule Awesome do
 
 	# Entry point
 	def test_file(file) do
+
+	    http = Http.start(20)
+
+
 		lines = File.read!(file)
 		debug "Using Earmark to parse to data structure we can work with."
 		{ blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
@@ -75,6 +82,19 @@ defmodule Awesome do
         debug "Ensure entries are in alphabetic order."
         for block <- blocksList do
             sorted_entries block
+        end
+
+        debug "Waiting for all the HTTP requests to finish ..."
+        responses = Task.await(http, 100000)
+        notOk = responses |> Enum.filter(fn({statuscode, _url}) -> not (statuscode in [200, 301, 302]) end)
+
+        case notOk do
+            [] ->
+                debug "No invalid links found"
+            invalidLinks ->
+                debug "INVALID links found:"
+                IO.inspect invalidLinks
+                exit({:shutdown, 1})
         end
 	end
 
@@ -158,15 +178,19 @@ defmodule Awesome do
 	def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
 		[^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
 		IO.puts "\t'#{name}' #{link} '#{description}'"
-		#request_http_url(link)
+		request_http_url(link)
 	end
 
 	def request_http_url(url) do
-	    IO.puts "Testing URL #{url}...\n"
-        case HTTPoison.get(url) do
-          response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
-          response -> throw "HTTP Request failed #{inspect response}"
-        end
+	    #IO.inspect is_binary  url
+	    #IO.inspect url
+	    send(:http, {:get, url})
+		#Awesome.Http.request(42, url)
+	    #IO.puts "Testing URL #{url}...\n"
+        #case HTTPoison.get(url) do
+        #  response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
+        #  response -> throw "HTTP Request failed #{inspect response}"
+        #end
 	end
 end
 

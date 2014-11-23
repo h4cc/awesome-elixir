@@ -9,15 +9,13 @@ defmodule MyProject.Mixfile do
   end
 
   def application do
-    [applications: [:httpoison, :httpotion]]
+    [applications: [:logger, :httpoison]]
   end
 
   defp deps do
     [
         {:earmark, "~> 0.1.10"},
-        {:httpoison, "~> 0.4"},
-        {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.0"},
-        {:httpotion, "~> 0.2.0"},
+        {:httpoison, "~> 0.4"}
     ]
   end
 end

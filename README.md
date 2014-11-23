@@ -225,7 +225,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exjsx](https://github.com/talentdeficit/exjsx) - JSON for Elixir based on `jsx`.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-* [jsex](https://github.com/talentdeficit/jsex) - json for elixir.
+* [jsex](https://github.com/talentdeficit/exjsx) - json for elixir.
 * [json](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 * [jsx](https://github.com/talentdeficit/jsx) - an erlang application for consuming, producing and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
@@ -242,7 +242,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [cmark](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 * [discount](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
 * [earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
-* [stmd](https://github.com/asaaki/stmd.ex) - Elixir NIF for stmd (C implementation), a CommonMark parser.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
@@ -257,7 +256,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another elixir reloader.
-* [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
@@ -291,7 +290,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
-* [ssdb_elixir](https://github.com/lidashuang/ssdb_elixir) - ssdb client for Elixir with focus on performance.
+* [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir with focus on performance.
 * [tirexs](https://github.com/roundscope/tirexs) - An Elixir based DSL for managing the ElasticSearch related stuff.
 
 ## OTP
@@ -385,7 +384,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [pinyin](https://github.com/lidashuang/pinyin) - chinese pinyin lib for elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-* [saltie](https://github.com/alco/saltie) - Saltie is a pseudo-encryption library primarily used for obfuscating numerical identifiers to opaque strings.
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
@@ -445,7 +443,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir in Action](http://www.manning.com/juric/) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2014).
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
-* [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
+* [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 * [The Little Elixir & OTP Guidebook](http://www.exotpbook.com/) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
@@ -470,7 +468,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Screencasts
 *Cool video tutorials.*
 
-* [Elixir Sips](http://elixirsips.com) - Tiny screencasts for learning Elixir.
+* [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 
 ## Websites
 *Useful web and Elixir-related websites and newsletters.*

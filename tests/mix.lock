@@ -2,5 +2,5 @@
   "hackney": {:hex, :hackney, "0.13.1"},
   "httpoison": {:hex, :httpoison, "0.4.2"},
   "httpotion": {:hex, :httpotion, "0.2.4"},
-  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "7871e2ebe8811efb64e1917e2de455fa87e8dfe3", [tag: "v4.1.0"]},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
   "idna": {:hex, :idna, "1.0.1"}}

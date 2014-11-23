@@ -19,4 +19,4 @@ before_install:
     - mix deps.get
 
 script:
-    - mix run check.exs
+    - mix run -r http.exs check.exs
