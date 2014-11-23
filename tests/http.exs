@@ -1,56 +1,103 @@
 
-
 defmodule HttpParallel do
-    defstruct max: 1, current: 0, requests: %{}
+    defstruct max: 3, current: 0, requests: %{}, queue: []
+
+    # Internal datastrcture for a single request
+    defmodule Request do
+        defstruct method: '',  url: '', statuscode: 0
+    end
 
 	def start(max_parallel) do
-		receive_urls(%HttpParallel{max: max_parallel})
+		handle(%HttpParallel{max: max_parallel})
 	end
 
-	defp receive_urls(state) do
-	    IO.inspect state
+	defp handle(state) do
 		receive do
+		    # New urls to fetch
 		    {:get, url} ->
-		        IO.puts "Starting GET " <> url
-		        request_get(url, state)
-		    %HTTPoison.AsyncStatus{code: status, id: ref} ->
-		        handle_response(state, ref, status)
+		        state = request_get(url, state)
+		    # Process internal messages from HTTPoison
 			message ->
-			    IO.puts "Unexpected Message:"
-				IO.inspect message
+				state = handle_async(state, message)
 		end
-		receive_urls(state);
+		if 0 < state.current do
+		    # Wait for more URLs to fetch or answers from HTTPoison
+		    handle(state);
+		else
+		    # Return all processed requests as list of tuples
+		    state.requests |> Enum.map(fn({_key, request}) -> {request.statuscode, request.url} end)
+		end
 	end
 
-	defp handle_response(state, ref, status) do
-        request = state.requests.ref
+    # Set the status code in request
+	defp handle_async(state, %HTTPoison.AsyncStatus{id: ref, code: status}) do
+	    request = Dict.get(state.requests, ref)
+        state = %{state | current: state.current-1, requests: Dict.put(state.requests, ref, %Request{request | statuscode: status})}
+        case state.queue do
+            # Starting new requests from queue.
+            [url | urls] -> request_get(url, %{state | queue: urls})
+            # Proceed as usual.
+            []  -> state
+        end
+	end
 
+    # Mark request as ended
+	#defp handle_async(state, %HTTPoison.AsyncEnd{id: ref}) do
+	#    state = %{state | requests: Dict.put(state.requests, ref, %Request{Dict.get(state.requests, ref) | done: true}), current: state.current-1}
+    #    IO.puts "ENDED"
+    #    IO.inspect ref
+	#    case state.queue do
+	#        # Starting new requests from queue.
+	#        [url | urls] -> request_get(url, %{state | queue: urls})
+	#        # Proceed as usual.
+	#        []  -> state
+	#    end
+	#end
+
+    # Unhandled message
+	defp handle_async(state, _msg) do
+        #IO.puts "UNHANDLED"
+        #IO.inspect _msg
+        #IO.inspect state.requests |> Enum.filter(fn({_key, req}) -> req.statuscode == 0 end)
+	    state
+	end
+
+	defp request_get(url, %HttpParallel{queue: queue, max: max, current: current} = state) when current >= max do
+	    # Add to queue if max reached
+        #IO.puts "QUEUED"
+        #IO.inspect url
+	    %{state | queue: queue ++ [url]}
 	end
 
 	defp request_get(url, state) do
+	    # Start request
 	    %HTTPoison.AsyncResponse{id: ref} = HTTPoison.get url, %{}, stream_to: self
-	    #IO.inspect ref
-	    #state = %{state | requests: %{state.requests | ref: %{method: :get, url: url}}}
-	    #state.requests = %{state.requests | ref: %{method: :get, url: url}}
-	    requests = Map.put(state.requests, ref, %{method: :get, url: url})
-	    state = %{state | current: state.current+1, requests: requests}
-	    receive_urls(state);
+        #IO.puts "STARTED"
+        #IO.inspect url
+	    %{state | current: state.current+1, requests: Dict.put(state.requests, ref, %Request{method: :get, url: url})}
 	end
 end
 
 
 defmodule Http do
-    def main() do
-        %Task{pid: http_pid} = http_task =  Task.async(HttpParallel, :start, [3])
-
+    def start(parallel \\ 3) do
+        %Task{pid: http_pid} = http_task =  Task.async(HttpParallel, :start, [parallel])
         Process.register(http_pid, :http)
-        #IO.inspect Process.info http_pid
 
-        send :http, {:get, "http://juliusbeckmann.de/"}
-        send :http, {:get, "http://juliusbeckmann.de/foo.html"}
+        http_task
 
-        Task.await(http_task, :infinity)
+        #for n <- 1..100 do
+        #    send(:http, {:get, "http://juliusbeckmann.de/?id=" <> Integer.to_string(n)})
+        #end
+
+        #IO.inspect Task.await(http_task, :infinity)
     end
 end
 
-Http.main();
+#task = Http.start();
+
+#for n <- 1..100 do
+#    send(:http, {:get, "http://juliusbeckmann.de/?id=" <> Integer.to_string(n)})
+#end
+
+#IO.inspect Task.await(task, :infinity)

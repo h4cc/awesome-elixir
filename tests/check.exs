@@ -21,42 +21,6 @@ defmodule Awesome.Order do
 end
 
 
-defmodule Awesome.Http do
-  def request(id, url) do
-    try do
-      HTTPoison.get(url) |> handle_response(id)
-    rescue
-      error in HTTPoison.HTTPError ->
-        Logger.info "#{id}: error (#{inspect error.message})"
-    end
-  end
-
-  defp handle_response(%HTTPoison.Response{status_code: 200}, id) do
-    Logger.info "#{id}: success"
-  end
-
-  defp handle_response(%HTTPoison.Response{status_code: status_code}, id) do
-    Logger.info "#{id}: error (#{status_code})"
-  end
-end
-
-defmodule Awesome.Urls do
-	def start do
-		Process.register(self, Awesome)
-		receive_urls()
-	end
-	
-	defp receive_urls() do
-		receive do
-			message ->
-				IO.inspect message
-				receive_urls
-		end
-	end
-end
-
-
-
 defmodule Awesome do
 
     import Awesome.Order
@@ -67,16 +31,10 @@ defmodule Awesome do
 
 	# Entry point
 	def test_file(file) do
-	
-	
-		  urls_task = Task.async(Awesome.Urls, :start, [])
-		  
-		  send(Awesome, {self(), :run_permission})
-		  #send Awesome.Urls, {:finished, 42}
 
-		  Task.await(urls_task, :infinity)
-		  
-	
+	    http = Http.start(20)
+
+
 		lines = File.read!(file)
 		debug "Using Earmark to parse to data structure we can work with."
 		{ blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
@@ -124,6 +82,18 @@ defmodule Awesome do
         debug "Ensure entries are in alphabetic order."
         for block <- blocksList do
             sorted_entries block
+        end
+
+        debug "Waiting for all the HTTP requests to finish ..."
+        responses = Task.await(http, :infinity)
+        not200 = responses |> Enum.filter(fn({statuscode, _url}) -> 200 != statuscode end)
+
+        case not200 do
+            [] ->
+                debug "No invalid links found"
+            invalidLinks ->
+                debug "INVALID links found:"
+                IO.inspect invalidLinks
         end
 	end
 
@@ -211,7 +181,10 @@ defmodule Awesome do
 	end
 
 	def request_http_url(url) do
-		Awesome.Http.request(42, url)
+	    #IO.inspect is_binary  url
+	    #IO.inspect url
+	    send(:http, {:get, url})
+		#Awesome.Http.request(42, url)
 	    #IO.puts "Testing URL #{url}...\n"
         #case HTTPoison.get(url) do
         #  response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
