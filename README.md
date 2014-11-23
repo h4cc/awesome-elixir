@@ -25,6 +25,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Images](#images)
     - [JSON](#json)
     - [Logging](#logging)
+    - [Macros](#macros)
     - [Markdown](#markdown)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
@@ -154,6 +155,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
@@ -235,6 +237,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Logging infos and messages.*
 
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+
+## Macros
+*Macros for faster and easier development. Sugar for your code.*
+
+* [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
