@@ -86,9 +86,9 @@ defmodule Awesome do
 
         debug "Waiting for all the HTTP requests to finish ..."
         responses = Task.await(http, 100000)
-        not200 = responses |> Enum.filter(fn({statuscode, _url}) -> 200 != statuscode end)
+        notOk = responses |> Enum.filter(fn({statuscode, _url}) -> not (statuscode in [200, 301, 302]) end)
 
-        case not200 do
+        case notOk do
             [] ->
                 debug "No invalid links found"
             invalidLinks ->
