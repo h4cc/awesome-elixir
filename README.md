@@ -468,7 +468,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Screencasts
 *Cool video tutorials.*
 
-* [Elixir Sips](http://elixirsips.com) - Tiny screencasts for learning Elixir.
+* [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 
 ## Websites
 *Useful web and Elixir-related websites and newsletters.*

@@ -85,7 +85,7 @@ defmodule Awesome do
         end
 
         debug "Waiting for all the HTTP requests to finish ..."
-        responses = Task.await(http, :infinity)
+        responses = Task.await(http, 100000)
         not200 = responses |> Enum.filter(fn({statuscode, _url}) -> 200 != statuscode end)
 
         case not200 do
@@ -94,6 +94,7 @@ defmodule Awesome do
             invalidLinks ->
                 debug "INVALID links found:"
                 IO.inspect invalidLinks
+                exit({:shutdown, 1})
         end
 	end
 
