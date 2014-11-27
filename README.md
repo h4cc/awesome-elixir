@@ -380,6 +380,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for testing codebases and generating test data.*
 
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
+* [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
