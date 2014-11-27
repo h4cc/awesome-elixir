@@ -394,6 +394,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [elixilorem](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
+* [erldn](https://github.com/marianoguerra/erldn) - EDN format parser for the erlang platform.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
