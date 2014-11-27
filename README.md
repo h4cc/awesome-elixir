@@ -158,7 +158,8 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
-* [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang .
+* [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+* [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools .
 
 ## Documentation
 *Libraries and tools for creating documentation.*
