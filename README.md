@@ -16,6 +16,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Documentation](#documentation)
+    - [Email](#email)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
     - [Framework Components](#framework-components)
@@ -167,6 +168,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools for creating documentation.*
 
 * [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
+
+## Email
+*Working with Email and stuff.*
+
+* [mailibex](https://github.com/awetzel/mailibex) - Library containing Email related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
 
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
