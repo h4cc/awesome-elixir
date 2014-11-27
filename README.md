@@ -16,6 +16,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Documentation](#documentation)
+    - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
@@ -165,6 +166,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools for creating documentation.*
 
 * [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
+
+## Feeds
+*Libraries working with feeds like RSS or ATOM.*
+
+* [feeder](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds.
 
 ## Files and Directories
 *Libraries and implementations for working with files and directories.*
