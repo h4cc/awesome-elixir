@@ -265,6 +265,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exsync](https://github.com/falood/exsync) - Yet another elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
+* [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs .
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
