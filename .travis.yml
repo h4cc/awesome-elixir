@@ -1,7 +1,7 @@
 language: erlang
 
 otp_release:
-    - 17.3
+    - 17.1
 
 before_install:
     - wget http://s3.hex.pm/builds/elixir/v1.0.2.zip
