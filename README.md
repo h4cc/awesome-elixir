@@ -203,6 +203,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Web development frameworks.*
 
 * [dynamo](https://github.com/dynamo/dynamo) - Dynamo is an experimental web framework that runs on Elixir.
+* [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar sytnax goodies.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
