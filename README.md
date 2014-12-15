@@ -273,6 +273,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
 * [charm](https://github.com/tomgco/elixir-charm) - Use ansi terminal characters to write colors and cursor positions.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load erlang modules from string input.
+* [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.* [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
