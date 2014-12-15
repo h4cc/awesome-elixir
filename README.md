@@ -430,6 +430,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [ex_statsd](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
+* [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
