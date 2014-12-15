@@ -429,6 +429,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dropbox](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [ex_omegle](https://github.com/xtagon/ex_omegle) - A minimal Omegle chat client library for Elixir.
 * [ex_statsd](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
+* [exgenius](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar urls.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for elixir.
 * [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
