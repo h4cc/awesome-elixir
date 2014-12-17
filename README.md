@@ -404,6 +404,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 * [mixunit](https://github.com/talentdeficit/mixunit) - An EUnit task for mix based projects.
 * [mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
+* [plug_test_helpers](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [shouldi](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
