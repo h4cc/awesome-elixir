@@ -3,6 +3,9 @@ language: erlang
 otp_release:
     - 17.1
 
+# Using faster container based build environment.
+sudo: false
+
 before_install:
     - wget http://s3.hex.pm/builds/elixir/v1.0.2.zip
     - unzip -d elixir v1.0.2.zip
