@@ -1,19 +1,14 @@
 language: erlang
 
 otp_release:
-    - 17.0
-   
+    - 17.1
+
 before_install:
-    # Install elixir from apt-get packages
-    #--- Install erlang-solutions key
-    - wget http://packages.erlang-solutions.com/ubuntu/erlang_solutions.asc
-    - sudo apt-key add erlang_solutions.asc
-    #- Fetch erlang-solutions soruce package
-    - wget http://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
-    - sudo dpkg -i erlang-solutions_1.0_all.deb
-    #- Install latest elixir
-    - sudo apt-get update
-    - sudo apt-get -y install elixir
+    - wget http://s3.hex.pm/builds/elixir/v1.0.2.zip
+    - unzip -d elixir v1.0.2.zip
+
+before_script:
+    - export PATH=`pwd`/elixir/bin:$PATH
     - mix local.hex --force
     - cd tests
     - mix deps.get
