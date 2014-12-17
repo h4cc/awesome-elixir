@@ -414,6 +414,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
+* [convertat](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
 * [curtail](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
