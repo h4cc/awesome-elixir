@@ -39,6 +39,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Queue](#queue)
     - [Release Management](#release-management)
     - [REST and API](#rest-and-api)
+    - [Security](#security)
     - [Static Page Generation](#static-page-generation)
     - [Statistics](#statistics)
     - [Testing](#testing)
@@ -364,6 +365,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [lazymaru](https://github.com/falood/lazymaru) - Elixir copy of grape for creating REST-like APIs.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
+
+## Security
+*Libraries and tools regarding security.*
+
+* [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
