@@ -260,6 +260,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Macros
 *Macros for faster and easier development. Sugar for your code.*
 
+* [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 
