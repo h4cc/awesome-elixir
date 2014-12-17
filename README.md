@@ -210,6 +210,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar sytnax goodies.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+* [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [weber](https://github.com/elixir-web/weber) - Web framework for Elixir inspired by Rails.
 
