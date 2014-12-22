@@ -430,7 +430,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
-* [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831.... 
+* [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
@@ -439,6 +439,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for accessing third party APIs.*
 
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced Api Client for Elixir.
+* [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [dogstatsd](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 * [dpd_client](https://github.com/knewter/dpd_client) - An API client for the DPD service.
