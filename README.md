@@ -184,6 +184,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Email
 *Working with Email and stuff.*
 
+* [mailer](https://github.com/antp/mailer) - A simple SMTP mailer.
 * [mailibex](https://github.com/awetzel/mailibex) - Library containing Email related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
 
 ## Feeds
