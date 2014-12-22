@@ -17,4 +17,4 @@ before_script:
     - mix deps.get
 
 script:
-    - mix run -r http.exs check.exs
+    - travis_retry mix run -r http.exs check.exs
