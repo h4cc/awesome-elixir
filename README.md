@@ -432,6 +432,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [erldn](https://github.com/marianoguerra/erldn) - EDN format parser for the erlang platform.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
+* [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
