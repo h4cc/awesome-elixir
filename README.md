@@ -424,6 +424,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
+* [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
 * [calliope](https://github.com/nurugger07/calliope) - An elixir haml parser.
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
