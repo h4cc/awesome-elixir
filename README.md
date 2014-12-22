@@ -168,6 +168,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application step by step.
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+* [eh](https://github.com/Frost/eh) - A tool to lookup Elixir documentation from the command line.
 * [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools .
 
 ## Documentation
