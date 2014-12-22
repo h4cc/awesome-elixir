@@ -62,6 +62,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and tools for working with actors and such.*
 
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
+* [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
