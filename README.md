@@ -475,6 +475,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [mandrillex](https://github.com/slogsdon/mandrillex) - A Mandrill wrapper for Elixir.
+* [mixpanel](https://github.com/michihuber/MixpanelEx) - An Elixir client for the Mixpanel HTTP API.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [pathway](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
