@@ -54,6 +54,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Other Awesome Lists](#other-awesome-lists)
     - [Reading](#reading)
     - [Screencasts](#screencasts)
+    - [Styleguides](#styleguides)
     - [Websites](#websites)
 - [Contributing](#contributing)
 
@@ -530,6 +531,11 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Cool video tutorials.*
 
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
+
+## Styleguides
+*Styleguides for ensuring consistency while coding.*
+
+* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
 ## Websites
 *Useful web and Elixir-related websites and newsletters.*
