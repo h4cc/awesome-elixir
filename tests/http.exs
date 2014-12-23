@@ -71,7 +71,7 @@ defmodule HttpParallel do
 
 	defp request_get(url, state) do
 	    # Start request
-	    %HTTPoison.AsyncResponse{id: ref} = HTTPoison.get url, %{}, stream_to: self
+        %HTTPoison.AsyncResponse{id: ref} = HTTPoison.get! url, %{}, stream_to: self
         #IO.puts "STARTED"
         #IO.inspect url
 	    %{state | current: state.current+1, requests: Dict.put(state.requests, ref, %Request{method: :get, url: url})}

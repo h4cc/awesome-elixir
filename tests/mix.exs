@@ -4,7 +4,7 @@ defmodule MyProject.Mixfile do
   def project do
     [app: :awesome_elixir,
      version: "0.0.1",
-     elixir: "~> 1.0.0",
+     elixir: "~> 1.0.2",
      deps: deps()]
   end
 
@@ -14,8 +14,8 @@ defmodule MyProject.Mixfile do
 
   defp deps do
     [
-        {:earmark, "~> 0.1.10"},
-        {:httpoison, "~> 0.4"}
+        {:earmark, "~> 0.1.12"},
+        {:httpoison, "~> 0.5"}
     ]
   end
 end
