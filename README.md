@@ -176,6 +176,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 * [eh](https://github.com/Frost/eh) - A tool to lookup Elixir documentation from the command line.
 * [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools .
+* [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with ratelimiting and simple macro-based interface.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
