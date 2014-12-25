@@ -335,6 +335,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
+* [mariaex](https://github.com/liveforeverx/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir with focus on performance.
 * [tirexs](https://github.com/roundscope/tirexs) - An Elixir based DSL for managing the ElasticSearch related stuff.
