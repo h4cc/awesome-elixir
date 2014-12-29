@@ -556,6 +556,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Useful web and Elixir-related websites and newsletters.*
 
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
+* [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://http://elixir-cn.com/)
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).
