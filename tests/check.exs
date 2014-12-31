@@ -29,17 +29,17 @@ defmodule Awesome do
         IO.puts "[debug] #{message}"
     end
 
-	# Entry point
-	def test_file(file) do
+    # Entry point
+    def test_file(file) do
 
-	    http = Http.start(20)
+        http = Http.start(20)
 
 
-		lines = File.read!(file)
-		debug "Using Earmark to parse to data structure we can work with."
-		{ blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
+        lines = File.read!(file)
+        debug "Using Earmark to parse to data structure we can work with."
+        { blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
 
-		debug "Ensure that there is a header at first."
+        debug "Ensure that there is a header at first."
         [%Earmark.Block.Heading{} | blocks] = blocks
 
         debug "Ensure that there is a introduction."
@@ -64,17 +64,17 @@ defmodule Awesome do
             {title, _link} = parse_markdown_link(name)
             title
         end
-		#IO.inspect resources
+        #IO.inspect resources
 
-		IO.puts "--------- START"
-		# Parse the main content
-		iterate_content(blocksList)
+        IO.puts "--------- START"
+        # Parse the main content
+        iterate_content(blocksList)
 
         debug "Collect all headings."
-		headings = collect_headings(blocksList, [], [])
-		#IO.inspect headings
+        headings = collect_headings(blocksList, [], [])
+        #IO.inspect headings
 
-		debug "Ensure headings are in alphabetic order."
+        debug "Ensure headings are in alphabetic order."
         for list <- headings, do: check_string_list_in_order(list)
         debug "Ensure Headings are equal to the once in the tableOfContent."
         [^categories, ^resources] = headings;
@@ -96,14 +96,14 @@ defmodule Awesome do
                 IO.inspect invalidLinks
                 exit({:shutdown, 1})
         end
-	end
+    end
 
-	def parse_markdown_link(string) do
+    def parse_markdown_link(string) do
         [^string, title, link] = Regex.run ~r/\[(.+)\]\((.+)\)/, string
         {title, link}
-	end
+    end
 
-	#-----
+    #-----
 
     def sorted_entries(%Earmark.Block.List{blocks: entriesList}) do
         # Filter down to single lines
@@ -115,11 +115,11 @@ defmodule Awesome do
         check_string_list_in_order(names)
     end
 
-	def sorted_entries(_) do
+    def sorted_entries(_) do
 
-	end
+    end
 
-	#-----
+    #-----
 
     def collect_headings([ %Earmark.Block.Heading{content: heading, level: 2} | tail], found_headings, all_headings) do
         collect_headings(tail, found_headings ++ [heading], all_headings)
@@ -144,54 +144,54 @@ defmodule Awesome do
         IO.puts "--------- END"
     end
 
-	# Find a level 2 headline, followed by a paragraph and the list of links.
-	def iterate_content([
-		%Earmark.Block.Heading{content: heading, level: 2},
-		%Earmark.Block.Para{lines: _lines},
-		%Earmark.Block.List{blocks: blocks, type: :ul} | tail]) do
-		IO.puts "-- #{heading}"
-		check_list(blocks)
-		iterate_content(tail)
-	end
-	
-	# Find a level 1 headline followed by a paragraph.
-	def iterate_content([
-		%Earmark.Block.Heading{content: heading, level: 1},
-		%Earmark.Block.Para{lines: _lines} | tail]) do
-		IO.puts "- #{heading}"
-		iterate_content(tail)
-	end
-	
-	# Error handler, when not matching.
-	def iterate_content([ head| tail]) do
-		IO.puts "\n\tERROR: Could not match on:"
-		IO.inspect head
-		iterate_content(tail)
-	end
+    # Find a level 2 headline, followed by a paragraph and the list of links.
+    def iterate_content([
+        %Earmark.Block.Heading{content: heading, level: 2},
+        %Earmark.Block.Para{lines: _lines},
+        %Earmark.Block.List{blocks: blocks, type: :ul} | tail]) do
+        IO.puts "-- #{heading}"
+        check_list(blocks)
+        iterate_content(tail)
+    end
 
-	# Iterate through all 
-	def check_list(list) do
-		for listItem <- list, do: validate_list_item(listItem)
-	end
-	
-	# Validate that the link as listitem is valid formatted.
-	def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
-		[^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
-		IO.puts "\t'#{name}' #{link} '#{description}'"
-		request_http_url(link)
-	end
+    # Find a level 1 headline followed by a paragraph.
+    def iterate_content([
+        %Earmark.Block.Heading{content: heading, level: 1},
+        %Earmark.Block.Para{lines: _lines} | tail]) do
+        IO.puts "- #{heading}"
+        iterate_content(tail)
+    end
 
-	def request_http_url(url) do
-	    #IO.inspect is_binary  url
-	    #IO.inspect url
-	    send(:http, {:get, url})
-		#Awesome.Http.request(42, url)
-	    #IO.puts "Testing URL #{url}...\n"
+    # Error handler, when not matching.
+    def iterate_content([ head| tail]) do
+        IO.puts "\n\tERROR: Could not match on:"
+        IO.inspect head
+        iterate_content(tail)
+    end
+
+    # Iterate through all
+    def check_list(list) do
+        for listItem <- list, do: validate_list_item(listItem)
+    end
+
+    # Validate that the link as listitem is valid formatted.
+    def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
+        [^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
+        IO.puts "\t'#{name}' #{link} '#{description}'"
+        request_http_url(link)
+    end
+
+    def request_http_url(url) do
+        #IO.inspect is_binary  url
+        #IO.inspect url
+        send(:http, {:get, url})
+        #Awesome.Http.request(42, url)
+        #IO.puts "Testing URL #{url}...\n"
         #case HTTPoison.get(url) do
         #  response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
         #  response -> throw "HTTP Request failed #{inspect response}"
         #end
-	end
+    end
 end
 
 Awesome.test_file("../README.md")
