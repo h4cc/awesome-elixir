@@ -317,6 +317,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+* [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
