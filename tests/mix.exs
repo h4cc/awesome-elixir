@@ -19,5 +19,3 @@ defmodule MyProject.Mixfile do
     ]
   end
 end
-
-
