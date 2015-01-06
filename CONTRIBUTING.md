@@ -12,5 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 * New categories, or improvements to the existing categorisation are welcome.
 * Category names have to be alphabetically sorted from a-z.
 * Entry names inside Categories have to be alphabetically sorted from a-z.
+* Use [EditorConfig](http://editorconfig.org) to ensure consistent line-endings, tabs/spaces, etc. or make sure manually that your Editor is configured 'the right way' (see `.editorconfig` for details).
 
 Thank you for your suggestions!
