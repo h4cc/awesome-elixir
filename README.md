@@ -111,6 +111,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Project build and automation tools.*
 
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+* [dismake](https://github.com/jarednorman/dismake) - Mix compiler running make.
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of mix code on file change.
