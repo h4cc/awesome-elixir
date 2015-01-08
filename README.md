@@ -12,6 +12,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Code Analysis](#code-analysis)
     - [Command Line Applications](#command-line-applications)
     - [Configuration](#configuration)
+    - [Cryptography](#cryptography)
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
@@ -149,6 +150,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [dotenv](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
+
+## Cryptography
+*Encrypting and decrypting data*
+
+* [rsa](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 
 ## CSV
 *Libraries and implementations working with CSV.*
