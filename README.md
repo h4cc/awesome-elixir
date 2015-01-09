@@ -474,6 +474,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding swiss army knife for Elixir/Erlang.
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+* [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
