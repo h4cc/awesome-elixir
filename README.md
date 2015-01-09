@@ -487,6 +487,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
+* [amazon_product_advertising_client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced Api Client for Elixir.
 * [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
