@@ -222,6 +222,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [plug_auth](https://github.com/briksoftware/plug_auth) - Collection of authentication-related plugs.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
 * [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+* [plug_rails_cookie_session_store](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
