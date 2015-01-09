@@ -332,6 +332,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
+* [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
