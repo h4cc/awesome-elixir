@@ -339,6 +339,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
+* [url_unroller](https://github.com/semanticart/url_unroller) - Simple url unroller (un-shortener) in elixir.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
