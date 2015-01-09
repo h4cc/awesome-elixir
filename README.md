@@ -95,6 +95,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Applications
 *Standalone applications.*
 
+* [hyperledger](https://github.com/hyperledger/hyperledger-server) - Reference server for the Hyperledger protocol.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation compatible with Pusher libraries.
 
 ## Authentication
