@@ -235,6 +235,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [plug_rails_cookie_session_store](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
+* [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
