@@ -44,6 +44,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Security](#security)
     - [Static Page Generation](#static-page-generation)
     - [Statistics](#statistics)
+    - [Templating](#templating)
     - [Testing](#testing)
     - [Text and Numbers](#text-and-numbers)
     - [Third Party APIs](#third-party-apis)
@@ -425,6 +426,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+
+## Templating
+*Libraries parsing and helping with templates*
+
+* [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
