@@ -157,6 +157,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Encrypting and decrypting data*
 
 * [rsa](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
+* [tea_crypto](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
 
 ## CSV
 *Libraries and implementations working with CSV.*
