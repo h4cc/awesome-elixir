@@ -357,6 +357,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
+* [craterl](https://github.com/crate/craterl) - Erlang client for crate.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
