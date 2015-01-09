@@ -472,6 +472,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for accessing third party APIs.*
 
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced Api Client for Elixir.
+* [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [dogstatsd](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
