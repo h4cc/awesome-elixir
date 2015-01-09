@@ -6,6 +6,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
     - [Algorithms and Datastructures](#algorithms-and-datastructures)
     - [Applications](#applications)
     - [Authentication](#authentication)
+    - [Bittorrent](#bittorrent)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
     - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
@@ -106,6 +107,12 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [oauth2ex](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 * [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 * [xoauth2](https://github.com/craigp/elixir_xoauth2) - A simple XOAuth2 module for Elixir.
+
+## Bittorrent
+*Sharing is caring with Elixir*
+
+* [tracker_request](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
+* [wire](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with elixir.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -323,7 +330,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
-* [wire](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with elixir.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
