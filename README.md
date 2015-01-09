@@ -450,6 +450,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [katt](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 * [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
+* [mix_eunit](https://github.com/dantswain/mix_eunit) - A mix task to execute eunit tests.
 * [mixunit](https://github.com/talentdeficit/mixunit) - An EUnit task for mix based projects.
 * [mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
 * [pavlov](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
