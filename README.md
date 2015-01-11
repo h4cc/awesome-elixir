@@ -594,6 +594,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Cool video tutorials.*
 
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
+* [Meet Slixir](http://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
