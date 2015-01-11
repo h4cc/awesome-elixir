@@ -224,7 +224,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [cassius](https://github.com/jquadrin/cassius) - Monitor linux file system events.
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [exfswatch](https://github.com/falood/exfswatch) - Elixir version of fswatch base on [fswatch](https://github.com/emcrisostomo/fswatch).
-* [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir inspired by Python's Enhpath
+* [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir inspired by Python's Enhpath.
 
 ## Framework Components
 *Standalone component from web development frameworks.*
@@ -594,7 +594,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Cool video tutorials.*
 
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
-* [Meet Slixir](http://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim
+* [Meet Slixir](http://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
@@ -605,7 +605,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Useful web and Elixir-related websites and newsletters.*
 
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
-* [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://http://elixir-cn.com/)
+* [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://http://elixir-cn.com/).
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).
