@@ -608,7 +608,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
 * [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://http://elixir-cn.com/).
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
-* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many usefull information.
+* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The projects wiki, containing many useful information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [How i start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
