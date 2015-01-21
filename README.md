@@ -470,6 +470,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
+* [base58check](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in elixir.
 * [calliope](https://github.com/nurugger07/calliope) - An elixir haml parser.
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
