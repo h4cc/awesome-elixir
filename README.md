@@ -236,6 +236,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Framework Components
 *Standalone component from web development frameworks.*
 
+* [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [cors_plug](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
