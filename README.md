@@ -242,6 +242,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+* [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 * [plug_auth](https://github.com/briksoftware/plug_auth) - Collection of authentication-related plugs.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
 * [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
