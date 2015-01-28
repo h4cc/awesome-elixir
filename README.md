@@ -355,7 +355,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
 
-## ORMp and Datamapping
+## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
