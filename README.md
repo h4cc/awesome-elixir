@@ -248,13 +248,11 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 ## Frameworks
 *Web development frameworks.*
 
-* [dynamo](https://github.com/dynamo/dynamo) - Dynamo is an experimental web framework that runs on Elixir.
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar sytnax goodies.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
-* [weber](https://github.com/elixir-web/weber) - Web framework for Elixir inspired by Rails.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -357,7 +355,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
 
-## ORM and Datamapping
+## ORMp and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
