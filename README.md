@@ -19,6 +19,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Debugging](#debugging)
     - [Documentation](#documentation)
     - [Email](#email)
+    - [Examples and funny stuff](#examples-and-funny-stuff)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
     - [Framework Components](#framework-components)
@@ -213,6 +214,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [mailer](https://github.com/antp/mailer) - A simple SMTP mailer.
 * [mailibex](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
+
+## Examples and funny stuff
+*Example code and stuff tu funny or curious not to mention.*
+
+* [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
 
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
