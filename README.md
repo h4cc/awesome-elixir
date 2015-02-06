@@ -361,6 +361,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
+* [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
