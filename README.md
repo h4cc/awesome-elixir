@@ -242,6 +242,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [cors_plug](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
+* [http_router](https://github.com/slogsdon/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 * [plug_auth](https://github.com/briksoftware/plug_auth) - Collection of authentication-related plugs.
@@ -360,6 +361,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
+* [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
@@ -540,7 +542,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [keenex](https://github.com/bryanjos/keenex) - A Keen.io API Client.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
-* [mandrillex](https://github.com/slogsdon/mandrillex) - A Mandrill wrapper for Elixir.
+* [mandrill](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 * [mixpanel](https://github.com/michihuber/MixpanelEx) - An Elixir client for the Mixpanel HTTP API.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
