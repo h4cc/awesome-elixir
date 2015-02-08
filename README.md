@@ -554,6 +554,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exgenius](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
 * [exgravatar](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
 * [exgrid](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
+* [exjira](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 * [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 * [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
