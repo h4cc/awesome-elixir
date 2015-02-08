@@ -171,6 +171,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 * [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+* [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 * [rsa](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 * [tea_crypto](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
 
