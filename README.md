@@ -225,6 +225,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries working with feeds like RSS or ATOM.*
 
 * [feeder](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds.
+* [feeder_ex](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
 
 ## Files and Directories
 *Libraries and implementations for working with files and directories.*
