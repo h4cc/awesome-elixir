@@ -232,6 +232,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Example code and stuff tu funny or curious not to mention.*
 
 * [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
+* [harakiri](https://github.com/elpulgardelpanda/harakiri) - Help applications kill themselves.
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
 
 ## Feeds
