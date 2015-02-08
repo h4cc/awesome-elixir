@@ -392,6 +392,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tirexs](https://github.com/roundscope/tirexs) - An Elixir-based DSL for managing the ElasticSearch-related stuff.
+* [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP
 *Libraries for working with OTP related things.*
