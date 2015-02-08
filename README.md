@@ -360,6 +360,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and tools for using network related stuff.*
 
 * [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+* [eio](https://github.com/elixir-cn/eio) - Elixir server of [engine.io](http://engine.io/).
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
