@@ -448,6 +448,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Release Management
 *Libraries and tools for release management.*
 
+* [bottler](https://github.com/elpulgardelpanda/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [changex](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
