@@ -263,6 +263,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 * [plug_auth](https://github.com/briksoftware/plug_auth) - Collection of authentication-related plugs.
 * [plug_cors](https://github.com/bryanjos/plug_cors) - CORS Plug.
+* [plug_heartbeat](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
 * [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [plug_rails_cookie_session_store](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
