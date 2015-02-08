@@ -406,6 +406,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
+* [tds](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 * [tirexs](https://github.com/roundscope/tirexs) - An Elixir-based DSL for managing the ElasticSearch-related stuff.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
