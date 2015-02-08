@@ -5,6 +5,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Actors](#actors)
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
+    - [Audio and Sounds](#audio-and-sounds)
     - [Authentication](#authentication)
     - [Bittorrent](#bittorrent)
     - [Build Tools](#build-tools)
@@ -99,6 +100,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [hyperledger](https://github.com/hyperledger/hyperledger-server) - Reference server for the Hyperledger protocol.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
+
+## Audio and Sounds
+*Libraries working with sounds and tones.*
+
+* [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
