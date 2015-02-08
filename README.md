@@ -177,6 +177,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cryptography
 *Encrypting and decrypting data*
 
+* [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 * [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 * [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 * [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
