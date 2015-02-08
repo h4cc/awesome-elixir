@@ -53,6 +53,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Validations](#validations)
     - [XML](#xml)
+    - [YAML](#yaml)
 - [Resources](#resources)
     - [Books](#books)
     - [Editors](#editors)
@@ -603,6 +604,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+
+## YAML
+*Libraries and implementations working with YAML.*
+
+* [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
