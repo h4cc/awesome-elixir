@@ -289,6 +289,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+* [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ## Hardware
 *Hardware related things like I/O interfaces and such.*
