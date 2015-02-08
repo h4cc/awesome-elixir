@@ -208,6 +208,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
 * [ex_doc_dash](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
+* [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
 
 ## Email
 *Working with Email and stuff.*
