@@ -20,6 +20,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Debugging](#debugging)
     - [Documentation](#documentation)
     - [Email](#email)
+    - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
@@ -228,6 +229,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [gen_smtp](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 * [mailer](https://github.com/antp/mailer) - A simple SMTP mailer.
 * [mailibex](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
+
+## Eventhandling
+*Sending/Emitting and receiving/handling Events in Elixir.*
+
+* [reaxive](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
 ## Examples and funny stuff
 *Example code and stuff tu funny or curious not to mention.*
