@@ -644,6 +644,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 * [Notepad++](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
+* [TextMate](https://github.com/elixir-lang/elixir-tmbundle) - Elixir syntax highlighting for TextMate.
 * [vim-elixir](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.
 
 ## Other Awesome Lists
