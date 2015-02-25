@@ -247,6 +247,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
 * [harakiri](https://github.com/elpulgardelpanda/harakiri) - Help applications kill themselves.
+* [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
 
@@ -429,6 +430,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [mariaex](https://github.com/liveforeverx/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
+* [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tds](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
