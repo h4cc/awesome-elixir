@@ -426,6 +426,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
+* [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [mariaex](https://github.com/liveforeverx/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
