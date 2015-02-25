@@ -622,6 +622,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and implementations working with XML.*
 
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
+* [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
