@@ -93,6 +93,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+* [remodel](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [sfmt](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [structurez](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 * [supermemo](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](http://www.supermemo.com/english/ol/sm2.htm).
