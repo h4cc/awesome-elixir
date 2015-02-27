@@ -85,16 +85,15 @@ defmodule Awesome do
         end
 
         debug "Waiting for all the HTTP requests to finish ..."
-        responses = Task.await(http, 100000)
-        notOk = responses |> Enum.filter(fn({statuscode, _url}) -> not (statuscode in [200, 301, 302]) end)
 
+        responses = Task.await(http, 300000)
+        notOk = responses |> Enum.filter(fn({statuscode, _url}) -> not (statuscode in [200, 301, 302]) end)
         case notOk do
             [] ->
                 debug "No invalid links found"
             invalidLinks ->
                 debug "INVALID links found:"
                 IO.inspect invalidLinks
-                exit({:shutdown, 1})
         end
     end
 
