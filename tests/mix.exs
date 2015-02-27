@@ -5,7 +5,8 @@ defmodule MyProject.Mixfile do
     [app: :awesome_elixir,
      version: "0.0.1",
      elixir: "~> 1.0.2",
-     deps: deps()]
+     deps: deps(),
+     env: [foo: :bar]]
   end
 
   def application do
