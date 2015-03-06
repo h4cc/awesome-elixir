@@ -315,6 +315,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
+* [bolt](https://github.com/SebastianSzturo/bolt) - Simple and fast http proxy.
 * [cauldron](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 * [exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 * [http](https://github.com/slogsdon/http) - HTTP server for Elixir.
