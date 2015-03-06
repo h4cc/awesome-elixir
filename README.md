@@ -571,6 +571,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with tone or without tone).
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
