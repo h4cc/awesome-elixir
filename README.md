@@ -438,6 +438,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 * [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir-based DSL for managing the ElasticSearch-related stuff.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
+* [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang. 
 
 ## OTP
 *Libraries for working with OTP related things.*
