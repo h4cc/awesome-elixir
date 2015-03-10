@@ -546,6 +546,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validate, to the documents brazilians (CPF/CNPJ).
 * [calliope](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cldr](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
