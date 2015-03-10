@@ -175,6 +175,7 @@ defmodule Awesome do
 
     # Validate that the link as listitem is valid formatted.
     def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
+        line = String.rstrip(line)
         [^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)\./, line
         IO.puts "\t'#{name}' #{link} '#{description}'"
         request_http_url(link)
