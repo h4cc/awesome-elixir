@@ -282,6 +282,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [cors_plug](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
+* [corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 * [crudex](https://github.com/briksoftware/crudex) - CRUD utilities for Phoenix and Ecto.
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
