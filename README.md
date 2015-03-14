@@ -210,6 +210,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
+* [tzdata](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
