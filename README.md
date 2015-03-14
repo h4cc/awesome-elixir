@@ -19,6 +19,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Documentation](#documentation)
+    - [ECMAScript](#ecmascript)
     - [Email](#email)
     - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
@@ -230,6 +231,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_doc_dash](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
+
+## ECMAScript
+*Implementations working with JavaScript, JScript or ActionScript.*
+
+* [estree](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+
 
 ## Email
 *Working with Email and stuff.*
