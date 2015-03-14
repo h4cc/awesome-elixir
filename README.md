@@ -295,6 +295,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 * [phoenix_generator](https://github.com/etufe/phoenix_generator) - Generate boilerplate for Phoenix applications.
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
+* [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 * [plug_auth](https://github.com/briksoftware/plug_auth) - Collection of authentication-related plugs.
