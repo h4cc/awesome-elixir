@@ -577,6 +577,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [colors](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [convertat](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
 * [curtail](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
+* [custom_base](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [elixilorem](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
