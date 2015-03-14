@@ -445,6 +445,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+* [kalecto](https://github.com/lau/kalecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 * [mariaex](https://github.com/liveforeverx/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang. 
