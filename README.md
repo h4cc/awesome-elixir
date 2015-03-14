@@ -553,6 +553,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
 * [base58check](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
+* [base62](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validate, to the documents brazilians (CPF/CNPJ).
 * [calliope](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
