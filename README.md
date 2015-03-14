@@ -447,6 +447,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ecto_ordered](https://github.com/trustatom-oss/ecto-ordered) - Ecto extension for ordered models.
 * [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+* [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
