@@ -582,6 +582,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
+* [porterstemmer](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
