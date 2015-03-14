@@ -361,6 +361,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Logging infos and messages.*
 
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
+* [lager_logger](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ## Macros
