@@ -460,13 +460,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kalecto](https://github.com/lau/kalecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
-* [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang. 
+* [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tds](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
-* [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir-based DSL for managing the ElasticSearch-related stuff.
+* [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP
