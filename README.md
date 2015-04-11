@@ -122,6 +122,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
 * [aws_auth](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
+* [github_oauth](https://github.com/lidashuang/github_oauth) - Simple github oauth library.
 * [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) - Apache httpasswd file reader/writer in Elixir.
 * [mojoauth](https://github.com/mojolingo/mojo-auth.ex) - MojoAuth implementation in Elixir.
 * [oauth2](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
@@ -366,6 +367,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [jsx](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
+* [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
 ## Logging
 *Logging infos and messages.*
