@@ -670,7 +670,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [linguist](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
 
 ## Utilities
-*Utilities libraries. "
+*Utilities libraries. *
 
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 
