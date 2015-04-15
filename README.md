@@ -53,6 +53,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Text and Numbers](#text-and-numbers)
     - [Third Party APIs](#third-party-apis)
     - [Translations and Internationalizations](#translations-and-internationalizations)
+    - [Utilities](#utilities)
     - [Validations](#validations)
     - [XML](#xml)
     - [YAML](#yaml)
@@ -667,6 +668,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries providing translations or internationalizations.*
 
 * [linguist](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
+
+## Utilities
+*Utilities libraries. *
+
+* [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 
 ## Validations
 *Libraries and implementations for validation of data.*
