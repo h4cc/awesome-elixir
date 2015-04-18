@@ -681,8 +681,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Validations
 *Libraries and implementations for validation of data.*
 
-* [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
+* [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## XML
 *Libraries and implementations working with XML.*
