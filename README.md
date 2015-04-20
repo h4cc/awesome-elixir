@@ -600,6 +600,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
 * [expletive](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
+* [expr](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
