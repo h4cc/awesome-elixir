@@ -55,6 +55,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Translations and Internationalizations](#translations-and-internationalizations)
     - [Utilities](#utilities)
     - [Validations](#validations)
+    - [Version Control](#version-control)
     - [XML](#xml)
     - [YAML](#yaml)
 - [Resources](#resources)
@@ -688,6 +689,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+
+## Version Control
+*Working with version control like git, mercury, subversion ...*
+
+* [gitex](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ## XML
 *Libraries and implementations working with XML.*
