@@ -529,6 +529,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_heroku](https://github.com/ride/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
+* [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
