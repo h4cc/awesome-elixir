@@ -231,7 +231,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 * [eh](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
-* [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools .
+* [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
@@ -419,7 +419,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
-* [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs .
+* [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
