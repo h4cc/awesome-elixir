@@ -318,6 +318,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_heartbeat](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
 * [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [plug_rails_cookie_session_store](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+* [plug_redirect_https](https://github.com/stocks29/plug_redirect_https.git) - Plug to redirect http requests to https requests behind a reverse proxy.
 * [plug_require_header](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
@@ -359,7 +360,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
-* [plug_redirect_https](https://github.com/stocks29/plug_redirect_https.git) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ## Images
 *Libraries for working with and manipulating images.*
