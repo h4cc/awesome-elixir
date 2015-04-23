@@ -496,6 +496,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
+* [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_ordered](https://github.com/trustatom-oss/ecto-ordered) - Ecto extension for ordered models.
 * [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
