@@ -104,6 +104,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [remodel](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
+* [rendezvous](https://github.com/Puddah/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 * [sfmt](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [structurez](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 * [supermemo](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](http://www.supermemo.com/english/ol/sm2.htm).
