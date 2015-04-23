@@ -111,6 +111,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Applications
 *Standalone applications.*
 
+* [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [hyperledger](https://github.com/hyperledger/hyperledger-server) - Reference server for the Hyperledger protocol.
 * [n2o](https://github.com/5HT/n2o) - WebSocket Application Server.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
