@@ -294,6 +294,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
+* [vulvapi](https://bitbucket.org/Anwen/vulvapi) - A JSON API to fetch vulvas.
+* [vulvex](https://bitbucket.org/Anwen/vulvex) - An Elixir client for the VulvAPI.
 
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
