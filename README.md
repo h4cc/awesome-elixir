@@ -519,6 +519,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for working with OTP related things.*
 
 * [core](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
+* [immortal](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 * [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
 
 ## Package Management
