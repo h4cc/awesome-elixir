@@ -338,6 +338,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
+* [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ## Geolocation
