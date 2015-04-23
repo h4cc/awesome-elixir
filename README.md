@@ -359,6 +359,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+* [plug_redirect_https](https://github.com/stocks29/plug_redirect_https.git) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ## Images
 *Libraries for working with and manipulating images.*
