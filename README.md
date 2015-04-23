@@ -729,6 +729,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries providing translations or internationalizations.*
 
 * [linguist](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
+* [parabaikElixirConverter](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
 
 ## Utilities
 *Utilities libraries. *
