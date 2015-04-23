@@ -694,6 +694,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pocketex](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](getpocket.com).
 * [pusher](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
+* [qiniu](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
