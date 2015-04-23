@@ -225,6 +225,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [chronos](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 * [good_times](https://github.com/magplus/good_times) - Expressive and easy to use datetime functions.
 * [kalends](https://github.com/lau/kalends) - Kalends is a date/time library in pure Elixir, with up-to-date timezone support using the Olson database.
+* [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
