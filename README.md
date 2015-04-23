@@ -342,6 +342,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_require_header](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
+* [plug_statsd](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
