@@ -644,6 +644,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [porterstemmer](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+* [ref_inspector](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 * [slugger](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
