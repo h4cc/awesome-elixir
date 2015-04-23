@@ -839,6 +839,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
+* [Elixre](http://www.elixre.uk/) - An Elixir regular expression editor & tester.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learn Elixir](http://learnelixir.com) - A blog with posts focusing on Elixir and Phoenix Framework.
 
