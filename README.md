@@ -116,6 +116,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Standalone applications.*
 
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
+* [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
 * [hyperledger](https://github.com/hyperledger/hyperledger-server) - Reference server for the Hyperledger protocol.
 * [n2o](https://github.com/5HT/n2o) - WebSocket Application Server.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
