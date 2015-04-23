@@ -647,6 +647,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [elixilorem](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
+* [elixir_bencode](https://github.com/AntonFagerberg/elixir_bencode) - Bencode implemented in Elixir.
 * [erldn](https://github.com/marianoguerra/erldn) - EDN format parser for the Erlang platform.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [ex_brace_expansion](https://github.com/gniquil/ex_brace_expansion) - Brace expansion, as known from sh/bash, in Elixir.
