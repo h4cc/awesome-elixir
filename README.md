@@ -590,6 +590,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries parsing and helping with templates*
 
 * [eml](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
+* [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
