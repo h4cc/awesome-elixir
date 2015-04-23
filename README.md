@@ -294,6 +294,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+* [ex_minimatch](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
 * [exfswatch](https://github.com/falood/exfswatch) - Elixir version of fswatch base on [fswatch](https://github.com/emcrisostomo/fswatch).
 * [fs](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
