@@ -118,6 +118,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
 * [hyperledger](https://github.com/hyperledger/hyperledger-server) - Reference server for the Hyperledger protocol.
+* [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated. .
 * [n2o](https://github.com/5HT/n2o) - WebSocket Application Server.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
