@@ -25,6 +25,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Examples and funny stuff](#examples-and-funny-stuff)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
+    - [Formulars](#formulars)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
     - [Geolocation](#geolocation)
@@ -295,6 +296,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+
+## Formulars
+*Handling web formulars and similar stuff.*
+
+* [forms](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ## Framework Components
 *Standalone component from web development frameworks.*
