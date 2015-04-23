@@ -75,6 +75,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
+* [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
 * [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
