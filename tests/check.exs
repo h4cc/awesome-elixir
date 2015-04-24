@@ -108,6 +108,7 @@ defmodule Awesome do
         # Filter down to single lines
         entries = Enum.map(entriesList, fn %Earmark.Block.ListItem{blocks: [ %Earmark.Block.Para{lines: [ line ]} ]} -> line end)
         names = Enum.map(entries, fn line ->
+            line = line |> String.strip(?~)
             [^line, name | _rest] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
             name
         end)
@@ -176,6 +177,9 @@ defmodule Awesome do
     # Validate that the link as listitem is valid formatted.
     def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
         line = String.rstrip(line)
+        if String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
+            line = line |> String.strip(?~)
+        end
         [^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)\./, line
         IO.puts "\t'#{name}' #{link} '#{description}'"
         request_http_url(link)
