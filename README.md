@@ -161,6 +161,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [active](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 * [dismake](https://github.com/jarednorman/dismake) - Mix compiler running make.
+* [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [etude](https://github.com/camshaft/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
