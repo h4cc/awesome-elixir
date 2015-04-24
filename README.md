@@ -838,7 +838,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://http://elixir-cn.com/).
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
-* [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).
+* ~~[Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, [written using Phoenix](https://github.com/rizafahmi/phoenix-jobs).~~
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [Elixre](http://www.elixre.uk/) - An Elixir regular expression editor & tester.
 * [Erlang Patterns](http://www.erlangpatterns.org/) - Unlike traditional software design pattern efforts, which tend to emphasize the importance of code reuse, this project emphasizes patterns that feel good to humans.
