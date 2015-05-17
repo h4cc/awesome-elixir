@@ -762,6 +762,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [keenex](https://github.com/bryanjos/keenex) - A Keen.io API Client.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
 * [m2x](https://hex.pm/packages/m2x) - Client for the AT&T M2X, a cloud-based fully managed time-series data storage service for network connected machine-to-machine (M2M) devices and the Internet of Things (IoT).
+* [mailchimp](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 * [marvel](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
