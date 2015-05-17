@@ -587,6 +587,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [amqp](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 * [dbus](https://github.com/aforward/dbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
 * [elixir_talk](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
+* [exdisque](https://github.com/mosic/exdisque) - Elixir client for [Disque](https://github.com/antirez/disque), an in-memory, distributed job queue.
 * [exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
 * [heapq](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
