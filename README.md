@@ -603,6 +603,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries around the topic statistics.*
 
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
+* [mtx](https://github.com/synrc/mtx) - MTX supports front-end API for tracking Historgram, Meter, Counter, Gauge, Timing keys.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ## Templating
