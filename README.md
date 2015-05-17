@@ -339,6 +339,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 * [phoenix_generator](https://github.com/etufe/phoenix_generator) - Generate boilerplate for Phoenix applications.
+* [phoenix_html](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 * [phoenix_pubsub_postgres](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
