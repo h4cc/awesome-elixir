@@ -296,6 +296,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
 * [harakiri](https://github.com/elpulgardelpanda/harakiri) - Help applications kill themselves.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
+* [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But, not supports animation and some features of the original.
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
