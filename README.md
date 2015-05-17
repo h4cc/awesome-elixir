@@ -302,6 +302,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
 * [vulvapi](https://bitbucket.org/Anwen/vulvapi) - A JSON API to fetch vulvas.
 * [vulvex](https://bitbucket.org/Anwen/vulvex) - An Elixir client for the VulvAPI.
+* [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
