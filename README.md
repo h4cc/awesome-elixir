@@ -401,6 +401,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [tesla](https://github.com/monterail/tesla) - HTTP client library, with support for middleware and multiple adapters.
+* [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 
 ## Images
 *Libraries for working with and manipulating images.*
