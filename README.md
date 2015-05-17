@@ -106,6 +106,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+* [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 * [remodel](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [rendezvous](https://github.com/Puddah/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 * [sfmt](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
