@@ -515,6 +515,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/elpulgardelpanda/sshex) - Simple SSH helpers for Elixir.
+* [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
 
