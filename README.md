@@ -544,6 +544,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kst](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
+* [red](https://hex.pm/packages/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
