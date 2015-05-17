@@ -440,6 +440,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
+* [rebind](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 
 ## Markdown
