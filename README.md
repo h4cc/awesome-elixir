@@ -536,7 +536,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
-* [exrethinkdb](https://github.com/hamiltop/exrethinkdb) - Rethinkdb client in pure Elixir using JSON protocol.
 * [exseed](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
@@ -546,6 +545,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
+* [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
