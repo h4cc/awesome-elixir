@@ -750,6 +750,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
+* [riemann](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
