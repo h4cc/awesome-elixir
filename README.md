@@ -164,6 +164,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [etude](https://github.com/camshaft/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
+* [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
