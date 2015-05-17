@@ -451,6 +451,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Macros
 *Macros for faster and easier development. Sugar for your code.*
 
+* [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [lineo](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
 * [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
