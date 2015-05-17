@@ -476,6 +476,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
+* [ratx](https://github.com/liveforeverx/ratx) - Rate limiter and overload protection for erlang application.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 * [url_unroller](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
