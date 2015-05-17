@@ -696,6 +696,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mimetype_parser](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
+* [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 * [palette](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 * [porterstemmer](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
