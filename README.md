@@ -366,6 +366,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_statsd](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
+* [resin](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
