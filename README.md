@@ -253,6 +253,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 * [eh](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
 * [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+* [exometer](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
@@ -310,7 +311,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [ex_minimatch](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-* [exfswatch](https://github.com/falood/exfswatch) - Elixir version of fswatch base on [fswatch](https://github.com/emcrisostomo/fswatch).
+* [exfswatch](https://github.com/falood/exfswatch) - A file change watcher wrapper based on [fs](https://github.com/synrc/fs).
 * [fs](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
@@ -422,13 +423,14 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *All about lexical analyser, lexer, scanner, tokenizer or compiler.*
 
 * [ex_abnf](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
-* [lux_luthor](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
+* [lex_luthor](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
 
 ## Logging
 *Logging infos and messages.*
 
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
 * [lager_logger](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+* [rogger](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ## Macros
@@ -513,6 +515,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
+* [exrethinkdb](https://github.com/hamiltop/exrethinkdb) - Rethinkdb client in pure Elixir using JSON protocol.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
@@ -558,6 +561,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for working with event and task queues.*
 
 * [adap](https://github.com/awetzel/adap) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
+* [amqp](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 * [dbus](https://github.com/aforward/dbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
 * [elixir_talk](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
 * [exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
@@ -771,6 +775,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and implementations working with XML.*
 
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
+* [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
@@ -788,6 +793,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Books
 *Fantastic books and e-books.*
 
+* [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - This book is a set of recipes grouped by topic by Paulo A Pereira (2015).
 * [Elixir for the functional Rubyist](http://elixir-for-rubyists.com/) - Not yet released. By Johnny Winn.
 * [Elixir in Action](http://www.manning.com/juric/) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2014).
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
@@ -802,6 +808,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Alchemist](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 * [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
+* [atom-iex](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 * [intellij_elixir](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 * [Notepad++](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
