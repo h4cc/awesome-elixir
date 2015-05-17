@@ -638,6 +638,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 * [mix_erlang_tasks](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
 * [mix_eunit](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
+* [mix_test_watch](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 * [mixunit](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
 * [mock](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [pavlov](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
