@@ -784,6 +784,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [riemann](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+* [statix](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [tagplay](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
