@@ -183,6 +183,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
 
+* [aws](https://hex.pm/api/packages/aws) — AWS clients for Elixir.
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [discovery](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 * [erlcloud](https://github.com/gleber/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
