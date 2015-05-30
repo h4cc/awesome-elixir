@@ -425,6 +425,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
+* [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ## JSON
