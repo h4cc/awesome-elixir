@@ -802,6 +802,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [statix](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [tagplay](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
+* [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 
