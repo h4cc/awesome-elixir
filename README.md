@@ -546,6 +546,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [kalecto](https://github.com/lau/kalecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 * [kst](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+* [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://hex.pm/packages/red) - Persist relationships between objects in Redis, in a graph-like way.
