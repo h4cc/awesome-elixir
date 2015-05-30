@@ -205,6 +205,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Anything helpfull for building CLI applications.*
 
 * [anubis](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
+* [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ## Configuration
 *Libraries and tools working with configurations*
