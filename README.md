@@ -552,6 +552,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+* [isn](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 * [kalecto](https://github.com/lau/kalecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 * [kst](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 * [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
