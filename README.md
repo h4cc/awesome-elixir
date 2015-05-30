@@ -489,6 +489,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+* [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
