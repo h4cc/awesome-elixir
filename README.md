@@ -239,9 +239,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for working with dates and times.*
 
 * [block_timer](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
+* [calendar](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir. The only Elixir library with with accurate, up-to-date time zone information.
 * [chronos](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 * [good_times](https://github.com/magplus/good_times) - Expressive and easy to use datetime functions.
-* [kalends](https://github.com/lau/kalends) - Kalends is a date/time library in pure Elixir, with up-to-date timezone support using the Olson database.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
