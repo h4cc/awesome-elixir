@@ -513,6 +513,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/elpulgardelpanda/sshex) - Simple SSH helpers for Elixir.
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
