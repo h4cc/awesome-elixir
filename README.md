@@ -171,6 +171,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+* [rebar3_hex](https://github.com/tsloughter/rebar3_hex) - Hex.pm plugin for rebar3.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
