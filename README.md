@@ -183,6 +183,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
 
+* [aws](https://hex.pm/api/packages/aws) - AWS clients for Elixir.
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [discovery](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 * [erlcloud](https://github.com/gleber/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
@@ -204,6 +205,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Anything helpfull for building CLI applications.*
 
 * [anubis](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
+* [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ## Configuration
 *Libraries and tools working with configurations*
@@ -367,6 +369,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 * [resin](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
+* [scaffold](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
@@ -375,7 +378,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Web development frameworks.*
 
 * [clint](https://github.com/lpil/clint) - An Elixir web micro-framework, inspired by Sinatra, built on top of Plug and Cowboy.
-* [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar sytnax goodies.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
@@ -513,6 +515,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/elpulgardelpanda/sshex) - Simple SSH helpers for Elixir.
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
@@ -526,6 +529,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [boltun](https://github.com/briksoftware/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
 * [craterl](https://github.com/crate/craterl) - Erlang client for crate.
+* [database_url](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
@@ -553,6 +557,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
+* [sqlite_ecto](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 * [sqlitex](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tds](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
@@ -612,6 +617,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exrm_heroku](https://github.com/ride/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+* [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
