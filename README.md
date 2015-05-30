@@ -815,6 +815,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Utilities
 *Utilities libraries. *
 
+* [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 
 ## Validations
