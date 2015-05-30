@@ -837,6 +837,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and implementations working with YAML.*
 
 * [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+* [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
