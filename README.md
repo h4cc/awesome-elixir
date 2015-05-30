@@ -878,6 +878,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Elixir-releated reading materials.*
 
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
+* [Learning Elixir](http://learningelixir.joekain.com/) - Learning Elixir Website, by Joseph Kain.
 
 ## Screencasts
 *Cool video tutorials.*
