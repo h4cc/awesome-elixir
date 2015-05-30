@@ -76,6 +76,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
+* [mon_handler](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
 * [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
@@ -802,6 +803,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [statix](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [tagplay](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
+* [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 
@@ -814,6 +816,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Utilities
 *Utilities libraries. *
 
+* [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 
 ## Validations
