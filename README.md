@@ -105,6 +105,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+* [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
@@ -171,7 +172,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
-* [rebar3_hex](https://github.com/tsloughter/rebar3_hex) - Hex.pm plugin for rebar3.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
@@ -425,7 +425,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
-* [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ## JSON
@@ -489,7 +488,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
-* [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
@@ -585,6 +583,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and tools for package and dependency management.*
 
 * [Hex](https://hex.pm/) - A package manager for the Erlang ecosystem.
+* [rebar3_hex](https://github.com/tsloughter/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ## PDF
 *Libraries and software for working with PDF files.*
@@ -822,6 +821,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Utilities libraries. *
 
 * [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
+* [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 
 ## Validations
