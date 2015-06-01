@@ -427,6 +427,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bump](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
+* [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
@@ -459,6 +460,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [json_logger](https://github.com/LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
 * [lager_logger](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+* [logfmt](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
 * [rogger](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
@@ -564,6 +566,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
+* [mysql](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+* [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://hex.pm/packages/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
@@ -829,6 +833,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
+* [fitex](https://github.com/Puddah/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 
 ## Validations
 *Libraries and implementations for validation of data.*
@@ -907,6 +912,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 * [Elixir Experience](http://elixirexperience.com/) - List of problems to help learn Elixir.
 * [Learning Elixir](http://learningelixir.joekain.com/) - Learning Elixir Website, by Joseph Kain.
+* [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ## Screencasts
 *Cool video tutorials.*
