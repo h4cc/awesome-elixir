@@ -566,6 +566,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
+* [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://hex.pm/packages/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
