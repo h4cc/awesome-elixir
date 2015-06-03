@@ -97,6 +97,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [elistrix](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [exfsm](https://hex.pm/packages/exfsm) - Simple elixir library to define a static FSM.
 * [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
+* [exmatrix](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 * [ezcryptex](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
 * [fnv](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
@@ -279,6 +280,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_doc_dash](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
+* [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
 
 ## ECMAScript
 *Implementations working with JavaScript, JScript or ActionScript.*
@@ -360,6 +362,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [phoenix_pubsub_postgres](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 * [phoenix_pubsub_rabbitmq](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 * [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+* [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
@@ -801,6 +804,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mixpanel_data_client](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 * [mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 * [opbeat](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
+* [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [pathway](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
