@@ -97,6 +97,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [elistrix](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [exfsm](https://hex.pm/packages/exfsm) - Simple elixir library to define a static FSM.
 * [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
+* [exmatrix](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 * [ezcryptex](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
 * [fnv](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
