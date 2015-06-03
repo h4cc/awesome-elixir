@@ -280,6 +280,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_doc_dash](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
+* [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
 
 ## ECMAScript
 *Implementations working with JavaScript, JScript or ActionScript.*
