@@ -261,6 +261,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [beaker](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 * [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
@@ -391,6 +392,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [clint](https://github.com/lpil/clint) - An Elixir web micro-framework, inspired by Sinatra, built on top of Plug and Cowboy.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+* [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
@@ -420,7 +422,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
-* [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp.ws/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/monterail/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
