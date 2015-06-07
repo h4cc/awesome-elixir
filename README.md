@@ -543,6 +543,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [boltun](https://github.com/briksoftware/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+* [caylir](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
 * [craterl](https://github.com/crate/craterl) - Erlang client for crate.
 * [database_url](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
