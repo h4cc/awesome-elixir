@@ -261,6 +261,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
+* [beaker](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 * [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
@@ -391,6 +392,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [clint](https://github.com/lpil/clint) - An Elixir web micro-framework, inspired by Sinatra, built on top of Plug and Cowboy.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+* [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
@@ -543,6 +545,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [boltun](https://github.com/briksoftware/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+* [caylir](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
 * [craterl](https://github.com/crate/craterl) - Erlang client for crate.
 * [database_url](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
