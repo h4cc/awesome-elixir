@@ -504,6 +504,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [gimei_ex](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
