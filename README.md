@@ -916,6 +916,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 * [Elixir Experience](http://elixirexperience.com/) - List of problems to help learn Elixir.
+* [Elixir School](https://github.com/doomspork/elixir_school) - Lessons in the Fundamentals of Elixir, inspired by Scala School.
 * [Learning Elixir](http://learningelixir.joekain.com/) - Learning Elixir Website, by Joseph Kain.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
