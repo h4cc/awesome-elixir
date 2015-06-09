@@ -387,6 +387,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
+* [weebo](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
 
 ## Frameworks
 *Web development frameworks.*
@@ -508,6 +509,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [gimei_ex](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl](https://github.com/zhallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
@@ -920,6 +922,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 * [Elixir Experience](http://elixirexperience.com/) - List of problems to help learn Elixir.
+* [Elixir School](https://github.com/doomspork/elixir_school) - Lessons in the Fundamentals of Elixir, inspired by Scala School.
 * [Learning Elixir](http://learningelixir.joekain.com/) - Learning Elixir Website, by Joseph Kain.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
