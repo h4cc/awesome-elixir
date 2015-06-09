@@ -384,6 +384,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
+* [weebo](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
 
 ## Frameworks
 *Web development frameworks.*
