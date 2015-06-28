@@ -881,6 +881,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 * [fitex](https://github.com/Puddah/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 * [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
+* [pubsub](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 
 ## Validations
 *Libraries and implementations for validation of data.*
