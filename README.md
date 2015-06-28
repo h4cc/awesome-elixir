@@ -601,6 +601,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tds](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 * [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
+* [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client .
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP
