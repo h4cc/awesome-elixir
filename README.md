@@ -714,6 +714,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Templating
 *Libraries parsing and helping with templates*
 
+* [bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 * [eml](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
