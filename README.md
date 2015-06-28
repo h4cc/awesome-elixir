@@ -193,6 +193,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [pc](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+* [rebar3_eqc](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
