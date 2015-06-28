@@ -208,6 +208,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
 
+* [belvedere](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir .
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
