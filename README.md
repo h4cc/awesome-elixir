@@ -708,6 +708,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+* [gimei](https://github.com/KazuCocoa/elixir-gimei) - Gimei is a pure Elixir library for generating Japanese fake data.
 * [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 * [katt](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 * [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
@@ -745,8 +746,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dicer](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [elixilorem](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
 * [elixir_bencode](https://github.com/AntonFagerberg/elixir_bencode) - Bencode implemented in Elixir.
-* [erldn](https://github.com/marianoguerra/erldn) - EDN format parser for the Erlang platform.
+* [erldn](https://github.com/marianoguerra/erldn) - [EDN](https://github.com/edn-format/edn) format parser for the Erlang platform.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
+* [ex_edn](https://github.com/jfacorro/Eden) - [EDN](https://github.com/edn-format/edn) encoder/decoder for Elixir.
 * [ex_brace_expansion](https://github.com/gniquil/ex_brace_expansion) - Brace expansion, as known from sh/bash, in Elixir.
 * [ex_rfc3986](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
 * [exmoji](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
