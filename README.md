@@ -369,6 +369,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Standalone component from web development frameworks.*
 
 * [addict](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+* [airbrake_plug](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
 * [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [cors_plug](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
