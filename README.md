@@ -876,6 +876,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+* [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
 
 ## YAML
 *Libraries and implementations working with YAML.*
