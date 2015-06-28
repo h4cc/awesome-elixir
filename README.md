@@ -190,6 +190,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+* [pc](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
