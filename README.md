@@ -106,6 +106,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ezcryptex](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
 * [fnv](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+* [fuse](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 * [graphmath](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implemention for Elixir.
 * [isaac](https://github.com/arianvp/elixir-isaac) - Isaac is an elixir module for ISAAC: a fast cryptographic random number generator.
