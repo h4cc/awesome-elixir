@@ -346,6 +346,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Files and Directories
 *Libraries and implementations for working with files and directories.*
 
+* [arc](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir.
 * [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [elixgrep](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
@@ -575,6 +576,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+* [arc_ecto](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with [Arc](https://github.com/stavro/arc) and Ecto.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [boltun](https://github.com/briksoftware/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
 * [caylir](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
