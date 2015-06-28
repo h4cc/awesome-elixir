@@ -845,6 +845,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 * [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+* [feedlex](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
 * [fluent_client](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
 * [forcex](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
