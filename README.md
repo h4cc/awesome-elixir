@@ -39,6 +39,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Macros](#macros)
     - [Markdown](#markdown)
     - [Miscellaneous](#miscellaneous)
+    - [Native Implemented Functions](#native-implemented-functions)
     - [Networking](#networking)
     - [ORM and Datamapping](#orm-and-datamapping)
     - [OTP](#otp)
@@ -529,6 +530,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 * [url_unroller](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
+
+## Native Implemented Functions
+*Tools and libraries working with Erlang NIF.*
+
+* [nifty](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
