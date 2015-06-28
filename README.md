@@ -474,6 +474,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 * [jsex](https://github.com/talentdeficit/exjsx) - json for Elixir.
 * [json](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
+* [jsonapi](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format).
 * [json_pointer](https://github.com/xavier/json_pointer) - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document.
 * [jsx](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
