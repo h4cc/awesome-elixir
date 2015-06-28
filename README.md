@@ -8,6 +8,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Audio and Sounds](#audio-and-sounds)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
+    - [Behaviours and Interfaces](#behaviours-and-interface)
     - [Bittorrent](#bittorrent)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
@@ -163,6 +164,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for implementing Authorization handling.*
 
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
+
+## Behaviours and Interfaces
+*Definitions how something should behave, like Interfaces from OOP-World*
+
+* [connection](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 
 ## Bittorrent
 *Sharing is caring with Elixir*
