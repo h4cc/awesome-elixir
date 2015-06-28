@@ -923,6 +923,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## XML
 *Libraries and implementations working with XML.*
 
+* [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
