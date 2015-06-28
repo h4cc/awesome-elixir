@@ -434,6 +434,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp.ws/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/monterail/tesla) - HTTP client library, with support for middleware and multiple adapters.
+* [uri_template](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 * [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 
 ## Images
