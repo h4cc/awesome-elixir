@@ -222,6 +222,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [belvedere](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir .
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
+* [dogma](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 
