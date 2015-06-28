@@ -158,12 +158,14 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [oauth2cli](https://github.com/mgamini/oauth2cli-elixir) - Simple OAuth2 client written for Elixir.
 * [oauth2ex](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 * [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+* [openmaize](https://github.com/elixircnx/openmaize) - Authentication and authorization library for Elixir.
 * [xoauth2](https://github.com/craigp/elixir_xoauth2) - A simple XOAuth2 module for Elixir.
 
 ## Authorization
 *Libraries for implementing Authorization handling.*
 
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
+* [openmaize](https://github.com/elixircnx/openmaize) - Authentication and authorization library for Elixir.
 
 ## Behaviours and Interfaces
 *Definitions how something should behave, like Interfaces from OOP-World*
