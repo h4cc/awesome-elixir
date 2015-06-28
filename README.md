@@ -192,6 +192,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
+* [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
