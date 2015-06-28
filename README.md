@@ -860,6 +860,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mixpanel](https://github.com/michihuber/MixpanelEx) - An Elixir client for the Mixpanel HTTP API.
 * [mixpanel_data_client](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 * [mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
+* [nest](https://github.com/adamzaninovich/nest) - An Elixir library for using the Nest API, allowing integration with Nest Thermostats and other Nest devices.
 * [opbeat](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
