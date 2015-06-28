@@ -471,6 +471,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [exjson](https://github.com/guedes/exjson) - JSON parser and generator in Elixir.
 * [exjsx](https://github.com/talentdeficit/exjsx) - JSON for Elixir, based on `jsx`.
+* [ja_serializer](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 * [jsex](https://github.com/talentdeficit/exjsx) - json for Elixir.
