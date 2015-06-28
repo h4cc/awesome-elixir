@@ -100,7 +100,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
 * [elistrix](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
-* [exfsm](https://hex.pm/packages/exfsm) - Simple elixir library to define a static FSM.
+* [exfsm](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
 * [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
 * [exmatrix](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 * [ezcryptex](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
@@ -206,7 +206,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
 
-* [aws](https://hex.pm/api/packages/aws) - AWS clients for Elixir.
+* [aws](https://github.com/jkakar/aws-elixir) - AWS clients for Elixir.
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [discovery](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 * [erlcloud](https://github.com/gleber/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
@@ -614,7 +614,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mysql](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
-* [red](https://hex.pm/packages/red) - Persist relationships between objects in Redis, in a graph-like way.
+* [red](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
@@ -649,6 +649,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Special protocol and format libraries.*
 
 * [elixir_radius](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+* [ex_hl7](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [msgpax](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
