@@ -930,6 +930,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Experience](http://elixirexperience.com/) - List of problems to help learn Elixir.
 * [Elixir School](https://github.com/doomspork/elixir_school) - Lessons in the Fundamentals of Elixir, inspired by Scala School.
 * [Learning Elixir](http://learningelixir.joekain.com/) - Learning Elixir Website, by Joseph Kain.
+* [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ## Screencasts
