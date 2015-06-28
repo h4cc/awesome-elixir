@@ -880,6 +880,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 * [fitex](https://github.com/Puddah/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
+* [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
 
 ## Validations
 *Libraries and implementations for validation of data.*
