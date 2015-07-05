@@ -655,6 +655,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and software for working with PDF files.*
 
 * [gutenex](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+* [pdf2htmlex](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
 ## Protocols
 *Special protocol and format libraries.*
