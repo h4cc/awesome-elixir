@@ -36,6 +36,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [HTTP](#http)
     - [Images](#images)
     - [JSON](#json)
+    - [Languages](#languages)
     - [Lexical analysis](#lexical-analysis)
     - [Logging](#logging)
     - [Macros](#macros)
@@ -488,6 +489,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [jwtex](https://github.com/mschae/jwtex) - A library to encode and decode [JWT tokens](http://jwt.io/).
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 * [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
+
+## Languages
+*Languages built on top of Elixir.*
+
+* [lighthouse_scheme](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
 
 ## Lexical analysis
 *All about lexical analyser, lexer, scanner, tokenizer or compiler.*
