@@ -608,6 +608,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+* [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
