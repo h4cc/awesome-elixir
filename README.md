@@ -218,6 +218,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_aws](https://github.com/CargoSense/ex_aws) - AWS client. Currently supports DynamoDB and Kinesis.
 * [fleet_api](https://github.com/jordan0day/fleet-api.git) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 * [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+* [paratize](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing facilities that supports configuring number of workers and timeout.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/MSch/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
