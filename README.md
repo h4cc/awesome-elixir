@@ -613,6 +613,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_ordered](https://github.com/trustatom-oss/ecto-ordered) - Ecto extension for ordered models.
 * [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+* [elastix](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 * [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
 * [erlastic_search](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
