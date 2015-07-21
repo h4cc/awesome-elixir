@@ -921,6 +921,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Validations
 *Libraries and implementations for validation of data.*
 
+* [avex](https://hex.pm/packages/avex) - Awesome validations for Elixir.
 * [shape](https://hex.pm/packages/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
