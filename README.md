@@ -245,6 +245,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dotenv](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
+* [figaro_elixir](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
 
 ## Cryptography
 *Encrypting and decrypting data*
