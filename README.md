@@ -837,6 +837,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 * [bitpay](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 * [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
+* [coinbase](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [digoc](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
