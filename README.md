@@ -218,6 +218,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_aws](https://github.com/CargoSense/ex_aws) - AWS client. Currently supports DynamoDB and Kinesis.
 * [fleet_api](https://github.com/jordan0day/fleet-api.git) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 * [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+* [paratize](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing facilities that supports configuring number of workers and timeout.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/MSch/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
@@ -472,6 +473,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+* [png](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
 
 ## JSON
 *Libraries and implementations working with JSON.*
@@ -607,12 +609,16 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+* [dproto](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
+* [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
+* [ecto-enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_ordered](https://github.com/trustatom-oss/ecto-ordered) - Ecto extension for ordered models.
 * [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+* [elastix](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 * [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
 * [erlastic_search](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
@@ -807,6 +813,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
+* [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
