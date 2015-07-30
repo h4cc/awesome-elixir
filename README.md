@@ -813,6 +813,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
+* [inet_cidr](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
