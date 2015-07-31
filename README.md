@@ -765,6 +765,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 * [gimei](https://github.com/KazuCocoa/elixir-gimei) - Gimei is a pure Elixir library for generating Japanese fake data.
 * [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
+* [hypermock](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library
 * [katt](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 * [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
