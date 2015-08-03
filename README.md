@@ -833,6 +833,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ref_inspector](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
+* [slim_fast](https://github.com/doomspork/slim_fast) - An Elixir library for rendering slim templates.
 * [slugger](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
