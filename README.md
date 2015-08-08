@@ -8,7 +8,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Audio and Sounds](#audio-and-sounds)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
-    - [Behaviours and Interfaces](#behaviours-and-interface)
+    - [Behaviours and Interfaces](#behaviours-and-interfaces)
     - [Bittorrent](#bittorrent)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
