@@ -390,6 +390,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 * [phoenix_generator](https://github.com/etufe/phoenix_generator) - Generate boilerplate for Phoenix applications.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+* [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 * [phoenix_pubsub_postgres](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
@@ -813,6 +814,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [expletive](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
 * [expr](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
+* [haikunator](https://github.com/knrz/Haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
