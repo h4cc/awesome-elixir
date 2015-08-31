@@ -127,6 +127,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [sorted_set](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 * [structurez](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 * [supermemo](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](http://www.supermemo.com/english/ol/sm2.htm).
+* [tfidf](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 * [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 * [tinymt](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
