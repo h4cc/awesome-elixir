@@ -415,6 +415,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_statsd](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
+* [raygun](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 * [resin](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 * [scaffold](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 * [scrivener](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
