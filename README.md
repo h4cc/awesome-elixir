@@ -993,6 +993,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Editors and IDEs useable for Elixir/Erlang*
 
 * [Alchemist](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+* [Alchemist-Server](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 * [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
 * [atom-iex](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 * [elixir_generator](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
