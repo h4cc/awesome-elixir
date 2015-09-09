@@ -767,8 +767,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ecto_it](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
 * [espec](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 * [espec_phoenix](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-* [ex_spec](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 * [ex_parametarized](https://github.com/KazuCocoa/ex_parametarized) - Simple macro for parametarized testing.
+* [ex_spec](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
