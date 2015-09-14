@@ -620,7 +620,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dproto](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 * [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
-* [ecto-enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+* [ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+* [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
@@ -1035,6 +1036,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [Meet Elixir](http://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
+* [Phoenix Screencasts](http://phoenixscreencasts.com/) - Weekly tutorial screencasts for busy developers that are interested in Web Programming in Elixir and Phoenix
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
