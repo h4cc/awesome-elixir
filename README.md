@@ -44,6 +44,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Miscellaneous](#miscellaneous)
     - [Native Implemented Functions](#native-implemented-functions)
     - [Networking](#networking)
+    - [Office](#office)
     - [ORM and Datamapping](#orm-and-datamapping)
     - [OTP](#otp)
     - [Package Management](#package-management)
@@ -602,6 +603,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 * [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
+
+## Office
+*Libraries for working with office suite documents.*
+
+* [excellent](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
