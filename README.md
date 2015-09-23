@@ -629,12 +629,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
-* [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_ordered](https://github.com/trustatom-oss/ecto-ordered) - Ecto extension for ordered models.
 * [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+* [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [elastix](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 * [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
 * [erlastic_search](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
