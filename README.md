@@ -1048,7 +1048,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [Meet Elixir](http://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
-* [Phoenix Screencasts](http://phoenixscreencasts.com/) - Weekly tutorial screencasts for busy developers that are interested in Web Programming in Elixir and Phoenix
+* [Phoenix Screencasts](http://phoenixscreencasts.com/) - Weekly tutorial screencasts for busy developers that are interested in Web Programming in Elixir and Phoenix.
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
