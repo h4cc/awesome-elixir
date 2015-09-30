@@ -794,6 +794,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mixunit](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
 * [mock](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [pavlov](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+* [phoenix_kovacs](https://github.com/praveenperera/phoenix_kovacs) - A fork of kovacs that automatically runs tests for a phoenix project.
 * [plug_test_helpers](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [proper](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
