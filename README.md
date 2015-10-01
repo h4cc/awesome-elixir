@@ -154,6 +154,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Authentication
 *Libraries for implementing authentications schemes.*
 
+* [aeacus](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
 * [aws_auth](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
 * [github_oauth](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
@@ -382,6 +383,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Standalone component from web development frameworks.*
 
 * [addict](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+* [aeacus](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 * [airbrake_plug](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
 * [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
