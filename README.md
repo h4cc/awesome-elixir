@@ -898,7 +898,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [exstagram](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
-* [exurban](https://github.com/tappsi/exurban) - Elixir wrapper for UrbanAirship API.
+* [exurban](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 * [feedlex](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
 * [fluent_client](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
