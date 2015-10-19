@@ -339,13 +339,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [reaxive](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
 ## Examples and funny stuff
-*Example code and stuff tu funny or curious not to mention.*
+*Example code and stuff too funny or curious not to mention.*
 
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
 * [harakiri](https://github.com/elpulgardelpanda/harakiri) - Help applications kill themselves.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
-* [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But, not supports animation and some features of the original.
+* [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
@@ -591,6 +591,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Tools and libraries working with Erlang NIF.*
 
 * [nifty](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
+
+## Natural Language Processing (NLP)
+*Tools and libraries that work with human (natural) languages.*
+
+* [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
