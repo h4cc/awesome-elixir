@@ -343,7 +343,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Example code and stuff tu funny or curious not to mention.*
 
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
-* [dicks](https://github.com/Annwenn/DicksEx) - An Elixir client for the [Dick As A Service](http://dicks-api.herokuapp.com/) platform.
 * [harakiri](https://github.com/elpulgardelpanda/harakiri) - Help applications kill themselves.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 * [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But, not supports animation and some features of the original.
@@ -351,8 +350,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
-* [vulvapi](https://bitbucket.org/Anwen/vulvapi) - A JSON API to fetch vulvas.
-* [vulvex](https://bitbucket.org/Anwen/vulvex) - An Elixir client for the VulvAPI.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
 ## Feeds
