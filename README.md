@@ -647,6 +647,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 * [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
+* [exnumerable](https://github.com/KamilLelonek/exnumerable) - Elixir enumerable type definition in a simple way to be used with any database.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exseed](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
