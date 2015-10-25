@@ -591,6 +591,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [nifty](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 
+## Natural Language Processing (NLP)
+*Tools and libraries that work with human (natural) languages.*
+
+* [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+
 ## Networking
 *Libraries and tools for using network related stuff.*
 
