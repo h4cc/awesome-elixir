@@ -257,6 +257,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cryptography
 *Encrypting and decrypting data*
 
+* [cloak](https://github.com/danielberkompas/cloak) - Use encrypted fields in Ecto.
 * [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 * [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 * [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
