@@ -43,6 +43,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Markdown](#markdown)
     - [Miscellaneous](#miscellaneous)
     - [Native Implemented Functions](#native-implemented-functions)
+    - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
     - [Networking](#networking)
     - [Office](#office)
     - [ORM and Datamapping](#orm-and-datamapping)
