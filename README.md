@@ -1016,6 +1016,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [#elixir-lang](http://webchat.freenode.net/?channels=elixir-lang) - The IRC Channel #elixir-lang on Freenode.
 * [elixir-lang-core](http://groups.google.com/group/elixir-lang-core) - Mailinglist for Elixir Core development, use "talk" for questions and general discussions.
 * [elixir-lang-talk](https://groups.google.com/group/elixir-lang-talk) - Official Elixir Mailinglist for questions and discussions.
+* [ElixirSlack](https://elixir-slackin.herokuapp.com/) - Elixir Slack Community.
 * [FunctionalSlack](http://functionalslack.com/) - Functional Programming Slack Community: Clojure, Elixir, Erlang, Elm, Haskell, Julia, OCaml, Scala, F#.
 
 ## Editors
