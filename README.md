@@ -493,6 +493,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ja_serializer](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
 * [joken](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+* [jose] (https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 * [jsex](https://github.com/talentdeficit/exjsx) - json for Elixir.
 * [json](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 * [json_pointer](https://github.com/xavier/json_pointer) - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document.
