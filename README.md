@@ -539,6 +539,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [lineo](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
+* [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
 * [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 * [rebind](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
@@ -576,7 +577,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
-* [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
