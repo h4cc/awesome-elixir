@@ -240,7 +240,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 
 ## Command Line Applications
-*Anything helpfull for building CLI applications.*
+*Anything helpful for building CLI applications.*
 
 * [anubis](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
 * [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
