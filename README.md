@@ -23,6 +23,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Documentation](#documentation)
     - [ECMAScript](#ecmascript)
     - [Email](#email)
+    - [Embedded Systems](#embedded)
     - [Encoding and Compression](#encoding-and-compression)
     - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
@@ -329,6 +330,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mailer](https://github.com/antp/mailer) - A simple SMTP mailer.
 * [mailibex](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
 * [mailman](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+
+## Embedded Systems
+*Embedded systems development.*
+
+* [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
 
 ## Encoding and Compression
 *Transforming data in different formats or compressing it.*
