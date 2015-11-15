@@ -168,6 +168,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [oauth2ex](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 * [oauther](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 * [openmaize](https://github.com/elixircnx/openmaize) - Authentication and authorization library for Elixir.
+* [ueberauth](https://github.com/scrogson/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
+* [ueberauth_github](https://github.com/hassox/ueberauth_github) - A GitHub strategy for Überauth.
+* [ueberauth_identity](https://github.com/hassox/ueberauth_identity) - A simple username/password strategy for Überauth.
 * [xoauth2](https://github.com/craigp/elixir_xoauth2) - A simple XOAuth2 module for Elixir.
 
 ## Authorization
