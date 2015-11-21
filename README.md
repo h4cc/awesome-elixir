@@ -149,7 +149,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated. .
 * [n2o](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
-* [Queerlink](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir
+* [Queerlink](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ## Audio and Sounds
