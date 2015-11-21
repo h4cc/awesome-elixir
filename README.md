@@ -961,6 +961,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Utilities libraries. *
 
 * [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
+* [crutches](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 * [fitex](https://github.com/Puddah/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
