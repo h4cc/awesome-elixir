@@ -727,6 +727,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
+* [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ## Release Management
