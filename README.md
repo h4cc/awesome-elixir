@@ -117,6 +117,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+* [luhn](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
 * [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
