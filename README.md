@@ -122,6 +122,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [luhn](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
 * [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
+* [mmath](https://github.com/dalmatinerdb/mmath) - A library for performaing math on number 'arrays' in binaries.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
