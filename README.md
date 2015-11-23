@@ -495,6 +495,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [httprot](https://github.com/meh/httprot) - HTTP client library.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+* [plug_wait1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp.ws/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/monterail/tesla) - HTTP client library, with support for middleware and multiple adapters.
