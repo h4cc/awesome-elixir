@@ -414,6 +414,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
 * [http_router](https://github.com/slogsdon/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
+* [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
