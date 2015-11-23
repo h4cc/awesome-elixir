@@ -21,6 +21,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Documentation](#documentation)
+    - [Domain-specific language](#domain-specific-language)
     - [ECMAScript](#ecmascript)
     - [Email](#email)
     - [Embedded Systems](#embedded)
@@ -328,6 +329,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
 * [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
+
+## Domain-specific language
+*Specialized computer languages for a particular application domain.*
+
+* [graphql](https://github.com/joshprice/graphql-elixir) - An Elixir implementation of Facebook's GraphQL.
 
 ## ECMAScript
 *Implementations working with JavaScript, JScript or ActionScript.*
