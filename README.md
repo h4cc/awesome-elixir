@@ -220,6 +220,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rebar3_live](https://github.com/pvmart/rebar3_live) - Rebar3 live plugin.
 * [rebar3_neotoma_plugin](https://github.com/zamotivator/rebar3_neotoma_plugin) - Rebar3 neotoma (Parser Expression Grammar) compiler.
 * [rebar3_run](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
+* [rebar3_yang_plugin](https://github.com/surik/rebar3_yang_plugin) - Rebar3 yang compiler.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
