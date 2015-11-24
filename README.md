@@ -213,6 +213,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pc](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [rebar3_asn1_compiler](https://github.com/pyykkis/rebar3_asn1_compiler) - Plugin for compiling ASN.1 modules with Rebar3.
+* [rebar3_auto](https://github.com/tsloughter/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 * [rebar3_diameter_compiler](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
 * [rebar3_eqc](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
 * [rebar3_exunit](https://github.com/processone/rebar3_exunit) - A plugin to run Elixir ExUnit tests from rebar3 build tool.
