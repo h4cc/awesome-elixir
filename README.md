@@ -214,6 +214,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [rebar3_diameter_compiler](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
 * [rebar3_eqc](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
+* [rebar3_neotoma_plugin](https://github.com/zamotivator/rebar3_neotoma_plugin) - Rebar3 neotoma (Parser Expression Grammar) compiler.
 * [reltool_util](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
