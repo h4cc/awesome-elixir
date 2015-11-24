@@ -212,6 +212,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [pc](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+* [rebar3_abnfc_plugin](https://github.com/surik/rebar3_abnfc_plugin) - Rebar3 abnfc compiler.
 * [rebar3_asn1_compiler](https://github.com/pyykkis/rebar3_asn1_compiler) - Plugin for compiling ASN.1 modules with Rebar3.
 * [rebar3_auto](https://github.com/tsloughter/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 * [rebar3_diameter_compiler](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
