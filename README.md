@@ -431,6 +431,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [echo](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [flinch](https://github.com/rozap/finch) - Resource layer for Phoenix and Ecto projects for auto-generated RESTful CRUD APIs.
+* [graphql_parser](https://github.com/aarvay/graphql_parser) - An Elixir binding for [libgraphqlparser](https://github.com/graphql/libgraphqlparser).
 * [http_router](https://github.com/slogsdon/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
