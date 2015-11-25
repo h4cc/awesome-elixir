@@ -147,6 +147,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
+* [Exon](https://github.com/Annwenn/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
 * [hyperledger](https://github.com/danoprey/hyperledger-server) - (No Longer Maintained) Reference server for the Hyperledger protocol.
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated. .
 * [n2o](https://github.com/synrc/n2o) - WebSocket Application Server.
@@ -321,6 +322,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exometer](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
+* [visualixir](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
