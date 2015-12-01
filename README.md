@@ -24,7 +24,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Domain-specific language](#domain-specific-language)
     - [ECMAScript](#ecmascript)
     - [Email](#email)
-    - [Embedded Systems](#embedded)
+    - [Embedded Systems](#embedded-systems)
     - [Encoding and Compression](#encoding-and-compression)
     - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
