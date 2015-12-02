@@ -1023,6 +1023,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exjprop](https://github.com/stocks29/exjprop.git) - Elixir library for reading Java properties files from various sources.
 * [fitex](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 * [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
+* [mandrake](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 * [pubsub](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 * [sips_downloader](https://github.com/DavsX/SipsDownloader) - Elixir module for downloading the ElixirSips episodes and all other files.
 
