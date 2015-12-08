@@ -487,6 +487,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
+* [distance_api_matrix](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [geocalc](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 * [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
