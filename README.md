@@ -536,7 +536,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bump](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
-* [exfavicon](https://github.com/ikeikeikeike/exfavicon) - Elixir library for discovering favicons.
+* [exfavicon](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 * [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [imgex](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
