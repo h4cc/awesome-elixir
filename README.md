@@ -299,6 +299,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 * [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 * [rsa](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
+* [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 * [tea_crypto](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
 
 ## CSV
