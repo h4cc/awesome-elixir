@@ -418,6 +418,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [elixgrep](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 * [ex_minimatch](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
+* [exfile](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
 * [exfswatch](https://github.com/falood/exfswatch) - A file change watcher wrapper based on [fs](https://github.com/synrc/fs).
 * [fs](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
