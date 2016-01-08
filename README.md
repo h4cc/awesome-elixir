@@ -280,6 +280,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 * [meld](https://github.com/sup/meld) - Create global binaries from mix tasks.
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+* [table_rex](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ## Configuration
 *Libraries and tools working with configurations*
