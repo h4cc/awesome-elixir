@@ -149,6 +149,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
 * [Exon](https://github.com/Annwenn/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
+* [GitChecker](https://github.com/madshargreave/gitchecker) - GitChecker is an open source tool which aggregates statistics about Github projects.
 * [hyperledger](https://github.com/danoprey/hyperledger-server) - (No Longer Maintained) Reference server for the Hyperledger protocol.
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated. .
 * [medex](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
