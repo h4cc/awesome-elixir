@@ -277,6 +277,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [anubis](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
 * [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+* [meld](https://github.com/sup/meld) - Create global binaries from mix tasks.
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ## Configuration
