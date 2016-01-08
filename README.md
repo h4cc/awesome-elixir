@@ -489,7 +489,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Frameworks
 *Web development frameworks.*
 
-* [clint](https://github.com/lpil/clint) - An Elixir web micro-framework, inspired by Sinatra, built on top of Plug and Cowboy.
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar sytnax goodies.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
