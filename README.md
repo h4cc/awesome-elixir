@@ -460,7 +460,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [phoenix_pubsub_rabbitmq](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 * [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 * [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
-* [phoenix_slim](https://github.com/doomspork/phoenix_slim) - Slim template support for Phoenix.
+* [phoenix_slim](https://github.com/slime-lang/phoenix_slim) - Slim template support for Phoenix.
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
@@ -941,7 +941,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ref_inspector](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
-* [slim_fast](https://github.com/doomspork/slim_fast) - An Elixir library for rendering slim templates.
+* [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 * [slugger](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
