@@ -33,6 +33,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Formulars](#formulars)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
+    - [Games](#games)
     - [Geolocation](#geolocation)
     - [Hardware](#hardware)
     - [HTTP](#http)
@@ -496,6 +497,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+
+## Games
+*Libraries for and implementations of games.*
+
+* [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
