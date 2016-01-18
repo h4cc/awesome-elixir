@@ -608,6 +608,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kwfuns](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
 * [lineo](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
+* [ok_jose](https://github.com/vic/ok_jose) - Pipe elixir functions that match {:ok,_}, {:error,_} tuples or custom patterns
 * [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 * [rebind](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
