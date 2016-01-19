@@ -209,7 +209,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for caching data.*
 
 * [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
-* [elixir_locker](https://github.com/tsharju/elixir_locker) - Lockeris a Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
+* [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ## Cloud Infrastructure and Management
