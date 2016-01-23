@@ -498,6 +498,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+* [weber](https://github.com/elixir-web/weber) - Web framework for Elixir inspired by Rails. 
 
 ## Games
 *Libraries for and implementations of games.*
