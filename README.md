@@ -1175,7 +1175,6 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
-* [Phoenix Screencasts](http://phoenixscreencasts.com/) - Weekly tutorial screencasts for busy developers that are interested in Web Programming in Elixir and Phoenix.
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
