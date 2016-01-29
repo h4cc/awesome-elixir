@@ -809,7 +809,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
-* [enm](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library
+* [enm](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ## Release Management
 *Libraries and tools for release management.*
