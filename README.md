@@ -796,6 +796,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dbus](https://github.com/aforward/dbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
 * [elixir_nsq](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 * [elixir_talk](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
+* [enm](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 * [exdisque](https://github.com/mosic/exdisque) - Elixir client for [Disque](https://github.com/antirez/disque), an in-memory, distributed job queue.
 * [exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
@@ -809,7 +810,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
-* [enm](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+
 
 ## Release Management
 *Libraries and tools for release management.*
