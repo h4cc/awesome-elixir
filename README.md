@@ -123,8 +123,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 * [luhn](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
 * [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
+* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 * [mmath](https://github.com/dalmatinerdb/mmath) - A library for performaing math on number 'arrays' in binaries.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
