@@ -129,6 +129,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 * [parallel_stream](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+* [paratize](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 * [parex](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 * [red_black_tree](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 * [remodel](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
@@ -258,7 +259,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [IElixir](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 * [Kubex](https://github.com/ingerslevio/kubex) - Kubernetes client and integration for Elixir, written in pure Elixir.
 * [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
-* [paratize](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing facilities that supports configuring number of workers and timeout.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
