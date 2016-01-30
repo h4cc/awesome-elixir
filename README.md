@@ -452,7 +452,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [graphql_parser](https://github.com/aarvay/graphql_parser) - An Elixir binding for [libgraphqlparser](https://github.com/graphql/libgraphqlparser).
 * [http_router](https://github.com/slogsdon/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
-* [params](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rail's strong parameters.
+* [params](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
