@@ -748,6 +748,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [moebius](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 * [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
+* [mongodb](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 * [mysql](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
