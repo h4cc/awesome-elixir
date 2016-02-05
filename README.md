@@ -341,6 +341,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 * [eh](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
+* [elixometer](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
 * [eper](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [erlang-metrics](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
 * [ether](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
