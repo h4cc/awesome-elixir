@@ -792,6 +792,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [msgpax](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+* [riffed](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ## Queue
 *Libraries for working with event and task queues.*
