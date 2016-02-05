@@ -972,6 +972,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [unit_fun](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type saftey when dealing with numeric quantities.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+* [xe](https://github.com/paulodiniz/xe) - Realtime currency conversion
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
