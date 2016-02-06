@@ -152,7 +152,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
 * [Exon](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
-* [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated. .
+* [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated.
 * [medex](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 * [n2o](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
@@ -266,7 +266,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
 
-* [belvedere](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir .
+* [belvedere](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir.
 * [coverex](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [credo](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir.
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
@@ -769,7 +769,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 * [timex_ecto](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 * [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
-* [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client .
+* [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP
