@@ -744,6 +744,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exseed](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
+* [inquisitor](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [isn](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 * [kalecto](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
