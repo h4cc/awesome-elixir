@@ -1205,7 +1205,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
 
-* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community-driven style guide for Elixir.
+* [niftyn8/elixir_style_guide](https://github.com/niftyn8/elixir_style_guide) - A community-driven style guide for Elixir.
+* [rrrene/elixir-style-guide](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo](https://github.com/rrrene/credo).
 
 ## Websites
 *Useful web and Elixir-related websites and newsletters.*
