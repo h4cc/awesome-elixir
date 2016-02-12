@@ -376,6 +376,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Email
 *Working with Email and stuff.*
 
+* [bamboo](https://github.com/paulcsmith/bamboo) - Flexible and easy to use email for Elixir.
 * [echo](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 * [gen_smtp](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 * [mail](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
