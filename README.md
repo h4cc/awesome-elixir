@@ -249,6 +249,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
