@@ -249,6 +249,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
@@ -657,6 +658,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
+* [expool](https://github.com/zackehh/expool) - A small process pooling library for parallel tasks in Elixir.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
