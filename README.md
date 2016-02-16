@@ -1172,8 +1172,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Alchemist](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 * [Alchemist-Server](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 * [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
-* [atom-iex](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 * [atom-elixir](https://github.com//msaraiva/atom-elixir) - An Atom package for Elixir.
+* [atom-iex](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 * [elixir_generator](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 * [intellij_elixir](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
