@@ -441,6 +441,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exfswatch](https://github.com/falood/exfswatch) - A file change watcher wrapper based on __fs__.
 * [eye_drops](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
 * [fs](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+* [fwatch](https://github.com/ryo33/fwatch-ex) - A callback-based file watcher based on __fs__.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
