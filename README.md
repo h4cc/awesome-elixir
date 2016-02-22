@@ -672,6 +672,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
+* [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
