@@ -1033,6 +1033,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exjira](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 * [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [exstagram](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
+* [extripe](https://github.com/princemaple/extripe) - Feature complete Stripe API wrapper.
 * [extwitter](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 * [exurban](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
