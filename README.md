@@ -94,7 +94,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
 ## Algorithms and Data structures
-*Lib raries and implementations of algorithms and data structures.*
+*Libraries and implementations of algorithms and data structures.*
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [aruspex](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
