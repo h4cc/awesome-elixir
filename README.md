@@ -94,7 +94,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
 ## Algorithms and Data structures
-*Libraries and implementations of algorithms and data structures.*
+*Lib raries and implementations of algorithms and data structures.*
 
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [aruspex](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
@@ -108,6 +108,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
+* [erlang-algorithms](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 * [elistrix](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [exconstructor](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 * [exfsm](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
