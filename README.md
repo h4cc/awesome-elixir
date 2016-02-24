@@ -740,6 +740,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-lang/ecto) - A database wrapper and language integrated query for Elixir.
 * [ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+* [ecto_fixtures](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
 * [ecto_hstore](https://github.com/stavro/ecto_hstore) - Ecto.Hstore adds Postgres Hstore compatibility to Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
