@@ -1167,8 +1167,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [#elixir-lang](http://webchat.freenode.net/?channels=elixir-lang) - The IRC Channel #elixir-lang on Freenode.
 * [elixir-lang-core](https://groups.google.com/d/forum/elixir-lang-core) - Mailinglist for Elixir Core development, use "talk" for questions and general discussions.
 * [elixir-lang-talk](https://groups.google.com/d/forum/elixir-lang-talk) - Official Elixir Mailinglist for questions and discussions.
-* [Elixir Forum](http://elixirforum.com/) - Community run discussion forums for all things Elixir.
 * [ElixirSlack](https://elixir-slackin.herokuapp.com/) - Elixir Slack Community.
+* [Elixir Forum](http://elixirforum.com/) - Community run discussion forums for all things Elixir.
 
 ## Editors
 *Editors and IDEs useable for Elixir/Erlang*
