@@ -1172,6 +1172,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Getting in contact with the community via chat or mailinglist.*
 
 * [#elixir-lang](http://webchat.freenode.net/?channels=elixir-lang) - The IRC Channel #elixir-lang on Freenode.
+* [Elixir Forum](http://elixirforum.com/) - Community run discussion forums for all things Elixir.
 * [elixir-lang-core](https://groups.google.com/d/forum/elixir-lang-core) - Mailinglist for Elixir Core development, use "talk" for questions and general discussions.
 * [elixir-lang-talk](https://groups.google.com/d/forum/elixir-lang-talk) - Official Elixir Mailinglist for questions and discussions.
 * [ElixirSlack](https://elixir-slackin.herokuapp.com/) - Elixir Slack Community.
