@@ -368,6 +368,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Domain-specific language
 *Specialized computer languages for a particular application domain.*
 
+* [Absinthe Graphql](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 * [graphql](https://github.com/joshprice/graphql-elixir) - An Elixir implementation of Facebook's GraphQL.
 
 ## ECMAScript
