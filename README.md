@@ -5,6 +5,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Actors](#actors)
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
+    - [Artificial Intelligence](#artificial-intelligence)
     - [Audio and Sounds](#audio-and-sounds)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
