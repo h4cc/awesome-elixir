@@ -1092,6 +1092,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [sendgrid](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+* [sparkpost](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 * [statix](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [stripity_stripe](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
