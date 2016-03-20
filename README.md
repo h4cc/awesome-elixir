@@ -450,7 +450,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
-* [ex_guard](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications
+* [ex_guard](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 
 ## Formulars
 *Handling web formulars and similar stuff.*
