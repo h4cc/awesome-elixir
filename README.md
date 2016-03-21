@@ -768,6 +768,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
 * [exseed](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 * [exts](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
+* [github_ecto](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 * [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 * [inquisitor](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
