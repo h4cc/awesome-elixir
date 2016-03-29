@@ -851,6 +851,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+* [verk](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 
