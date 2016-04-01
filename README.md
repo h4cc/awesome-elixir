@@ -1198,6 +1198,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Alchemist](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 * [Alchemist-Server](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+* [Alchemist.vim](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 * [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
 * [atom-elixir](https://github.com//msaraiva/atom-elixir) - An Atom package for Elixir.
 * [atom-iex](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
