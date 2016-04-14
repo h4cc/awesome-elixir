@@ -541,6 +541,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [geocalc](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 * [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+* [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## Hardware
 *Hardware related things like I/O interfaces and such.*
