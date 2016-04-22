@@ -688,6 +688,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
+* [phone](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
 * [ratx](https://github.com/liveforeverx/ratx) - Rate limiter and overload protection for erlang application.
