@@ -163,9 +163,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [medex](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 * [n2o](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nvjorn](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+* [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
-* [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 * [poxa](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
@@ -1046,7 +1046,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [airbrake](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
 * [airbrakex](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 * [amazon_product_advertising_client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
-* [anilixir](https://github.com/sotojuan/anilixir) - Elixir client for the Anilist API
+* [anilixir](https://github.com/sotojuan/anilixir) - Elixir client for the Anilist API.
 * [apns](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 * [asanaficator](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
@@ -1165,11 +1165,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and implementations for validation of data.*
 
 * [avex](https://hex.pm/packages/avex) - Awesome validations for Elixir.
+* [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 * [shape](https://hex.pm/packages/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
-* [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
 ## Version Control
 *Working with version control like git, mercury, subversion ...*
