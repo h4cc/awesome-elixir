@@ -1177,6 +1177,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
+* [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
