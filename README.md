@@ -741,6 +741,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for working with office suite documents.*
 
 * [excellent](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
+* [xlsxir](https://github.com/kennellroxco/xlsxir) - Excel parser for Elixir returning data in either a list or a map.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
