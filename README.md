@@ -1158,6 +1158,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
+* [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
 ## Version Control
 *Working with version control like git, mercury, subversion ...*
