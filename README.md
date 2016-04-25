@@ -874,6 +874,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [changex](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+* [exrm_deb](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
+* [exrm_docker](https://github.com/kwrooijen/exrm_docker) - Exrm plugin to dockerize your Elixir release.
 * [exrm_heroku](https://github.com/ride/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
