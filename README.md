@@ -424,6 +424,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [butler_cage](https://github.com/keathley/butler_cage) - A Butler plugin for showing silly photos of Nick Cage.
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
+* [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 * [ex_iss](https://hex.pm/packages/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 * [harakiri](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
