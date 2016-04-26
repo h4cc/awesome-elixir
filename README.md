@@ -823,6 +823,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
+* [riak_ecto](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ## OTP
 *Libraries for working with OTP related things.*
