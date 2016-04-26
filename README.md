@@ -787,6 +787,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [neo4j_sips_models](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 * [postgrex](https://github.com/ericmj/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
+* [redix](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
