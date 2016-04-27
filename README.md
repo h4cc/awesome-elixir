@@ -974,6 +974,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [setup_tag](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
 * [shouldi](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 * [tuco_tuco](https://github.com//stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
+* [wallaby](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 * [white_bread](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ## Text and Numbers
