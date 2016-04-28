@@ -701,6 +701,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
+* [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
