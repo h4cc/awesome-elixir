@@ -744,7 +744,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
-* [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
 
 ## Office
 *Libraries for working with office suite documents.*
@@ -1191,7 +1190,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
-* [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 * [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
@@ -1288,8 +1286,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 * [Elixir Job Board](http://jobs.elixirdose.com) - A job board for Elixir, and community of Elixir developers, [written using Phoenix](https://github.com/rizafahmi/elixirjobs).
-* [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [Elixir Playground](http://play.elixirbyexample.com/) - Try Elixir code in your browser.
+* [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar) - The "official" Elixir newsletter, published weekly via email by Plataformatec.
 * [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
 * [Elixre](http://www.elixre.uk/) - An Elixir regular expression editor & tester.
