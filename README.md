@@ -174,8 +174,10 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ## Artificial Intelligence
-* [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex.git) - An Elixir implementation of the NEAT algorithm
-* [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir
+*When your code becomes smarter than you.*
+
+* [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir.
+* [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex.git) - An Elixir implementation of the NEAT algorithm.
 
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
@@ -707,7 +709,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
-* [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package
+* [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
