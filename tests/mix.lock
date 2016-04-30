@@ -1,6 +1,10 @@
-%{"earmark": {:hex, :earmark, "0.1.12"},
-  "hackney": {:hex, :hackney, "0.14.3"},
-  "httpoison": {:hex, :httpoison, "0.5.0"},
+%{"certifi": {:hex, :certifi, "0.4.0"},
+  "earmark": {:hex, :earmark, "0.2.1"},
+  "hackney": {:hex, :hackney, "1.6.0"},
+  "httpoison": {:hex, :httpoison, "0.8.3"},
   "httpotion": {:hex, :httpotion, "0.2.4"},
   "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
-  "idna": {:hex, :idna, "1.0.1"}}
+  "idna": {:hex, :idna, "1.2.0"},
+  "metrics": {:hex, :metrics, "1.0.1"},
+  "mimerl": {:hex, :mimerl, "1.0.2"},
+  "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.0"}}
