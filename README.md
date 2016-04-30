@@ -220,7 +220,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Definitions how something should behave, like Interfaces from OOP-World*
 
 * [connection](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
-* [stockastic](https://hex.pm/packages/stockastic) - Simple Elixir wrapper for the Stockfighter API.
+* [stockastic](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
 ## Bittorrent
 *Sharing is caring with Elixir*
@@ -434,7 +434,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
-* [ex_iss](https://hex.pm/packages/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
+* [ex_iss](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 * [harakiri](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 * [kaisuu](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
@@ -1178,9 +1178,9 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Validations
 *Libraries and implementations for validation of data.*
 
-* [avex](https://hex.pm/packages/avex) - Awesome validations for Elixir.
+* [avex](https://github.com/jonhkr/avex) - Awesome validations for Elixir.
 * [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
-* [shape](https://hex.pm/packages/shape) - A data validation library for Elixir based on Prismatic Scheme.
+* [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
