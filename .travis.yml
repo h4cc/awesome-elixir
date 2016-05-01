@@ -1,8 +1,7 @@
-language: elixir
-
-# Using faster container based build environment.
-sudo: false
-
-before_install: cd ./tests
-
-script: mix run -r http.exs check.exs
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md
