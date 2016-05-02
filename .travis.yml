@@ -5,4 +5,4 @@ sudo: false
 
 before_install: cd ./tests
 
-script: mix run -r http.exs check.exs
+script: mix run check.exs
