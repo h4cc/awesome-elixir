@@ -753,7 +753,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
-* [yodel](https://github.com/jquadrin/yodel) - Extensible Messaging & Presence Protocol (XMPP) client in Elixir.
 
 ## Office
 *Libraries for working with office suite documents.*
@@ -1200,7 +1199,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
-* [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 * [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
