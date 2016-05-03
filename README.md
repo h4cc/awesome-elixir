@@ -658,6 +658,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rollbax](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 * [slack_logger_backend](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+* [logglix](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
 
 ## Macros
 *Macros for faster and easier development. Sugar for your code.*
