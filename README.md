@@ -1309,6 +1309,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Erlang Patterns](http://www.erlangpatterns.org/) - Unlike traditional software design pattern efforts, which tend to emphasize the importance of code reuse, this project emphasizes patterns that feel good to humans.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
+* [Plataformatec Feed](http://blog.plataformatec.com.br/tag/elixir/feed/) - The Plataformatec elixir blog feed.
 * [Weekly Elixir Digest](http://elixirdigest.net) - A weekly newsletter with the latest articles on Elixir and Phoenix.
 
 # Contributing
