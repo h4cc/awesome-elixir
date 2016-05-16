@@ -356,6 +356,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 * [tzdata](https://github.com/lau/tzdata) - The timezone database in Elixir.
+* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting
 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
