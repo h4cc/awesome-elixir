@@ -712,7 +712,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [growl](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
-* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting
+* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
