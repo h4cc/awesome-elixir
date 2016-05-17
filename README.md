@@ -349,7 +349,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_ical](https://github.com/fazibear/ex_ical) - ICalendar parser.
 * [filtrex](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 * [good_times](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
-* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting
+* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
