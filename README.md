@@ -349,7 +349,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_ical](https://github.com/fazibear/ex_ical) - ICalendar parser.
 * [filtrex](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 * [good_times](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
-* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
@@ -714,6 +713,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [growl](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
+* [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
