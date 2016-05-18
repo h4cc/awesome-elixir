@@ -24,6 +24,16 @@ defmodule Awesome do
 
     import Awesome.Order
 
+    # This is how a line has to look like.
+    @line_regex ~r/^\[([^]]+)\]\(([^)]+)\) - (.+)([\.\!]+)$/
+
+    defp parse_line(line) do
+        case Regex.run @line_regex, line do
+          nil -> raise("Line does not match format: '#{line}' Is there a dot at the end?")
+          [^line, name, link, description, _dot] -> [name, link, description]
+        end
+    end
+
     defp debug(message) do
         IO.puts "[debug] #{message}"
     end
@@ -93,7 +103,7 @@ defmodule Awesome do
         entries = Enum.map(entriesList, fn %Earmark.Block.ListItem{blocks: [ %Earmark.Block.Para{lines: [ line ]} ]} -> line end)
         names = Enum.map(entries, fn line ->
             line = line |> String.strip(?~)
-            [^line, name | _rest] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
+            [name | _rest] = parse_line line
             name
         end)
         check_string_list_in_order(names)
@@ -164,7 +174,7 @@ defmodule Awesome do
         if String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
             line = line |> String.strip(?~)
         end
-        [^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)\./, line
+        [name, link, description | _rest] = parse_line line
         IO.puts "\t'#{name}' #{link} '#{description}'"
     end
 end
