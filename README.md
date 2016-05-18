@@ -133,7 +133,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 * [mmath](https://github.com/dalmatinerdb/mmath) - A library for performaing math on number 'arrays' in binaries.
-* [monad] (https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
+* [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
@@ -566,8 +566,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [geocalc](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 * [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 * [ip2location](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
+* [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
 * [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
-* [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country
 
 ## Hardware
 *Hardware related things like I/O interfaces and such.*
