@@ -1175,6 +1175,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [ar2ecto](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
 * [crutches](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
+* [dot-notes](https://github.com/zackehh/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
 * [erlsh](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
