@@ -328,6 +328,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 * [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 * [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+* [ex_bcrypt](https://github.com/manelli/ex_bcrypt) - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
 * [ex_crypto](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 * [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 * [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
