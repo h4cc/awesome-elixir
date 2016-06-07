@@ -575,6 +575,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Hardware related things like I/O interfaces and such.*
 
 * [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+* [nerves](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
