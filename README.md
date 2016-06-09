@@ -440,6 +440,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
 * [dice](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+* [ex_chain](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 * [ex_iss](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 * [harakiri](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
@@ -453,7 +454,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger [https://hellostranger.xyz](hellostranger.xyz).
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
-* [ex_chain](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
