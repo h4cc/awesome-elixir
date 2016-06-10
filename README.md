@@ -610,6 +610,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [artifact](https://github.com/doomspork/artifact) - File upload and on-the-fly processing for Elixir.
 * [bump](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+* [cloudex](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 * [eikon](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 * [elixir_exif](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
