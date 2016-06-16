@@ -191,7 +191,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ## Authentication
-*Libraries for implementing authentications schemes.*
+*Libraries for implementing authentication schemes.*
 
 * [aeacus](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
