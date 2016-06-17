@@ -636,7 +636,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [jsonapi](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 * [jsx](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx but with maps.
-* [jwalk](https://github.com/jr0senblum/jwalk) - A helper module for working with Erlang proplists, eep 18, map and mochijson-style JSON representations
+* [jwalk](https://github.com/jr0senblum/jwalk) - A helper module for working with Erlang proplists, eep 18, map and mochijson-style JSON representations.
 * [jwtex](https://github.com/mschae/jwtex) - A library to encode and decode [JWT tokens](http://jwt.io/).
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 * [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
