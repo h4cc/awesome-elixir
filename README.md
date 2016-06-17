@@ -274,6 +274,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [cachex](https://github.com/zackehh/cachex) - A powerful caching library for Elixir with a wide featureset.
 * [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 * [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
+* [jc](https://github.com/jr0senblum/jc) - In-memory, distrbutable cache with pub/sub, JSON-query and consistency support.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
