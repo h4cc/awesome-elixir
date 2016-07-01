@@ -761,6 +761,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [Guri](https://github.com/elvio/guri) - Automate tasks using chat messages.
 * [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [kaguya](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
+* [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
