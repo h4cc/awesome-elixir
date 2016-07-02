@@ -354,6 +354,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [good_times](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+* [momento](https://github.com/mathewdgardner/momento) - An Elixir port of Moment.js for the purpose of parsing, validating, manipulating, and formatting dates.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
