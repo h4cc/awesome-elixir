@@ -212,7 +212,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [openmaize](https://github.com/riverrun/openmaize) - Authentication library for Elixir.
 * [ueberauth](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
 * [ueberauth_auth0](https://hex.pm/packages/ueberauth_auth0) - An Ueberauth strategy for using Auth0 to authenticate your users.
-* [ueberauth_active_directory](https://github.com/torrick/ueberauth_active_directory) - Ueberauth strategy for Active Directory authentication
+* [ueberauth_active_directory](https://github.com/torrick/ueberauth_active_directory) - Ueberauth strategy for Active Directory authentication.
 * [ueberauth_facebook](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
 * [ueberauth_github](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
 * [ueberauth_google](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
