@@ -10,6 +10,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Behaviours and Interfaces](#behaviours-and-interfaces)
+    - [Benchmarking](#benchmarking)
     - [Bittorrent](#bittorrent)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
@@ -230,6 +231,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [gen_state_machine](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen_statem.
 * [stockastic](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
+## Benchmarking
+*Running code to see how long it takes, which is faster and/or if improvements have been made.*
+
+* [benchee](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
+* [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+* [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
+
 ## Bittorrent
 *Sharing is caring with Elixir*
 
@@ -369,8 +377,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and tools for debugging code and applications.*
 
 * [beaker](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
-* [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-* [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
 * [dbg](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [eflame](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
