@@ -198,6 +198,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
 * [aws_auth](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
 * [blackbook](https://github.com/bigmachine-io/blackbook) - All-in-one membership/authentication system for Elixir.
+* [coherence](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix.
 * [github_oauth](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
 * [goth](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 * [guardian](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications.
