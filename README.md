@@ -543,6 +543,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [plug_require_header](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_ribbon](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
+* [plug_secex](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 * [plug_statsd](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
