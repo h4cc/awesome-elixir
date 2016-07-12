@@ -514,6 +514,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [graphql_parser](https://github.com/aarvay/graphql_parser) - An Elixir binding for [libgraphqlparser](https://github.com/graphql/libgraphqlparser).
 * [http_router](https://github.com/slogsdon/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
+* [kerosene](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
 * [params](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
