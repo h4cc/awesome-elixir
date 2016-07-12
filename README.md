@@ -771,6 +771,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Networking
 *Libraries and tools for using network related stuff.*
 
+* [asn](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [eio](https://github.com/falood/eio) - Elixir server of [engine.io](http://www.engine.io/).
