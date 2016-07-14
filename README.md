@@ -76,6 +76,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Books](#books)
     - [Community](#community)
     - [Editors](#editors)
+    - [Newsletters](#newsletters)
     - [Other Awesome Lists](#other-awesome-lists)
     - [Reading](#reading)
     - [Screencasts](#screencasts)
