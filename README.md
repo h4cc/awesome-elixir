@@ -1149,6 +1149,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [forcex](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
+* [githubissues](https://github.com/PatNowak/GithubIssues-Elixir) -  It fetches issues from GitHub for selected user and project.
 * [google_sheets](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
