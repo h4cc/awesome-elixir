@@ -148,6 +148,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [rendezvous](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 * [sfmt](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [simhash](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
+* [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes (a.k.a. [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)) implementation in Elixir.
 * [sorted_set](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 * [spacesaving](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 * [structurez](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
@@ -977,6 +978,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
 * [mtx](https://github.com/synrc/mtx) - MTX supports front-end API for tracking Historgram, Meter, Counter, Gauge, Timing keys.
+* [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes (a.k.a. [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)) implementation in Elixir.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [wizard](https://github.com/raywan/wizard) - Math and statistics functions for Elixir.
 
