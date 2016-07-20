@@ -1111,6 +1111,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
+* [airbax](https://github.com/adjust/airbax) - Exception tracking from Elixir to Airbrake.
 * [airbrake](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
 * [airbrakex](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 * [amazon_product_advertising_client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
