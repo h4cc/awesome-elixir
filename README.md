@@ -978,7 +978,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
 * [mtx](https://github.com/synrc/mtx) - MTX supports front-end API for tracking Historgram, Meter, Counter, Gauge, Timing keys.
-* [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes (a.k.a. [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)) implementation in Elixir.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [wizard](https://github.com/raywan/wizard) - Math and statistics functions for Elixir.
 
