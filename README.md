@@ -949,6 +949,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 * [bottler](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [changex](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
+* [eliver](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_deb](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
