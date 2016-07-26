@@ -499,6 +499,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [fwatch](https://github.com/ryo33/fwatch-ex) - A callback-based file watcher based on __fs__.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
+* [sentix](https://github.com/zackehh/sentix) - A cross-platform file watcher for Elixir based on fswatch.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ## Formulars
