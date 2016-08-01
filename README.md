@@ -1172,6 +1172,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
 * [google_sheets](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
+* [govtrack](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
 * [kane](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
