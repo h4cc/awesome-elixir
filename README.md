@@ -1269,6 +1269,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## XML
 *Libraries and implementations working with XML.*
 
+* [bupe](https://github.com/milmazz/bupe) - BUPE is a Elixir ePub generator and parser (supports EPUB v2 and v3).
 * [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
