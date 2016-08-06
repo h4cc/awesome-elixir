@@ -672,6 +672,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 * [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
+## BSON
+*Libraries and implementations working with BSON.*
+
+* [elixir-bson](https://github.com/checkiz/elixir-bson) - Read BSON documents in Elixir language.
+* [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
+
 ## Languages
 *Languages built on top of Elixir.*
 
