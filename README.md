@@ -41,6 +41,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [HTTP](#http)
     - [Images](#images)
     - [JSON](#json)
+    - [BSON](#bson)
     - [Languages](#languages)
     - [Lexical analysis](#lexical-analysis)
     - [Logging](#logging)
@@ -675,7 +676,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## BSON
 *Libraries and implementations working with BSON.*
 
-* [elixir-bson](https://github.com/checkiz/elixir-bson) - Read BSON documents in Elixir language.
 * [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
 
 ## Languages
