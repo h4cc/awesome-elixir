@@ -603,6 +603,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 * [ip2location](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
 * [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
+* [proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 * [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## Hardware
