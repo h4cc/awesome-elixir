@@ -528,7 +528,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [http_router](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [kerosene](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
-* [multiverse](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Gateways.
+* [multiverse](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 * [params](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 * [passport](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
