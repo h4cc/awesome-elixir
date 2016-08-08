@@ -109,6 +109,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [count_buffer](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 * [cuckoo](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
 * [cuid](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
+* [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
