@@ -981,7 +981,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and tools regarding security.*
 
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
-* [ssl_verify_hostname](https://github.com/benoitc/ssl_verify_hostname) - Erlang library for certificate hostname validation based on RFC 6125.
+* [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
