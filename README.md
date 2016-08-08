@@ -1139,8 +1139,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [coinbase](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
-* [digoc](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 * [digitalocean](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
+* [digoc](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 * [diplomat](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
 * [docker](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
 * [dogstatsd](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
