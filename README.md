@@ -1015,6 +1015,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
+* [bypass](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 * [ecto_it](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
 * [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
