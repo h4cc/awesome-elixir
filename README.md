@@ -696,6 +696,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [json_logger](https://github.com/LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
 * [lager_logger](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+* [exlager](https://github.com/khia/exlager) - Elixir binding for lager
 * [logfmt](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
 * [logger_logstash_backend](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
 * [logglix](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
