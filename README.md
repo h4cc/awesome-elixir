@@ -633,6 +633,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
+* [Tube](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 * [uri_template](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 * [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 * [webdriver](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
