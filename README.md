@@ -15,6 +15,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [BSON](#bson)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
+    - [Chatting](#chatting)
     - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
     - [Code Analysis](#code-analysis)
     - [Command Line Applications](#command-line-applications)
@@ -304,6 +305,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
+## Chatting
+*Chatting via IRC, Slack, HipChat and other systems using Elixir.*
+
+* [cog](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
 
@@ -478,12 +484,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [kaisuu](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 * [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
+* [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [oop](https://github.com/wojtekmach/oop) - OOP in Elixir!
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 * [portal](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
 * [rubix](https://github.com/YellowApple/Rubix) - A very simple (and barely-functioning) Ruby runner for Elixir.
-* [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
