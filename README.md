@@ -12,6 +12,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Behaviours and Interfaces](#behaviours-and-interfaces)
     - [Benchmarking](#benchmarking)
     - [Bittorrent](#bittorrent)
+    - [BSON](#bson)
     - [Build Tools](#build-tools)
     - [Caching](#caching)
     - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
@@ -41,7 +42,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [HTTP](#http)
     - [Images](#images)
     - [JSON](#json)
-    - [BSON](#bson)
     - [Languages](#languages)
     - [Lexical analysis](#lexical-analysis)
     - [Logging](#logging)
@@ -256,6 +256,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [bento](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 * [tracker_request](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 * [wire](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
+
+## BSON
+*Libraries and implementations working with BSON.*
+
+* [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -678,11 +683,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 * [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
-## BSON
-*Libraries and implementations working with BSON.*
-
-* [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
-
 ## Languages
 *Languages built on top of Elixir.*
 
@@ -698,13 +698,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Logging
 *Logging infos and messages.*
 
+* [exlager](https://github.com/khia/exlager) - Elixir binding for lager.
 * [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
 * [gelf_logger](https://github.com/jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
 * [honeybadger](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 * [json_logger](https://github.com/LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
 * [lager](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
 * [lager_logger](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
-* [exlager](https://github.com/khia/exlager) - Elixir binding for lager
 * [logfmt](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
 * [logger_logstash_backend](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
 * [logglix](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
