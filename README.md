@@ -308,7 +308,14 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Chatting
 *Chatting via IRC, Slack, HipChat and other systems using Elixir.*
 
+* [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [cog](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+* [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+* [Guri](https://github.com/elvio/guri) - Automate tasks using chat messages.
+* [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
+* [kaguya](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
+* [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+* [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
@@ -808,23 +815,16 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [asn](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
-* [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [eio](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ejabberd](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
-* [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-* [Guri](https://github.com/elvio/guri) - Automate tasks using chat messages.
-* [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
-* [kaguya](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-* [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
-* [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ## Office
 *Libraries for working with office suite documents.*
