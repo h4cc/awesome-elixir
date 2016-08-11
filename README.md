@@ -669,6 +669,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [cloudex](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 * [eikon](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 * [elixir_exif](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
+* [ex_image_info](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
 * [exfavicon](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 * [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
