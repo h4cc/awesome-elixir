@@ -433,6 +433,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
 * [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
+* [phoenix_swagger](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ## Domain-specific language
 *Specialized computer languages for a particular application domain.*
