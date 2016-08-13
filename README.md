@@ -991,6 +991,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
 * [relisa](https://github.com/SenecaSystems/relisa) - Fast, simple, and composable deployment library for Elixir.
+* [renew](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
