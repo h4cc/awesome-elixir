@@ -643,6 +643,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [elli](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 * [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript](https://github.com/gamache/fuzzyurl.js).
+* [hackney](https://github.com/benoitc/hackney) - Simple HTTP client.
 * [http](https://github.com/slogsdon/http) - HTTP server for Elixir.
 * [http_digex](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
 * [http_proxy](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
