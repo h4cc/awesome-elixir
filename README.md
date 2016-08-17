@@ -766,8 +766,8 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [address_us](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
 * [Apex](https://github.com/bjro/apex) - Awesome Print for Elixir.
-* [charm](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
 * [bupe](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
+* [charm](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
 * [Countries](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
