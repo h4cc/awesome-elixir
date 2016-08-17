@@ -526,6 +526,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [sentix](https://github.com/zackehh/sentix) - A cross-platform file watcher for Elixir based on fswatch.
+* [sizeable](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ## Formulars
