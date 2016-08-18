@@ -1082,6 +1082,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
+* [abacus](https://github.com/narrowtux/abacus) - Evalutate math terms in Elixir.
 * [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
 * [base58check](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
 * [base62](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
