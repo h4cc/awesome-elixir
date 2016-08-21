@@ -1236,6 +1236,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pusher](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
+* [random_user](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
