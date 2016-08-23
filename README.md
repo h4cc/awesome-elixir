@@ -1229,6 +1229,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
+* [particle](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 * [pathway](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 * [pay](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 * [peatio_client](https://github.com/peatio/peatio-client-elixir) - Peatio exchange project compatible API for Elixir.
