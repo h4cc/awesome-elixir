@@ -369,7 +369,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Cryptography
 *Encrypting and decrypting data*
 
-* [aescmac](https://hex.pm/packages/aescmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
+* [aescmac](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
 * [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 * [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 * [comeonin](https://github.com/riverrun/comeonin) - Password authorization (bcrypt, pbkdf2_sha512 and one-time passwords) library for Elixir.
