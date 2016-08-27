@@ -1257,6 +1257,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
+* [ui_faces](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
 * [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
 * [xe](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 * [zanox](https://github.com/rafaelss/zanox) - Zanox API.
