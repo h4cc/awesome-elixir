@@ -1338,6 +1338,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries for working with and manipulating video and multimedia.*
 
 * [ffmpex](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+* [silent_video](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## XML
 *Libraries and implementations working with XML.*
