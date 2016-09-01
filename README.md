@@ -30,6 +30,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Email](#email)
     - [Embedded Systems](#embedded-systems)
     - [Encoding and Compression](#encoding-and-compression)
+    - [Errors and Exception Handling](#errors-and-exception-handling)
     - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
     - [Feeds](#feeds)
@@ -474,6 +475,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [huffman](https://github.com/SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
 
+## Errors and Exception Handling
+*Working with errors and exceptions.*
+
+* [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+* [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
+* [ok_jose](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
 
@@ -744,6 +752,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [anaphora](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
+* [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [kwfuns](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
