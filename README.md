@@ -235,6 +235,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Authorization
 *Libraries for implementing Authorization handling.*
 
+* [authy](https://github.com/schrockwell/authy) - A set of conventions for defining authorization policies in Elixir and Phoenix apps.
 * [canada](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
 
