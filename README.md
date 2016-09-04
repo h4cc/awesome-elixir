@@ -471,6 +471,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [hexdocset](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
 * [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
+* [phoenix_api_docs](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
 * [phoenix_swagger](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ## Domain-specific language
