@@ -869,6 +869,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_ordered](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+* [ecto_shortcuts](https://github.com/MishaConway/ecto_shortcuts) - Shortcuts for common operations in ecto.
 * [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 * [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [elastix](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
