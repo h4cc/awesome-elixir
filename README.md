@@ -820,6 +820,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Tools and libraries that work with human (natural) languages.*
 
 * [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+* [Paasaa](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 * [Woolly](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ## Networking
