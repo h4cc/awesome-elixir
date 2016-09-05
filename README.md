@@ -24,6 +24,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
+    - [Deployment](#deployment)
     - [Documentation](#documentation)
     - [Domain-specific language](#domain-specific-language)
     - [ECMAScript](#ecmascript)
@@ -425,6 +426,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [visualixir](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
+
+## Deployment
+*Installing and running your code automatically on other machines.*
+
+* [gatling](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
