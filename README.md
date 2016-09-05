@@ -72,6 +72,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Utilities](#utilities)
     - [Validations](#validations)
     - [Version Control](#version-control)
+    - [Video](#video)
     - [XML](#xml)
     - [YAML](#yaml)
 - [Resources](#resources)
@@ -1317,6 +1318,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Working with version control like git, mercury, subversion ...*
 
 * [gitex](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+
+## Video
+*Libraries for working with and manipulating video and multimedia.*
+
+* [ffmpex](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## XML
 *Libraries and implementations working with XML.*
