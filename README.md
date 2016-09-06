@@ -274,7 +274,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [active](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 * [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 * [dismake](https://github.com/jarednorman/dismake) - Mix compiler running make.
-* [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [etude](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
@@ -430,7 +429,13 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Deployment
 *Installing and running your code automatically on other machines.*
 
+* [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+* [bottler](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
+* [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
+* [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [gatling](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+* [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+* [relisa](https://github.com/SenecaSystems/relisa) - Fast, simple, and composable deployment library for Elixir.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
@@ -1012,20 +1017,15 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Release Management
 *Libraries and tools for release management.*
 
-* [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-* [bottler](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [changex](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 * [distillery](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 * [eliver](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
-* [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_deb](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 * [exrm_docker](https://github.com/kwrooijen/exrm_docker) - Exrm plugin to dockerize your Elixir release.
 * [exrm_heroku](https://github.com/ride/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
-* [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
-* [relisa](https://github.com/SenecaSystems/relisa) - Fast, simple, and composable deployment library for Elixir.
 * [renew](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
 
 ## REST and API
