@@ -22,6 +22,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
     - [Configuration](#configuration)
     - [Cryptography](#cryptography)
     - [CSV](#csv)
+    - [Currency](#currency)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Deployment](#deployment)
@@ -394,6 +395,11 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [csv](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 * [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 * [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
+
+## Currency
+*Elixir libraries for working with Currency.*
+
+* [Currencies](https://github.com/JakeStaTeresa/Currencies) - Currencies is a collection of all sorts of useful information for every currency in the ISO 4217 standard.
 
 ## Date and Time
 *Libraries for working with dates and times.*
