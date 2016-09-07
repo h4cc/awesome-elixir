@@ -363,6 +363,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 *Libraries and tools working with configurations*
 
 * [configparser_ex](https://github.com/easco/configparser_ex) - A simple Elixir parser for the same kind of files that Python's configparser library handles.
+* [confex](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 * [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 * [dotenv](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
