@@ -1011,6 +1011,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
+* [RBMQ](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 * [verk](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
