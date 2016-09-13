@@ -1093,6 +1093,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+* [faker_elixir](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 * [fqc](https://github.com/project-fifo/fqc) - FiFo Quickcheck helper, a set of helpers for running EQC.
 * [gimei](https://github.com/KazuCocoa/elixir-gimei) - Gimei is a pure Elixir library for generating Japanese fake data.
 * [hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
