@@ -1077,7 +1077,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
-* [exkorpion](https://github.com/wesovilabs/exkorpion) - Enjoy writing your tests in a bdd way.
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
@@ -1093,6 +1092,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 * [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
+* [exkorpion](https://github.com/wesovilabs/exkorpion) - Enjoy writing your tests in a bdd way.
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 * [faker_elixir](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
