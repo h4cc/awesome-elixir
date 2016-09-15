@@ -1077,7 +1077,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
-
+* [exkorpion](https://github.com/wesovilabs/exkorpion) - Enjoy writing your tests in a bdd way.
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
