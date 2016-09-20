@@ -1093,7 +1093,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 * [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
-* [exkorpion](https://github.com/wesovilabs/exkorpion) - Enjoy writing your tests in a bdd way.
+* [exkorpion](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 * [faker_elixir](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
