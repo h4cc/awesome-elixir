@@ -720,6 +720,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
 * [prometheus](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+* [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## JSON
 *Libraries and implementations working with JSON.*
