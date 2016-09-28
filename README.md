@@ -340,6 +340,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [oceanex](https://github.com/mustafaturan/oceanex) - Digital Ocean API client.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+* [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
 
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
