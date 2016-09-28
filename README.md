@@ -242,6 +242,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Authorization
 *Libraries for implementing Authorization handling.*
 
+* [authorize](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 * [bodyguard](https://github.com/schrockwell/bodyguard) - A flexibile authorization libarary for Phoenix applications.
 * [canada](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
