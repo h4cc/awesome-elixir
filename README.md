@@ -1347,7 +1347,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 ## Validations
 *Libraries and implementations for validation of data.*
 
-* [avex](https://github.com/jonhkr/avex) - Awesome validations for Elixir.
 * [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
