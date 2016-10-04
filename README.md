@@ -167,7 +167,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 * [tinymt](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
-* [witchcraft](https://github.com/robot-overlord/witchcraft) - Common algebraic structures and functions for Elixir.
+* [witchcraft](https://github.com/expede/witchcraft) - Common algebraic structures and functions for Elixir.
 * [zipper_tree](https://github.com/Dkendal/zipper_tree) - Variadic aritity tree with a zipper for Elixir.
 
 ## Applications
