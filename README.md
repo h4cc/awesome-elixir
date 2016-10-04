@@ -1288,7 +1288,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pay](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 * [peatio_client](https://github.com/peatio/peatio-client-elixir) - Peatio exchange project compatible API for Elixir.
 * [pigeon](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
-* [pocketex](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](getpocket.com).
+* [pocketex](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
 * [pusher](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
