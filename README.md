@@ -800,6 +800,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [pipe_here](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 * [pipe_to](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 * [pipes](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
+* [pit](https://github.com/vic/pit) - Transform values as the flow inside a pipe.
 * [rebind](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 
