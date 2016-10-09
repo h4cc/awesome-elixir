@@ -717,6 +717,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [Tube](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
+* [uri_query](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
 * [uri_template](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 * [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 * [webdriver](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
