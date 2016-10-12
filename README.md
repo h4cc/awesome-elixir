@@ -998,6 +998,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [redtube](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 * [riemann](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
+* [sift_ex](https://github.com/C404/sift_ex) - Siftscience API Library for Elixir.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [statix](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
