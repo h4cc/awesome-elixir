@@ -51,6 +51,12 @@ defmodule Awesome do
         debug "Ensure that there is a introduction."
         [_introduction | blocks] = blocks
 
+        debug "Ensure that there is a +1 hint paragraph."
+        [_plusone | blocks] = blocks
+
+        debug "Ensure that there is info about other curated lists of packages."
+        [_other_curated_lists | blocks] = blocks
+
         debug "Ensure that there is a table of content list."
         [%Earmark.Block.List{blocks: tableOfContent} | blocksList ] = blocks
 
