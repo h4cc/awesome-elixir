@@ -794,6 +794,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [anaphora](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+* [expat](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [kwfuns](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
