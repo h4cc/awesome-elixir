@@ -325,7 +325,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [cog](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [Guri](https://github.com/elvio/guri) - Automate tasks using chat messages.
-* [hedwig](https://github.com/scrogson/hedwig) - XMPP Client/Bot Framework for Elixir.
+* [hedwig](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [kaguya](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 * [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
