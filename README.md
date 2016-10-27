@@ -855,6 +855,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
+* [notifier](https://hex.pm/packages/notifier) - A pluggable architecture for desktop notifications.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [phone](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
