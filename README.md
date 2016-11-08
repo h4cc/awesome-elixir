@@ -137,7 +137,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [fuse](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 * [gen_fsm](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen_fsm.
 * [graphmath](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
-* [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implemention for Elixir.
+* [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
 * [hypex](https://github.com/zackehh/hypex) - Fast Elixir implementation of HyperLogLog.
 * [isaac](https://github.com/arianvp/elixir-isaac) - Isaac is an elixir module for ISAAC: a fast cryptographic random number generator.
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
@@ -148,7 +148,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [merkle_tree](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 * [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
-* [mmath](https://github.com/dalmatinerdb/mmath) - A library for performaing math on number 'arrays' in binaries.
+* [mmath](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
 * [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
@@ -172,7 +172,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [tinymt](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 * [witchcraft](https://github.com/expede/witchcraft) - Common algebraic structures and functions for Elixir.
-* [zipper_tree](https://github.com/Dkendal/zipper_tree) - Variadic aritity tree with a zipper for Elixir.
+* [zipper_tree](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
 
 ## Applications
 *Standalone applications.*
@@ -221,7 +221,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [github_oauth](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
 * [goth](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 * [guardian](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications.
-* [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) - Apache httpasswd file reader/writer in Elixir.
+* [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) - Apache htpasswd file reader/writer in Elixir.
 * [mojoauth](https://github.com/mojolingo/mojo-auth.ex) - MojoAuth implementation in Elixir.
 * [oauth2](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 * [oauth2cli](https://github.com/mgamini/oauth2cli-elixir) - Simple OAuth2 client written for Elixir.
@@ -247,7 +247,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 *Libraries for implementing Authorization handling.*
 
 * [authorize](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
-* [bodyguard](https://github.com/schrockwell/bodyguard) - A flexibile authorization libarary for Phoenix applications.
+* [bodyguard](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 * [canada](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
 
@@ -313,7 +313,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [cachex](https://github.com/zackehh/cachex) - A powerful caching library for Elixir with a wide featureset.
 * [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 * [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
-* [jc](https://github.com/jr0senblum/jc) - In-memory, distrbutable cache with pub/sub, JSON-query and consistency support.
+* [jc](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
@@ -945,7 +945,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [ets_map](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
 * [eventstore](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 * [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
-* [ex_sider](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis datastructures (uses Redix, but that is configurable).
+* [ex_sider](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 * [exleveldb](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exnumerator](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 * [exredis](https://github.com/artemeff/exredis) - Redis client for Elixir.
@@ -1088,7 +1088,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 *Libraries around the topic statistics.*
 
 * [descriptive_statistics](https://github.com/pusewicz/descriptive_statistics) - Descriptive Statistics for Elixir.
-* [mtx](https://github.com/synrc/mtx) - MTX supports front-end API for tracking Historgram, Meter, Counter, Gauge, Timing keys.
+* [mtx](https://github.com/synrc/mtx) - MTX supports front-end API for tracking Histogram, Meter, Counter, Gauge, Timing keys.
 * [numerix](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 * [statistics](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 * [wizard](https://github.com/raywan/wizard) - Math and statistics functions for Elixir.
@@ -1116,7 +1116,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [espec](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 * [espec_phoenix](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
 * [ex_machina](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
-* [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parametarized testing.
+* [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 * [ex_spec](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 * [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
@@ -1153,13 +1153,13 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
-* [abacus](https://github.com/narrowtux/abacus) - Evalutate math terms in Elixir.
+* [abacus](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 * [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
 * [base58check](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
 * [base62](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 * [bencode](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
-* [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validate, to the documents brazilians (CPF/CNPJ).
+* [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 * [calliope](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 * [ccc](https://github.com/Joe-noh/ccc) - Character Code Converter.
 * [chinese_translation](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
