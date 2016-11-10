@@ -914,6 +914,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [amnesia](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+* [arbor](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 * [arc_ecto](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [boltun](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
@@ -1109,6 +1110,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 *Libraries for testing codebases and generating test data.*
 
 * [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
+* [apocryphal](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
 * [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 * [bypass](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
