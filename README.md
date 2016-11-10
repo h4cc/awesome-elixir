@@ -576,6 +576,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [airbrake_plug](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
 * [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
+* [commanded](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
 * [cors_plug](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 * [corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 * [crudex](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
@@ -801,6 +802,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 
 * [anaphora](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
+* [eventsourced](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [expat](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
