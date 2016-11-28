@@ -837,6 +837,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [bupe](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 * [charm](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
 * [Countries](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+* [countriex](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
