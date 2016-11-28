@@ -1019,6 +1019,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [ex_hl7](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 * [ex_marshal](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
+* [grpc-elixir](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [msgpax](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 * [riffed](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
