@@ -347,6 +347,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [oceanex](https://github.com/mustafaturan/oceanex) - Digital Ocean API client.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+* [skycluster](https://github.com/Nebo15/skycluster) - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
 
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
