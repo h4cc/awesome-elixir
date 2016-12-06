@@ -1361,6 +1361,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [crutches](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 * [deppie](https://github.com/zackehh/deppie) - Elixir's coolest deprecation logger.
 * [dot-notes](https://github.com/zackehh/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
+* [dress](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 * [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 * [erlsh](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
