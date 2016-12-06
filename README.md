@@ -940,6 +940,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_mnesia](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 * [ecto_ordered](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+* [ecto_paging](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 * [ecto_shortcuts](https://github.com/MishaConway/ecto_shortcuts) - Shortcuts for common operations in ecto.
 * [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 * [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
