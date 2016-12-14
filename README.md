@@ -877,6 +877,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [spotify_ex](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
 * [std_json_io](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 * [url_unroller](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
+* [vessel](https://github.com/zackehh/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
 
 ## Native Implemented Functions
 *Tools and libraries working with Erlang NIF.*
