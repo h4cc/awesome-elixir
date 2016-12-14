@@ -762,6 +762,7 @@ There are other sites with curated lists of elixir packages. Have a look at [too
 * [jwalk](https://github.com/jr0senblum/jwalk) - Helper module for working with Erlang representations of JSON.
 * [jwtex](https://github.com/mschae/jwtex) - A library to encode and decode [JWT tokens](http://jwt.io/).
 * [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
+* [tiny](https://github.com/zackehh/tiny) - Tiny, fast and fully compliant JSON parser for Elixir.
 * [world_json](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
 ## Languages
