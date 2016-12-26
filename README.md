@@ -420,6 +420,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [good_times](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+* [cronex](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
