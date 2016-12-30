@@ -928,6 +928,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [arbor](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 * [arc_ecto](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 * [atlas](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
+* [Bolt.Sips](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol; Neo4j's newest network protocol, designed for high-performance.
 * [boltun](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
 * [cassandra_ecto](https://github.com/vintikzzz/cassandra_ecto) - Ecto adapter for Apache Cassandra.
 * [caylir](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
