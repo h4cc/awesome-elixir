@@ -871,6 +871,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
+* [molasses](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [notifier](https://hex.pm/packages/notifier) - A pluggable architecture for desktop notifications.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
