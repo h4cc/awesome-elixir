@@ -1038,6 +1038,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [grpc-elixir](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - MessagePack Implementation for Elixir.
 * [msgpax](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+* [protox](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 * [riffed](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 * [SMPPEX](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
 
