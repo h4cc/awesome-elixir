@@ -411,6 +411,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [csv](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 * [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 * [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
+* [nimble_csv](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ## Date and Time
 *Libraries for working with dates and times.*
