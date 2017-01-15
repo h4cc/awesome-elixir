@@ -1260,6 +1260,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [apostle](https://github.com/jamesotron/apostle-elixir) - Elixir client for Apostle.io.
 * [asanaficator](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
+* [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 * [bing_translator](https://github.com/ikeikeikeike/bing_translator) - A simple Elixir interface to Bing's translation API.
