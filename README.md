@@ -943,6 +943,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [database_url](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [ddb_client](https://github.com/dalmatinerdb/ddb_client) - DalmatinerDB client.
+* [defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 * [dexts](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 * [dproto](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
