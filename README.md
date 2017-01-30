@@ -868,6 +868,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [gen_task](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 * [gimei_ex](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
