@@ -1128,6 +1128,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 * [eml](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
+* [exgen](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 * [expug](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
