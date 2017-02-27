@@ -1152,6 +1152,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_machina](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 * [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 * [ex_spec](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
+* [ex_stub](https://github.com/oarrabi/ex_stub) - ExStub provides an easy way to stub a module and record the function calls executed on it.
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 * [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
