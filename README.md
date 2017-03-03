@@ -619,6 +619,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
+* [plug_and_play](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
 * [plug_auth](https://github.com/bitgamma/plug_auth) - Collection of authentication-related plugs.
 * [plug_cloudflare](https://github.com/c-rack/plug_cloudflare) - Inspired by mod_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote_ip field.
 * [plug_forward_peer](https://github.com/awetzel/plug_forwarded_peer) - Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote_ip with the root client ip.
