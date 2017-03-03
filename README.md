@@ -243,6 +243,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ueberauth_google](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 * [ueberauth_identity](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 * [ueberauth_line](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
+* [ueberauth_microsoft[(https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 * [ueberauth_slack](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 * [ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 * [ueberauth_vk](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
