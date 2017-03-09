@@ -705,7 +705,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [http_proxy](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 * [httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
-* [httprot](https://github.com/meh/httprot) - HTTP client library.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
