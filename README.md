@@ -814,6 +814,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rollbax](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 * [slack_logger_backend](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+* [timber](https://github.com/timberio/timber-elixir) - Automatically turns raw text logs into rich structured events.
 
 ## Macros
 *Macros for faster and easier development. Sugar for your code.*
