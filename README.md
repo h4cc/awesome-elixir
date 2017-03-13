@@ -795,7 +795,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [elixir_script](https://github.com/bryanjos/elixirscript) - The goal is to convert a subset (or full set) of Elixir code to JavaScript.
 * [ex_abnf](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
-* [key_value_parser](https://github.com/timberio/key-value-parser-elixir) - A simple key value parser. Great for log parsing.
 * [lex_luthor](https://github.com/jamesotron/lex_luthor) - LexLuthor is a Lexer in Elixir which uses macros to generate a reusable lexers.
 
 ## Logging
@@ -819,6 +818,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rollbax](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 * [slack_logger_backend](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
 * [syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+* [timber](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## Macros
 *Macros for faster and easier development. Sugar for your code.*
