@@ -463,7 +463,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [gatling](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
-* [Nanobox](https://nanobox.io) - A micro-PaaS (μPaaS) for creating consistent, isolated, Elixir environments deployable anywhere.
+* [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
