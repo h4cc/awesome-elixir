@@ -554,7 +554,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
 ## Feature Flags and Toggles
-
+*Libraries to manage feature toggles (AKA feature flags): ON/OFF values that can be toggled at runtime through some interface*
 
 * [flippant](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
 * [fun_with_flags](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis for persistance, ETS for local caching and Redis PubSub for inter-node cache busting. Optimized for speed and low Redis usage.
