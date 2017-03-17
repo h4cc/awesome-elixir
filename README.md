@@ -38,6 +38,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Errors and Exception Handling](#errors-and-exception-handling)
     - [Eventhandling](#eventhandling)
     - [Examples and funny stuff](#examples-and-funny-stuff)
+    - [Feature Flags and Toggles](#feature-flags-and-toggles)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
     - [Formulars](#formulars)
@@ -552,6 +553,14 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
+## Feature Flags and Toggles
+
+
+* [flippant](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+* [fun_with_flags](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis for persistance, ETS for local caching and Redis PubSub for inter-node cache busting. Optimized for speed and low Redis usage.
+* [molasses](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
+
+
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
 
@@ -886,7 +895,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
-* [molasses](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [notifier](https://hex.pm/packages/notifier) - A pluggable architecture for desktop notifications.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
