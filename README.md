@@ -379,7 +379,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [meld](https://github.com/Lac/meld) - Create global binaries from mix tasks.
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 * [table_rex](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
-* [tabula](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode)
+* [tabula](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ## Configuration
 *Libraries and tools working with configurations*
