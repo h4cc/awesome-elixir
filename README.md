@@ -1409,6 +1409,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fitex](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 * [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
 * [mandrake](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
+* [mnemonix](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 * [plasm](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted_before, .inserted_after, etc.
 * [pubsub](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 * [quark](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
