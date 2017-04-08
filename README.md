@@ -560,7 +560,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fun_with_flags](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis for persistance, ETS for local caching and Redis PubSub for inter-node cache busting. Optimized for speed and low Redis usage.
 * [molasses](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
-
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
 
