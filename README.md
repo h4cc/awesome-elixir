@@ -497,7 +497,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [echo](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 * [ex_postmark](https://github.com/KamilLelonek/ex_postmark) - Postmark adapter for sending template emails in Elixir.
 * [gen_smtp](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
-* [gmail](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+* [gmail](https://hex.pm/packages/gmail) - A simple Gmail REST API client for Elixir.
 * [mail](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 * [mailer](https://github.com/antp/mailer) - A simple SMTP mailer.
 * [mailibex](https://github.com/awetzel/mailibex) - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
