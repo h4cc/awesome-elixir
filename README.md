@@ -695,6 +695,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [geohax](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 * [geoip](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 * [geolix](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+* [geonames](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
 * [ip2location](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
 * [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
 * [proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
