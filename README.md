@@ -581,6 +581,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sentix](https://github.com/zackehh/sentix) - A cross-platform file watcher for Elixir based on fswatch.
 * [sizeable](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+* [ex_guard](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 
 ## Formulars
 *Handling web formulars and similar stuff.*
