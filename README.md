@@ -378,6 +378,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [getopt](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 * [loki](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 * [meld](https://github.com/Lac/meld) - Create global binaries from mix tasks.
+* [optimus](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 * [table_rex](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 * [tabula](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
