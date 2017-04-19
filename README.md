@@ -124,6 +124,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [dataframe](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 * [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
+* [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
 * [ecto_state_machine](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
