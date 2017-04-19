@@ -633,6 +633,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
 * [phoenix_slime](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
+* [phoenix_gen_webpack](https://github.com/BrewhouseTeam/phoenix_gen_webpack) -  Inelegantly replace Brunch with Webpack
 * [plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 * [plug_and_play](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
@@ -1343,6 +1344,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [forcex](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
+* [githubissues](https://github.com/PatNowak/GithubIssues-Elixir) -  It fetches issues from GitHub for selected user and project.
 * [google_sheets](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 * [govtrack](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
 * [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
