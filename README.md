@@ -738,6 +738,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [web_socket](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 * [webdriver](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
 * [yuri](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+* [uri_query](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
 
 ## Images
 *Libraries for working with and manipulating images.*
