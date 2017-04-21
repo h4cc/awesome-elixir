@@ -742,6 +742,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Images
 *Libraries for working with and manipulating images.*
 * [alchemic_avatar](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
+* [arc](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir
 * [artifact](https://github.com/doomspork/artifact) - File upload and on-the-fly processing for Elixir.
 * [bump](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 * [chunky_svg](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
