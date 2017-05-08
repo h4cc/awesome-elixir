@@ -1406,6 +1406,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ui_faces](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
 * [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
 * [xe](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
+* [xend](https://github.com/saulecabrera/xend) - Simple Elixir wrapper for Facebook's Send API.
 * [zanox](https://github.com/rafaelss/zanox) - Zanox API.
 
 ## Translations and Internationalizations
