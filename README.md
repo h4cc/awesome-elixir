@@ -690,6 +690,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for and implementations of games.*
 
 * [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+* [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
