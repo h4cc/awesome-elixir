@@ -1073,6 +1073,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [msgpax](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 * [protox](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 * [riffed](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+* [Sippet](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 * [SMPPEX](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
 
 ## Queue
