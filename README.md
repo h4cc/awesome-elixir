@@ -1130,7 +1130,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
 
-* [accent](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases
+* [accent](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 * [detergent](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
 * [detergentex](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
 * [maru](https://github.com/falood/maru) - Elixir copy of grape for creating REST-like APIs.
