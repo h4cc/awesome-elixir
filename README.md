@@ -1137,6 +1137,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_rest](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
+* [versionary](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix
 
 ## Security
 *Libraries and tools regarding security.*
