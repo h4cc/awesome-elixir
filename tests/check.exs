@@ -43,7 +43,7 @@ defmodule Awesome do
 
         lines = File.read!(file)
         debug "Using Earmark to parse to data structure we can work with."
-        { blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
+        { blocks, _links, _options } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
 
         debug "Ensure that there is a header at first."
         [%Earmark.Block.Heading{} | blocks] = blocks
