@@ -176,9 +176,11 @@ defmodule Awesome do
 
     # Validate that the link as listitem is valid formatted.
     def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
-        line = String.rstrip(line)
-        if String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
-            line = line |> String.strip(?~)
+        line = case String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
+            true ->
+                line |> String.rstrip() |> String.strip(?~)
+            false ->
+                String.rstrip(line)
         end
         [name, link, description | _rest] = parse_line line
         IO.puts "\t'#{name}' #{link} '#{description}'"
