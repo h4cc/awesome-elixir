@@ -445,6 +445,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 * [tzdata](https://github.com/lau/tzdata) - The timezone database in Elixir.
+* [jalaali](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
