@@ -848,6 +848,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [anaphora](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
+* [backports](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2
 * [eventsourced](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [expat](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
