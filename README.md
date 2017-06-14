@@ -1480,6 +1480,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+* [meeseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
