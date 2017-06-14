@@ -1296,6 +1296,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [unit_fun](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type saftey when dealing with numeric quantities.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+* [veritaserum](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
