@@ -1280,6 +1280,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 * [neotomex](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 * [number](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
+* [numero](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
 * [palette](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 * [pinyin](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 * [porterstemmer](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
