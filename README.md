@@ -1068,6 +1068,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and software for working with PDF files.*
 
 * [gutenex](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+* [pdf_generator](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
 * [pdf2htmlex](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 * [pdf_generator](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
 
