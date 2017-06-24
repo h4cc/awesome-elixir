@@ -333,6 +333,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Chatting
 *Chatting via IRC, Slack, HipChat and other systems using Elixir.*
 
+* [alice](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 * [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [cog](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 * [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
