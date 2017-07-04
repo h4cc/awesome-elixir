@@ -1110,7 +1110,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kafka_ex](https://github.com/kafkaex/kafka_ex) - Kafka client library for Elixir.
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
-* [que](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia
+* [que](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [RBMQ](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
