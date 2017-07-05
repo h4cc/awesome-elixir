@@ -857,7 +857,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [backports](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
 * [eventsourced](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
-* [expat](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
+* [expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [kwfuns](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
