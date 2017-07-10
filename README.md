@@ -1465,6 +1465,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations for validation of data.*
 
 * [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+* [ExGtin](https://github.com/kickinespresso/ex_gtin) - A validation library for GTIN codes under GS1 specification.
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [jeaux](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 * [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
