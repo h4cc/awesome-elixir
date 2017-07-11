@@ -473,6 +473,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 * [gatling](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+* [Gigalixir](https://www.gigalixir.com) - A fully-featured PaaS designed for Elixir. Supports clustering, hot upgrades, and remote console/observer. Free to try without a credit card.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
