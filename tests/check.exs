@@ -38,6 +38,40 @@ defmodule Awesome do
         IO.puts "[debug] #{message}"
     end
 
+    #-----
+    
+    defp grab_link(line) do
+      Regex.run(~r/https?:\/\/[^)]+\)/, line) 
+      |> Enum.map(fn(x) -> String.trim_trailing(x, ")") end)
+    end
+    
+    def uniq_links(lines) do
+      uniq_links(lines, %{})
+    end
+    
+    defp uniq_links([head | tail], linkcount)  do
+      case grab_link head do
+        nil   -> uniq_links(tail, linkcount)
+        [h|t] -> link = h
+      end
+      cnt = case Map.fetch(linkcount, link) do
+        :error   -> 1
+        {:ok, c} -> 
+          IO.puts "Duplicate link: #{link}"
+          c + 1
+      end
+      uniq_links(tail, Map.put(linkcount, link, cnt))
+    end
+    
+    defp uniq_links([], linkcount) do
+      case Enum.any?(Map.values(linkcount), fn(x) -> x > 1 end) do
+        true  -> throw "Duplicate links found"
+        false -> ""
+      end
+    end
+
+    #-----
+
     # Entry point
     def test_file(file) do
 
@@ -88,13 +122,18 @@ defmodule Awesome do
 
         debug "Ensure headings are in alphabetic order."
         for list <- headings, do: check_string_list_in_order(list)
-        debug "Ensure Headings are equal to the once in the tableOfContent."
+        debug "Ensure headings are equal to the once in the tableOfContent."
         [^categories, ^resources] = headings;
 
         debug "Ensure entries are in alphabetic order."
         for block <- blocksList do
             sorted_entries block
         end
+        
+        debug "Ensure links are unique."
+        String.split(lines, ~r{\r\n?|\n}) 
+        |> Enum.filter(fn(x) -> String.starts_with?(x, "* [") end) 
+        |> uniq_links
     end
 
     def parse_markdown_link(string) do
