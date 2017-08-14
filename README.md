@@ -499,7 +499,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [estree](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 * [phoenix_gon](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
-* [elixirscript](https://github.com/elixirscript/elixirscript/) - A transcompiler from Elixir to Javascript
+* [elixirscript](https://github.com/elixirscript/elixirscript/) - A transcompiler from Elixir to Javascript.
 
 ## Email
 *Working with Email and stuff.*
