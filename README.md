@@ -127,6 +127,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
+* [ecto_materialized_path](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 * [ecto_state_machine](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 * [elistrix](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [erlang-algorithms](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
