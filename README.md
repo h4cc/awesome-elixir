@@ -953,6 +953,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [asn](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
+* [download](https://github.com/asiniy/download) - Download files from the internet easily.
 * [eio](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ejabberd](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
