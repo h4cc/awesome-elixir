@@ -330,6 +330,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
+* [memoize](https://github.com/melpon/memoize) - A memoization macro that easily cache function
 
 ## Chatting
 *Chatting via IRC, Slack, HipChat and other systems using Elixir.*
