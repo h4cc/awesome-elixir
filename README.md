@@ -626,6 +626,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [crudex](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
 * [dayron](https://github.com/inaka/Dayron) - A repository _similar_ to `Ecto.Repo` that works with REST API requests instead of a database.
 * [ex_admin](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
+* [torch](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 * [exdjango](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 * [filterable](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has_scope.
