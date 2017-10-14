@@ -1331,6 +1331,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 * [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
+* [bamboohr_ex](https://github.com/aditya7iyengar/bamboohr_ex) - An Elixir wrapper around BambooHR API.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 * [bing_translator](https://github.com/ikeikeikeike/bing_translator) - A simple Elixir interface to Bing's translation API.
 * [bitpay](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
