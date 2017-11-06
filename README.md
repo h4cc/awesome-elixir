@@ -1209,6 +1209,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [blacksmith](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 * [bypass](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+* [chaperon](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 * [chemistry](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 * [double](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
