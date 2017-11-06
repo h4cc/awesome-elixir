@@ -731,6 +731,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [bolt](https://github.com/SebastianSzturo/bolt) - Simple and fast http proxy.
 * [cauldron](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
+* [Crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 * [elli](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [explode](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 * [exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
