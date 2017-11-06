@@ -960,7 +960,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [download](https://github.com/asiniy/download) - Download files from the internet easily.
 * [eio](https://github.com/falood/eio) - Elixir server of engine.io.
-* [ejabberd](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
