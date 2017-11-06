@@ -497,7 +497,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Specialized computer languages for a particular application domain.*
 
 * [Absinthe Graphql](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
-* [graphql](https://github.com/graphql-elixir/graphql) - An Elixir implementation of Facebook's GraphQL.
 
 ## ECMAScript
 *Implementations working with JavaScript, JScript or ActionScript.*
