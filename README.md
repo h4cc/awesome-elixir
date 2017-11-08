@@ -1427,6 +1427,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [random_user](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
+* [random_user_api](https://hex.pm/packages/random_user_api) - Another simple randomuser.me API client.
 * [reap](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
