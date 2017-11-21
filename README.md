@@ -722,6 +722,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [distance_api_matrix](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [geocalc](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+* [geocoder](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 * [geohash](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 * [geohax](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 * [geoip](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
