@@ -1,12 +1,11 @@
-Make sure you have the following format
-
-##Title
+## Title
 
 Add Package "name-of-the-package"
 
-##Description
+## Description
 
-Resolves "#task-number"
+Resolves #issue-number
 
-##Commit message
-Add name-of-the-package
+## Commit message
+
+A short description of the package
