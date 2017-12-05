@@ -1210,11 +1210,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries parsing and helping with templates*
 
 * [bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+* [calliope](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 * [eml](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
 * [exgen](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 * [expug](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
+* [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ## Testing
@@ -1280,7 +1282,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bencode](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
-* [calliope](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 * [ccc](https://github.com/Joe-noh/ccc) - Character Code Converter.
 * [chinese_translation](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cidr](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
@@ -1332,7 +1333,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
 * [sentient](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
-* [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 * [slugger](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 * [stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
