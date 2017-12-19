@@ -767,6 +767,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+* [torex](https://github.com/alexfilatov/torex) - Simple Tor connection library.
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
