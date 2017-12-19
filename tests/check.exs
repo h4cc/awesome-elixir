@@ -43,13 +43,19 @@ defmodule Awesome do
 
         lines = File.read!(file)
         debug "Using Earmark to parse to data structure we can work with."
-        { blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
+        { blocks, _links, _options } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
 
         debug "Ensure that there is a header at first."
         [%Earmark.Block.Heading{} | blocks] = blocks
 
         debug "Ensure that there is a introduction."
         [_introduction | blocks] = blocks
+
+        debug "Ensure that there is a +1 hint paragraph."
+        [_plusone | blocks] = blocks
+
+        debug "Ensure that there is info about other curated lists of packages."
+        [_other_curated_lists | blocks] = blocks
 
         debug "Ensure that there is a table of content list."
         [%Earmark.Block.List{blocks: tableOfContent} | blocksList ] = blocks
@@ -170,9 +176,11 @@ defmodule Awesome do
 
     # Validate that the link as listitem is valid formatted.
     def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
-        line = String.rstrip(line)
-        if String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
-            line = line |> String.strip(?~)
+        line = case String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
+            true ->
+                line |> String.rstrip() |> String.strip(?~)
+            false ->
+                String.rstrip(line)
         end
         [name, link, description | _rest] = parse_line line
         IO.puts "\t'#{name}' #{link} '#{description}'"
