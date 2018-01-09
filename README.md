@@ -946,6 +946,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
 * [keys1value](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
+* [licensir](https://github.com/unnawut/licensir) - A mix task that lists the license(s) of all installed packages in your project.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 * [mixstar](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
