@@ -178,6 +178,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [the_fuzz](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 * [tinymt](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 * [trie](https://github.com/okeuday/trie) - Erlang Trie Implementation.
+* [union_find](https://github.com/TobiasGSmollett/union_find) - An Elixir implementation of Union Find Data Structure.
 * [witchcraft](https://github.com/expede/witchcraft) - Common algebraic structures and functions for Elixir.
 * [zipper_tree](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
 
