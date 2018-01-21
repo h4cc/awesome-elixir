@@ -69,6 +69,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Queue](#queue)
     - [Release Management](#release-management)
     - [REST and API](#rest-and-api)
+    - [Search](#search)
     - [Security](#security)
     - [Static Page Generation](#static-page-generation)
     - [Statistics](#statistics)
@@ -1190,6 +1191,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 * [versionary](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
+
+## Search
+*Libraries related to search indexing, search algorithms and search clients.*
+
+* [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
 
 ## Security
 *Libraries and tools regarding security.*
