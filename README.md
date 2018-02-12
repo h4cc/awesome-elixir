@@ -1527,7 +1527,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [jeaux](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 * [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
-* [skooma](https://github.com/bcoop713/skooma) - Simple data validation library for describe and validate data structures.
+* [skooma](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
