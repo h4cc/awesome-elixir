@@ -602,6 +602,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Feeds
 *Libraries working with feeds like RSS or ATOM.*
 
+* [atomex](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 * [feeder](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds.
 * [feeder_ex](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
 * [feedme](https://github.com/umurgdk/elixir-feedme) - RSS/Atom parser built on erlang's xmerl xml parser.
