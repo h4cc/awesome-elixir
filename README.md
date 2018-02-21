@@ -998,6 +998,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Sockerl is an advanced Erlang/Elixir socket library for TCP protocols and provides fast, useful and easy-to-use API for implementing servers, clients and client connection pools.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 * [torex](https://github.com/alexfilatov/torex) - Simple Tor connection library.
