@@ -479,6 +479,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [rexbug](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+* [scribe](https://github.com/codedge-llc/scribe) - Pretty-print tables of structs and maps
 * [visualixir](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
 
 ## Deployment
