@@ -1643,6 +1643,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Awesome Elixir by LibHunt](https://elixir.libhunt.com) - A curated list of awesome Elixir and Erlang packages and resources.
 * [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 * [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
+* [Community Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A curated list of useful Elixir resources.
 
 ## Reading
 *Elixir-releated reading materials.*
