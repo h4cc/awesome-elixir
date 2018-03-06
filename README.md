@@ -47,6 +47,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Games](#games)
     - [Geolocation](#geolocation)
     - [Hardware](#hardware)
+    - [HTML](#html)
     - [HTTP](#http)
     - [Images](#images)
     - [Instrumenting / Monitoring](#instrumenting--monitoring)
@@ -753,6 +754,20 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 * [nerves](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+
+## HTML
+*Libraries and implementations working with HTML (for xml tools please go to the [XML](#xml) section).*
+
+* [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
+* [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+* [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+* [meeseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [modest_ex](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
+* [myhtmlex](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
+* [phoenix_html](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+* [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
+* [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter).
+* [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
@@ -1551,17 +1566,14 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [silent_video](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## XML
-*Libraries and implementations working with XML.*
+*Libraries and implementations working with XML (for html tools please go to the [HTML](#html) section).*
 
 * [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
-* [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
-* [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+* [exoml](https://github.com/Overbryd/exoml) - A module to decode/encode xml into a tree structure.
 * [meeseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
-* [modest_ex](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-* [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 * [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
