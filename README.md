@@ -452,6 +452,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [block_timer](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
 * [calendar](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 * [chronos](https://github.com/nurugger07/chronos) - An Elixir date/time library.
+* [cocktail](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 * [cronex](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 * [crontab](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 * [ex_ical](https://github.com/fazibear/ex_ical) - ICalendar parser.
