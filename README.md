@@ -1488,6 +1488,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [riemann](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 * [semver](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 * [sendgrid](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
+* [shopify](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 * [sift_ex](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
 * [simplex](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
