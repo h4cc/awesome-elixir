@@ -147,6 +147,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [hypex](https://github.com/zackehh/hypex) - Fast Elixir implementation of HyperLogLog.
 * [indifferent](https://github.com/vic/indifferent) - Indifferent access for Elixir maps/list/tuples with custom key conversion.
 * [isaac](https://github.com/arianvp/elixir-isaac) - Isaac is an elixir module for ISAAC: a fast cryptographic random number generator.
+* [jumper](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
 * [key2value](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 * [lfsr](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
