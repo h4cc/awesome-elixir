@@ -72,7 +72,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [REST and API](#rest-and-api)
     - [Search](#search)
     - [Security](#security)
-    - [SMS](#SMS)
+    - [SMS](#sms)
     - [Static Page Generation](#static-page-generation)
     - [Statistics](#statistics)
     - [Templating](#templating)
