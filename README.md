@@ -1237,7 +1237,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## SMS
 
-* exsms(https://hex.pm/packages/exsms) - A Elixir library for sending transactional SMS - supoprts Sendinblue, mailjet ,msg91 and textlocal
+* [exsms](https://hex.pm/packages/exsms) - A Elixir library for sending transactional SMS - supoprts Sendinblue, mailjet ,msg91 and textlocal
 
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
