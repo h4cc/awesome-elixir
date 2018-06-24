@@ -96,6 +96,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Styleguides](#styleguides)
     - [Websites](#websites)
 - [Contributing](#contributing)
+- [Guides](#guides)
+    - [Deploy To Aws](#deploy-to-aws)
 
 ## Actors
 *Libraries and tools for working with actors and such.*
@@ -1723,6 +1725,14 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
+
+## Guides
+*Useful Elixir-related Guides.*
+* [Deploy To Aws](https://joaquimadraz.com/guide-to-deploy-an-elixir-phoenix-app-to-aws-ecs)
+* [JSON API with Phoenix](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
+* [ElixirCasts - Versioned API] (https://elixircasts.io/versioned-api-with-phoenix)
+* [Phoenix API Aws - pfd](https://s3.amazonaws.com/versioned-apis-with-phoenix/Versioned+APIs+with+Phoenix+-+Elvio+Vicosa.pdf)
+* [Phoenix1.3/Generators/Versioned API/Chris McCord thread](https://groups.google.com/forum/#!topic/phoenix-talk/b6SXen78Jd0)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.
