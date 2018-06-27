@@ -1188,6 +1188,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [que](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [RBMQ](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
+* [Rihanna](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [task_bunny](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 * [toniq](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
