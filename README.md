@@ -618,6 +618,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations for working with files and directories.*
 
 * [arc](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir.
+* [Belt](https://bitbucket.org/pentacent/belt/) - Extensible file upload library with support for SFTP, S3 and Filesystem storage.
 * [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [elixgrep](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
