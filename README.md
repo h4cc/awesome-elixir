@@ -1113,6 +1113,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redix](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+* [rediscl](https://github.com/akdilsiz/elixir-rediscl) - A minimal redis client with connection pooling and pipe query builder
 * [redo](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
