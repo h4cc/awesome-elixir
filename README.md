@@ -1241,6 +1241,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [blogit](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 * [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
+* [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
