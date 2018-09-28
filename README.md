@@ -524,6 +524,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Specialized computer languages for a particular application domain.*
 
 * [Absinthe Graphql](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+* [JSON-LD.ex](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex](https://github.com/marcelotto/rdf-ex).
+* [RDF.ex](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+* [SPARQL.ex](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ## ECMAScript
 *Implementations working with JavaScript, JScript or ActionScript.*
@@ -807,6 +810,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 * [river](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+* [sparql_client](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 * [tesla](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [Tube](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
