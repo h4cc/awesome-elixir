@@ -1469,6 +1469,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [forcex](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
+* [google-cloud](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 * [google_sheets](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 * [govtrack](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
 * [gringotts](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant](https://github.com/activemerchant/active_merchant) from the Ruby world.
