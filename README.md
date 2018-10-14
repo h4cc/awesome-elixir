@@ -24,6 +24,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Code Analysis](#code-analysis)
     - [Command Line Applications](#command-line-applications)
     - [Configuration](#configuration)
+    - [Consensus](#consensus)
     - [Cryptography](#cryptography)
     - [CSV](#csv)
     - [Date and Time](#date-and-time)
@@ -422,6 +423,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [figaro_elixir](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
 * [sweetconfig](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 * [weave](https://github.com/GT8Online/weave) - JIT configuration loader that works with Kubernetes and Docker Swarm.
+
+## Consensus
+*Libraries for consensus algorithms*
+
+* [ra](https://github.com/rabbitmq/ra) - A Raft implementation by Team RabbitMQ. Heavily inspired by and geared towards RabbitMQ needs.
+* [rafted_value](https://github.com/skirino/rafted_value) - A Raft implementation to replicate a value across cluster of Erlang VMs
+* [raft](https://github.com/toniqsystems/raft) - Raft provides users with an api for building consistent (as defined by CAP), distributed state machines.
 
 ## Cryptography
 *Encrypting and decrypting data*
