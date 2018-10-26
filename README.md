@@ -1106,6 +1106,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kst](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 * [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
+* [memento](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
 * [moebius](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 * [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
 * [mongodb](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
