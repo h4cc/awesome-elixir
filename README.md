@@ -1400,6 +1400,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [porterstemmer](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 * [pretty_hex](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+* [RandomStringGenerator](https://github.com/caioceccon/random_string_generator) - A module to generate a random string based on a given string pattern.
 * [ref_inspector](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
 * [remove_emoji](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
 * [secure_random](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
