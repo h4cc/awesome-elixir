@@ -225,6 +225,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries working with sounds and tones.*
 
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+* [firmata](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 * [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ## Authentication
