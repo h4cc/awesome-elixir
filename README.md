@@ -558,7 +558,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Embedded Systems
 *Embedded systems development.*
 
-* [bake](https://github.com/bakeware/bake) - Configure, compile and share systems, toolchains and linux firmware.
 * [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
 
 ## Encoding and Compression
