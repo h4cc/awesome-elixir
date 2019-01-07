@@ -1611,6 +1611,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exoml](https://github.com/Overbryd/exoml) - A module to decode/encode xml into a tree structure.
+* [fast_xml](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
 * [meeseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [saxy](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
