@@ -558,7 +558,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Embedded Systems
 *Embedded systems development.*
 
-* [bake](https://github.com/bakeware/bake) - Configure, compile and share systems, toolchains and linux firmware.
+ * [firmata](https://github.com/entone/firmata) - Firmata protocol implemented in Elixir
 * [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
   * Additional Nerves-specific libraries may be found [here](https://nerves-project.org/libraries/)
 
