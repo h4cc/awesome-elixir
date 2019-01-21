@@ -867,7 +867,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations working with JSON.*
 
 * [exjson](https://github.com/guedes/exjson) - JSON parser and generator in Elixir.
-* [exjsx](https://github.com/talentdeficit/exjsx) - JSON for Elixir, based on `jsx`.
 * [ja_serializer](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
 * [jason](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
 * [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
