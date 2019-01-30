@@ -129,6 +129,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [dataframe](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 * [datastructures](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
+* [def_memo](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [dlist](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
 * [ecto_materialized_path](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
@@ -157,7 +158,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [lz4](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
 * [machinery](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 * [matrex](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
-* [memoize](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
 * [merkle_tree](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 * [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 * [mmath](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
@@ -346,6 +346,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [jc](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [memoize](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 * [nebulex](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
