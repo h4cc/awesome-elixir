@@ -46,6 +46,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Frameworks](#frameworks)
     - [Games](#games)
     - [Geolocation](#geolocation)
+    - [GUI](#gui)
     - [Hardware](#hardware)
     - [HTML](#html)
     - [HTTP](#http)
@@ -774,6 +775,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 * [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 * [topo](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+
+## GUI
+*Libraries for writing Graphical User Interfaces.*
+
+* [scenic](https://github.com/boydm/scenic) - Portable 2D UI framework.
 
 ## Hardware
 *Hardware related things like I/O interfaces and such.*
