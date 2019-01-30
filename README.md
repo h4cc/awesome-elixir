@@ -774,7 +774,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## HTML
 *Libraries and implementations working with HTML (for xml tools please go to the [XML](#xml) section).*
 
-* [texas](https://gitlab.com/dgmcguire/texas) - Texas is a powerful abstraction over updating your clients using server-side rendering and server-side Virtual DOM diff/patching.
 * [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
@@ -785,6 +784,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
 * [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter).
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+* [texas](https://gitlab.com/dgmcguire/texas) - Texas is a powerful abstraction over updating your clients using server-side rendering and server-side Virtual DOM diff/patching.
 * [tidy_ex](https://github.com/f34nk/tidy_ex) - Elixir binding to the granddaddy of HTML tools [http://www.html-tidy.org](http://www.html-tidy.org).
 
 ## HTTP
