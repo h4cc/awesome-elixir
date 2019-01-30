@@ -1011,6 +1011,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [gen_task](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 * [gimei_ex](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
+* [hammer](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
 * [html_entities](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [japan_municipality_key](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
