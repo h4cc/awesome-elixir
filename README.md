@@ -1443,7 +1443,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [airbrakex](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 * [amazon_product_advertising_client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
 * [apns](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
-* [apostle](https://github.com/jamesotron/apostle-elixir) - Elixir client for Apostle.io.
 * [asanaficator](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
