@@ -1191,7 +1191,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [expug](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
-* [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir
+* [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ## Testing
