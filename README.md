@@ -1019,6 +1019,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [download](https://github.com/asiniy/download) - Download files from the internet easily.
 * [eio](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ExPcap](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+* [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
@@ -1029,7 +1030,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tunnerl](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 * [wifi](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
-* [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 
 ## Office
 *Libraries for working with office suite documents.*
