@@ -87,6 +87,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [YAML](#yaml)
 - [Resources](#resources)
     - [Books](#books)
+    - [Cheat Sheets](#cheat-sheets)
     - [Community](#community)
     - [Editors](#editors)
     - [Newsletters](#newsletters)
@@ -1655,6 +1656,11 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
+
+## Cheat Sheets
+*Useful Elixir-related cheat sheets.*
+
+* [benjamintanweihao/elixir-cheatsheets](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
 
 ## Community
 *Getting in contact with the community via chat or mailinglist.*
