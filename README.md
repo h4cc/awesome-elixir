@@ -72,6 +72,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [REST and API](#rest-and-api)
     - [Search](#search)
     - [Security](#security)
+    - [SMS](#sms)
     - [Static Page Generation](#static-page-generation)
     - [Statistics](#statistics)
     - [Templating](#templating)
@@ -1261,6 +1262,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+
+## SMS
+*SMS related libraries and tools.*
+
+* [exsms](https://hex.pm/packages/exsms) - A Elixir library for sending transactional SMS - supoprts Sendinblue, mailjet ,msg91 and textlocal.
 
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
