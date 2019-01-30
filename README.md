@@ -675,7 +675,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [corsica](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 * [crudex](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
 * [dayron](https://github.com/inaka/Dayron) - A repository _similar_ to `Ecto.Repo` that works with REST API requests instead of a database.
-* [ecto_job](https://github.com/mbuhot/ecto_job) - A transactional job queue build with Ecto, PostgreSQL and GenStage.
 * [ex_admin](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 * [exdjango](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
@@ -1217,6 +1216,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [conduit](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
 * [cspex](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 * [dbus](https://github.com/aforward/sadbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
+* [ecto_job](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
 * [elixir_nsq](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 * [elixir_talk](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
 * [enm](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
