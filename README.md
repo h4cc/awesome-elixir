@@ -1545,6 +1545,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [redtube](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 * [riemann](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
+* [rs_twitter](https://github.com/radzserg/rstwitter) - Low Level Twitter Client for Elixir.
 * [semver](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 * [sendgrid](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 * [shopify](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
