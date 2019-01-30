@@ -768,6 +768,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## GUI
 *Libraries for writing Graphical User Interfaces.*
+
 * [scenic](https://github.com/boydm/scenic) - Portable 2D UI framework.
 
 ## Hardware
