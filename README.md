@@ -471,11 +471,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
+* [tiktak](https://github.com/ConduitMobileRND/tiktak) - Fast and lightweight web scheduler written in Elixir.
 * [timelier](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 * [timex](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 * [timex_interval](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 * [tzdata](https://github.com/lau/tzdata) - The timezone database in Elixir.
-* [tiktak](https://github.com/ConduitMobileRND/tiktak) - Fast and lightweight web scheduler written in Elixir.
 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
