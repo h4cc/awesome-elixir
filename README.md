@@ -436,6 +436,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 * [ex_bcrypt](https://github.com/manelli/ex_bcrypt) - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
 * [ex_crypto](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+* [ex_shortuuid](https://github.com/gpedic/ex_shortuuid) - Simple library that generates concise, unambiguous, URL-safe UUIDs.
 * [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 * [ntru_elixir](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 * [one_time_pass_ecto](https://github.com/riverrun/one_time_pass_ecto) - One-time password library for Elixir.
