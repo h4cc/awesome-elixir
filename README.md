@@ -179,6 +179,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rock](https://github.com/ayrat555/rock) - Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes.
 * [sfmt](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [simhash](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
+* [sleeplocks](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
 * [sorted_set](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 * [spacesaving](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 * [structurez](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
