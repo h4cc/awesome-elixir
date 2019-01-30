@@ -305,6 +305,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations working with BSON.*
 
 * [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
+* [cyanide](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
 
 ## Build Tools
 *Project build and automation tools.*
