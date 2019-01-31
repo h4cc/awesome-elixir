@@ -244,7 +244,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [basic_auth](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 * [coherence](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix.
 * [doorman](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
-* [git_hooks](https://hex.pm/packages/git_hooks) - Add git hooks to Elixir projects
 * [github_oauth](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
 * [goth](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 * [guardian](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications.
@@ -503,6 +502,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ether](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
 * [ex_debug_toolbar](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
+* [git_hooks](https://hex.pm/packages/git_hooks) - Add git hooks to Elixir projects
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [rexbug](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
