@@ -614,6 +614,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [feedx](https://github.com/erneestoc/feedx) - Add social feed functionality to current applications. Exemplify OTP umbrella app, with 3 apps. Thin phoenix controllers.
 * [harakiri](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
+* [hexpm](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
 * [kaisuu](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 * [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
