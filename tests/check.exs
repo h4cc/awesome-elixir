@@ -50,9 +50,9 @@ defmodule Awesome do
     end
     
     defp uniq_links([head | tail], linkcount)  do
-      case grab_link head do
+      link = case grab_link head do
         nil   -> uniq_links(tail, linkcount)
-        [h|t] -> link = h
+        [h|t] -> h
       end
       cnt = case Map.fetch(linkcount, link) do
         :error   -> 1
