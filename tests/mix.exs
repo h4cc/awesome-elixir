@@ -4,7 +4,7 @@ defmodule MyProject.Mixfile do
   def project do
     [app: :awesome_elixir,
      version: "0.0.1",
-     elixir: ">= 1.0.0",
+     elixir: "~> 1.8",
      deps: deps(),
      env: [foo: :bar]]
   end
