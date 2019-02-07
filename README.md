@@ -195,7 +195,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Applications
 *Standalone applications.*
-* [Alher](https://github.com/Queertoo/Alher) - Alexander is a rock-solid IRC bot written in Elixir with powerful plugins.
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang.
 * [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform.
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
