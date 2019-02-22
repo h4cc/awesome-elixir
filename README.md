@@ -108,7 +108,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dflow](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
-* [exlttb](https://hex.pm/packages/ex_lttb) - An Elixir downsampling library that retains the visual characteristics of your data.
+* [ex_lttb](https://hex.pm/packages/ex_lttb) - An Elixir downsampling library that retains the visual characteristics of your data.
 * [flowex](https://github.com/antonmi/flowex) - Railway Flow-Based Programming with Elixir GenStage.
 * [libvault](https://hex.pm/packages/libvault) - Highly configurable library for HashiCorp's Vault - handles authentication for multiple backends, and reading, writing, listing, and deleting secrets for a variety of engines.
 * [mon_handler](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
