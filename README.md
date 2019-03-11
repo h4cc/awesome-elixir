@@ -103,21 +103,16 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [bargad](https://hex.pm/packages/bargad) - A Data Integrity framework for building efficient blockchains, transparency logs, secure file systems and more.
-* [csmt](https://hex.pm/packages/csmt) - Compact Sparse Merkle Trees (CSMT) with pluggable storage.
 * [dflow](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
 * [ex_lttb](https://hex.pm/packages/ex_lttb) - An Elixir downsampling library that retains the visual characteristics of your data.
 * [flowex](https://github.com/antonmi/flowex) - Railway Flow-Based Programming with Elixir GenStage.
-* [libvault](https://hex.pm/packages/libvault) - Highly configurable library for HashiCorp's Vault - handles authentication for multiple backends, and reading, writing, listing, and deleting secrets for a variety of engines.
 * [mon_handler](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
 * [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
 * [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
-* [skip_list](https://github.com/tt67wq/SkipList_elixir) - Skiplist is a data structure that allows fast search within an ordered sequence of elements.
-* [toprox](https://hex.pm/packages/toprox) - A simple proxy for different Logger backends which allows to filter messages based on metadata.
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
 ## Algorithms and Data structures
