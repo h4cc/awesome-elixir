@@ -863,6 +863,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [imgex](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 * [png](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
+* [thumbor_client](https://github.com/globocom/thumbor-client-ex) - Client for Thumbor.
 * [thumbnex](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ## Instrumenting / Monitoring
@@ -1371,6 +1372,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ponos](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [power_assert](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 * [proper](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+* [propcheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 * [setup_tag](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
 * [shouldi](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 * [test_selector](https://github.com/DefactoSoftware/test_selector) - A set of test helpers that make sure you always select the right elements in your Phoenix app.
