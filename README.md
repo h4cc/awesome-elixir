@@ -168,6 +168,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+* [nary_tree](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 * [navigation_tree](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
