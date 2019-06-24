@@ -816,6 +816,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bolt](https://github.com/SebastianSzturo/bolt) - Simple and fast http proxy.
 * [cauldron](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 * [Crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+* [Crawly](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 * [elli](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [etag_plug](https://github.com/Zeeker/etag_plug) - A simple to use shallow ETag plug.
 * [explode](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
