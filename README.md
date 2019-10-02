@@ -1774,6 +1774,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Screencasts
 *Cool video tutorials.*
 
+* [Alchemist Camp](https://alchemist.camp) - Alchemist.Camp has many hours of free, project-based Elixir-learning screencasts.
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir related conference talks.
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) - Functional, Parallel, Reliable (and fun!), taught by Dave Thomas.
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
