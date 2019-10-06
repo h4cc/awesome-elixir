@@ -1002,6 +1002,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+* [ecto_list](https://hex.pm/packages/ecto_list) - Simple ordered model management with Ecto.
 * [egaugex](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
 * [elixir-browser](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
