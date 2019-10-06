@@ -1004,6 +1004,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 * [egaugex](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
 * [elixir-browser](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+* [epub_cover_extractor](https://github.com/zelazna/epub_cover_extractor) - Extract cover from EPUB files.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex2ms](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 * [ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
