@@ -202,21 +202,24 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [witchcraft](https://github.com/expede/witchcraft) | Common algebraic structures and functions for Elixir.
 | [zipper_tree](https://github.com/Dkendal/zipper_tree) | Variadic arity tree with a zipper for Elixir.
 
+
 ## Applications
 *Standalone applications.*
+
 | Library | Description |
-| --- | --- |
-|  [bpe](https://github.com/spawnproc/bpe) | Business Process Engine in Erlang.
-| [CaptainFact](https://github.com/CaptainFact/captain-fact-api) | A collaborative, real-time video fact-checking platform.
+| --- | --- | 
+| [bpe](https://github.com/spawnproc/bpe) | Business Process Engine in Erlang. ([Doc](https://bpe.n2o.space)).
+| [CaptainFact](https://github.com/CaptainFact/captain-fact-api) | A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 | [Consolex](https://github.com/sivsushruth/consolex) | Consolex is a tool that allows you to attach a web based console to any mix project.
 | [dragonfly_server](https://github.com/cloud8421/dragonfly-server) | Elixir app to serve Dragonfly images.
 | [ExChat](https://github.com/tony612/exchat) | A Slack-like app by Elixir, Phoenix & React(redux).
-| [Exon](https://github.com/tchoutri/Exon) | A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
+| [Exon](https://github.com/tchoutri/Exon) | A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 | [ExShop](https://github.com/authentic-pixels/ex-shop) | Digital goods shop & blog created using Phoenix framework.
 | [Hydra](https://github.com/doomspork/hydra) | A multi-headed beast: API gateway, request cache, and data transformations.
+| [Igthorn](https://github.com/Frathon/Igthorn) | Cryptocurrecy trading platform / trading bot with admin panel.
 | [majremind](https://bitbucket.org/Anwen/majremind) | A self-maintained database of your updated server which tells you which one needs to be updated.
-| [medex](https://github.com/xerions/medex) | Medical Examination | application for register health check callbacks and represent their state via HTTP.
-| [medusa_server](https://github.com/IcaliaLabs/medusa_server) | A simple cowboy web server written in Elixir to stack images.
+| [medex](https://github.com/xerions/medex) | Medical Examination - application for register health check callbacks and represent their state via HTTP.
+| [medusa_server](https://github.com/IcaliaLabs/medusa_server) | A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
 | [n2o](https://github.com/synrc/n2o) | WebSocket Application Server.
 | [Nvjorn](https://github.com/tchoutri/Nvjorn) | A multi-protocol network services monitor written in Elixir using Poolboy.
 | [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) | The Good Old game built with Elixir, Phoenix Framework, React and Redux.
@@ -234,10 +237,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
 
-| Library | Description |
-| --- | --- 
-| [Exnn](https://github.com/zampino/exnn) | Evolutive Neural Networks framework à la G.Sher written in Elixir.
-| [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) | An Elixir implementation of the NEAT algorithm.
+| [Exnn](https://github.com/zampino/exnn) | Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
+| [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) | An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 | [simple_bayes](https://github.com/fredwu/simple_bayes) | A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ## Audio and Sounds
@@ -253,16 +254,16 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for implementing authentication schemes.*
 
 | Library | Description |
-| --- | --- 
+| --- | --- |
 | [aeacus](https://github.com/zmoshansky/aeacus) | A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 | [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) | Apache/APR Style Password Hashing.
 | [aws_auth](https://github.com/bryanjos/aws_auth) | AWS Signature Version 4 Signing Library for Elixir.
 | [basic_auth](https://github.com/CultivateHQ/basic_auth) | Elixir Plug to easily add HTTP basic authentication to an app.
-| [coherence](https://github.com/smpallen99/coherence) | Coherence is a full featured, configurable authentication system for Phoenix.
+| [coherence](https://github.com/smpallen99/coherence) | Coherence is a full featured, configurable authentication system for Phoenix. ([Docs](https://hexdocs.pm/coherence/Coherence.html)).
 | [doorman](https://github.com/BlakeWilliams/doorman) | Tools to make Elixir authentication simple and flexible.
 | [github_oauth](https://github.com/lidashuang/github_oauth) | A simple github oauth library.
 | [goth](https://github.com/peburrows/goth) | OAuth 2.0 library for server to server applications via Google Cloud APIs.
-| [guardian](https://github.com/ueberauth/guardian) | An authentication framework for use with Elixir applications.
+| [guardian](https://github.com/ueberauth/guardian) | An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
 | [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) | Apache htpasswd file reader/writer in Elixir.
 | [mojoauth](https://github.com/mojolingo/mojo-auth.ex) | MojoAuth implementation in Elixir.
 | [oauth2](https://github.com/scrogson/oauth2) | An OAuth 2.0 client library for Elixir.
@@ -298,13 +299,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for implementing Authorization handling.*
 
 | Library | Description |
-| --- | --- 
+| --- | --- |
 | [authorize](https://github.com/jfrolich/authorize) | Rule based authorization, for advanced authorization rules.
 | [bodyguard](https://github.com/schrockwell/bodyguard) | A flexible authorization library for Phoenix applications.
 | [canada](https://github.com/jarednorman/canada) | A simple authorization library that provides a friendly interface using declarative permission rules.
-| [canary](https://github.com/cpjk/canary) | An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
+| [canary](https://github.com/cpjk/canary) | An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
 | [speakeasy](https://github.com/coryodaniel/speakeasy) | Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
-| [terminator](https://github.com/MilosMosovsky/terminator) | Database based authorization (ACL), with custom DSL rules for requiring needed permissions.
+| [terminator](https://github.com/MilosMosovsky/terminator) | Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ## Behaviours and Interfaces
 *Definitions how something should behave, like Interfaces from OOP-World*
@@ -397,10 +398,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [alice](https://github.com/alice-bot/alice) | A Slack bot framework for Elixir.
 | [chatty](https://github.com/alco/chatty) | A basic IRC client that is most useful for writing a bot.
 | [cog](https://github.com/operable/cog) | Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+| [ExGram](https://github.com/rockneurotiko/ex_gram) | a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
 | [ExIrc](https://github.com/bitwalker/exirc) | IRC client adapter for Elixir projects.
 | [ExMustang](https://github.com/techgaun/ex_mustang) | A simple, clueless slackbot and collection of responders.
 | [Guri](https://github.com/elvio/guri) | Automate tasks using chat messages.
-| [hedwig](https://github.com/hedwig-im/hedwig) | XMPP Client/Bot Framework for Elixir.
+| [hedwig](https://github.com/hedwig-im/hedwig) | XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 | [hipchat_elixir](https://github.com/ymtszw/hipchat_elixir) | HipChat client library for Elixir, based on httpc.
 | [kaguya](https://github.com/Luminarys/Kaguya) | A small, powerful, and modular IRC bot.
 | [slacker](https://github.com/koudelka/slacker) | A bot library for the Slack chat service.
@@ -415,7 +417,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [Bonny](https://github.com/coryodaniel/bonny) | Kubernetes Operator Development Framework.
 | [Cloudi](http://cloudi.org/) | CloudI is for back-end server processing tasks that require soft-realtime transaction.
 | [discovery](https://github.com/undeadlabs/discovery) | An OTP application for auto-discovering services with Consul.
-| [erlcloud](https://github.com/erlcloud/erlcloud) | Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
+| [erlcloud](https://github.com/erlcloud/erlcloud) | Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
 | [ex_aws](https://github.com/CargoSense/ex_aws) | AWS client, supporting Dynamo, Kinesis, Lambda, SQS, and S3.
 | [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) | Riak CS API client.
 | [fleet_api](https://github.com/jordan0day/fleet-api) | A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
@@ -424,7 +426,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [Kazan](https://github.com/obmarg/kazan) | Kubernetes client for Elixir, generated from the k8s open API specifications.
 | [Kubex](https://github.com/ingerslevio/kubex) | Kubernetes client and integration for Elixir, written in pure Elixir.
 | [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) | Elixir Wrapper for Leaseweb infrastructure.
-| [libcluster](https://github.com/bitwalker/libcluster) | Automatic cluster formation/healing for Elixir applications.
+| [libcluster](https://github.com/bitwalker/libcluster) | Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 | [nodefinder](https://github.com/okeuday/nodefinder) | Strategies for automatic node discovery in Erlang.
 | [nomad](https://github.com/sashaafm/nomad) | Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
 | [sidejob](https://github.com/basho/sidejob) | Parallel worker and capacity limiting library for Erlang.
@@ -486,12 +488,12 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | --- | --- |
 | [aescmac](https://github.com/kleinernik/elixir-aes-cmac) | AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
 | [cipher](https://github.com/rubencaro/cipher) | Elixir crypto library to encrypt/decrypt arbitrary binaries.
-| [cloak](https://github.com/danielberkompas/cloak) | Cloak makes it easy to use encryption with Ecto.
-| [comeonin](https://github.com/riverrun/comeonin) | Password hashing (argon2, bcrypt, pbkdf2_sha512) library for Elixir.
+| [cloak](https://github.com/danielberkompas/cloak) | Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+| [comeonin](https://github.com/riverrun/comeonin) | Password hashing (argon2, bcrypt, pbkdf2_sha512) library for Elixir.([https://hexdocs.pm/comeonin/api-reference.html](https://hexdocs.pm/comeonin/api-reference.html)).
 | [crypto_rsassa_pss](https://github.com/potatosalad/erlang-crypto_rsassa_pss) | RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 | [elixir_tea](https://github.com/keichan34/elixir_tea) | TEA implementation in Elixir.
 | [ex_bcrypt](https://github.com/manelli/ex_bcrypt) | Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
-| [ex_crypto](https://github.com/ntrepid8/ex_crypto) | Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+| [ex_crypto](https://github.com/ntrepid8/ex_crypto) | Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 | [exgpg](https://github.com/rozap/exgpg) | Use gpg from Elixir.
 | [ntru_elixir](https://github.com/alisinabh/ntru_elixir) | Elixir wrapper for libntru. A post quantum cryptography system.
 | [one_time_pass_ecto](https://github.com/riverrun/one_time_pass_ecto) | One-time password library for Elixir.
@@ -515,7 +517,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Date and Time
 *Libraries for working with dates and times.*
 
-| Library | Description |
+| Library | Desription |
 | --- | --- |
 | [block_timer](https://github.com/adamkittelson/block_timer) | Macros to use :timer.apply_after and :timer.apply_interval with a block.
 | [calendar](https://github.com/lau/calendar) | Calendar is a date and time library for Elixir.
@@ -530,7 +532,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [milliseconds](https://github.com/davebryson/elixir_milliseconds) | Simple library to work with milliseconds in Elixir.
 | [moment](https://github.com/atabary/moment) | Parse, validate, manipulate, and display dates in Elixir.
 | [open_hours](https://github.com/hopsor/open_hours) | Time calculations using business hours.
-| [quantum](https://github.com/c-rack/quantum-elixir) | Cron-like job scheduler for Elixir applications.
+| [quantum](https://github.com/quantum-elixir/quantum-core) | Cron-like job scheduler for Elixir applications.
 | [repeatex](https://github.com/rcdilorenzo/repeatex) | Natural language parsing for repeating dates.
 | [tiktak](https://github.com/ConduitMobileRND/tiktak) | Fast and lightweight web scheduler written in Elixir.
 | [timelier](https://github.com/ausimian/timelier) | A cron-style scheduler for Elixir.
@@ -753,6 +755,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | Library | Description |
 | --- | --- |
 | [absinthe_plug](https://github.com/absinthe-graphql/absinthe_plug) | Plug support for Absinthe.
+| [access pass](https://github.com/AppDoctorIo/accesspass) | Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content)).
 | [addict](https://github.com/trenpixster/addict) | User authentication for Phoenix Framework.
 | [airbrake_plug](https://github.com/romul/airbrake_plug) | Report errors in your Plug stack or whatever to Airbrake.
 | [ashes](https://github.com/nickgartmann/ashes) | A code generation tool for the Phoenix web framework.
@@ -781,7 +784,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) | Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter).
 | [phoenix_linguist](https://github.com/jxs/phoenix_linguist) | A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 | [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) | Provides live-reload functionality for Phoenix.
-| [phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags) | |enerate meta tags for a website.
+| [phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags) | Generate meta tags for a website.
 | [phoenix_pubsub_postgres](https://github.com/opendrops/phoenix-pubsub-postgres) | Postgresql PubSub adapter for Phoenix apps.
 | [phoenix_pubsub_rabbitmq](https://github.com/pma/phoenix_pubsub_rabbitmq) | RabbitMQ adapter for Phoenix's PubSub layer.
 | [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) | The Redis PubSub adapter for the Phoenix framework.
@@ -847,8 +850,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Games
 *Libraries for and implementations of games.*
 
-| Library | Description |
-| --- | --- |
+| [Binbo](https://github.com/DOBRO/binbo) | A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 | [entice](https://github.com/entice/entice) | A distributed Entity-Component-System framework, providing its own example MMORPG server.
 | [mines](https://github.com/kevlar1818/mines) | A minesweeper clone in the terminal.
 | [vim_snake](https://github.com/theanht1/vim_snake) | A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework.
@@ -1103,6 +1105,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | Library | Description |
 | --- | --- |
 | [address_us](https://github.com/smashedtoatoms/address_us) | Library for parsing US Addresses into their individual parts.
+| [AlloyCI](https://github.com/AlloyCI/alloy_ci) | AlloyCI is a Continuous Integration, Deployment, and Delivery coordinator, written in Elixir, that takes advantage of the GitLab CI Runner, and its capabilities as executor, to prepare and run your pipelines.
 | [Apex](https://github.com/bjro/apex) | Awesome Print for Elixir.
 | [AtomVM](https://github.com/bettio/AtomVM) | AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
 | [bupe](https://github.com/milmazz/bupe) | EPUB Generator and Parser.
@@ -1115,6 +1118,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) | Automatically creates slugs for your Ecto models.
 | [egaugex](https://github.com/Brightergy/egaugex) | Client to fetch and parse realtime data from egauge devices.
 | [elixir-browser](https://github.com/tuvistavie/elixir-browser) | Browser detection for Elixir.
+| [epub_cover_extractor](https://github.com/zelazna/epub_cover_extractor) | Extract cover from EPUB files.
 | [erlang_term](https://github.com/okeuday/erlang_term) | Provide the in-memory size of Erlang terms, ignoring where these are stored.
 | [ex2ms](https://github.com/ericmj/ex2ms) | Translates Elixir functions to match specifications for use with `ets`.
 | [ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number) | Format, normalize, and validate phone numbers.
@@ -1134,6 +1138,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [html_entities](https://github.com/martinsvalin/html_entities) | Elixir module for decoding HTML entities in a string.
 | [huex](https://github.com/xavier/huex) | Elixir client for Philips Hue connected light bulbs.
 | [japan_municipality_key](https://github.com/hykw/japan_municipality_key) | Elixir Library for Japan municipality key converting.
+| [Jisho-Elixir](https://github.com/nbw/jisho_elixir) | An API wrapper for Jisho.org, an online Japanese dictionary. Allows users to search by word, symbol, and or tags (refer to docs).
 | [keys1value](https://github.com/okeuday/keys1value) | Erlang set associative map for key lists.
 | [licensir](https://github.com/unnawut/licensir) | A mix task that lists the license(s) of all installed packages in your project.
 | [mixgraph](https://github.com/sivsushruth/mixgraph) | An interactive dependency plotter for your Hex Package.
@@ -1640,6 +1645,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) | Simple implementation of the Cleverbot API in Elixir.
 | [coinbase](https://github.com/gregpardo/coinbase-elixir) | A unofficial Coinbase API v1 Client.
 | [commerce_billing](https://github.com/joshnuss/commerce_billing) | A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
+| [conekta](https://github.com/echavezNS/conekta-elixir) | Elixir wrapper for Conekta API.
 | [correios_cep](https://github.com/prodis/correios-cep-elixir) | Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
 | [currently](https://github.com/chatgris/currently) | A tool to display cards currently assigns on Trello.
 | [darkskyx](https://github.com/techgaun/darkskyx) | A Darksky.com (formerly forecast.io) API client for Elixir.
@@ -1652,7 +1658,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [dogstatsd](https://github.com/adamkittelson/dogstatsd-elixir) | An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 | [dpd_client](https://github.com/knewter/dpd_client) | An API client for the DPD service.
 | [dropbox](https://github.com/ammmir/elixir-dropbox) | Dropbox Core API client for Elixir.
-| [dublin_bus_api](https://github.com/carlo-colombo/dublin-bus-api) | |ccess to the Real Time Passenger Information (RTPI) for Dublin Bus services.
+| [dublin_bus_api](https://github.com/carlo-colombo/dublin-bus-api) | Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
 | [edgarex](https://github.com/rozap/edgarex) | Elixir interface for fetching SEC filings from EDGAR.
 | [elixir_authorizenet](https://github.com/marcelog/elixir_authorizenet) | Unofficial client for the Authorize.Net merchant API.
 | [elixir_ipfs_api](https://github.com/zabirauf/elixir-ipfs-api) | IPFS (InterPlanetary File System) API client for Elixir.
@@ -1742,7 +1748,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 | [tg_client](https://github.com/ccsteam/ex-telegram-client) | An Elixir wrapper which communicates with the Telegram-CLI.
 | [traitify_elixir](https://github.com/traitify/traitify_elixir) | An Elixir client library for the Traitify Developer's API.
 | [ui_faces](https://github.com/katgironpe/ui_faces) | UIFaces API client for Elixir applications.
-| [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) | |n Elixir library for Unsplash.
+| [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) | An Elixir library for Unsplash.
 | [vultr](https://github.com/avitex/elixir-vultr) | Simple wrapper for the Vultr API.
 | [xe](https://github.com/paulodiniz/xe) | Real time conversion for currencies.
 | [xend](https://github.com/saulecabrera/xend) | Simple Elixir wrapper for Facebook's Send API.
