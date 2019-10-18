@@ -289,6 +289,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [speakeasy](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
 * [terminator](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
+## Automotive
+*Libraries and tools for automotive industry*
+* [Signalbroker](https://github.com/volvo-cars/signalbroker-server) - Development tool to read and write CAN/LIN and other buses using gRPC which allows usage of preferred language.
+
 ## Behaviours and Interfaces
 *Definitions how something should behave, like Interfaces from OOP-World*
 
