@@ -1341,7 +1341,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 * [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
-* [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix
+* [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
