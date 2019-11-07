@@ -592,6 +592,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [OK](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 * [sentry-elixir](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
