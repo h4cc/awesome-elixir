@@ -1377,6 +1377,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ignorant](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
 * [katt](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 * [kovacs](https://github.com/antp/kovacs) - A simple ExUnit test runner.
+* [markdown_test](https://github.com/MainShayne233/markdown_test) - A library that lets you test the Elixir code in your markdown files.
 * [meck](https://github.com/eproxus/meck) - A mocking library for Erlang.
 * [mecks_unit](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck](https://github.com/eproxus/meck).
 * [mix_erlang_tasks](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
