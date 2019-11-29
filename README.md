@@ -630,6 +630,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 * [tilex](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
+* [Rovex](https://github.com/emadb/rovex) - An implementation of the Mars Rover kata in elixir transformed in a basic multiplayer game.
 
 ## Feature Flags and Toggles
 *Libraries to manage feature toggles (AKA feature flags): ON/OFF values that can be toggled at runtime through some interface*
