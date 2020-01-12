@@ -20,30 +20,76 @@ defmodule Awesome.Order do
     end
 end
 
-
 defmodule Awesome do
 
     import Awesome.Order
+
+    # This is how a line has to look like.
+    @line_regex ~r/^\[([^]]+)\]\(([^)]+)\) - (.+)([\.\!]+)$/
+
+    defp parse_line(line) do
+        case Regex.run @line_regex, line do
+          nil -> raise("Line does not match format: '#{line}' Is there a dot at the end?")
+          [^line, name, link, description, _dot] -> [name, link, description]
+        end
+    end
 
     defp debug(message) do
         IO.puts "[debug] #{message}"
     end
 
+    #-----
+    
+    defp grab_link(line) do
+      Regex.run(~r/https?:\/\/[^)]+\)/, line) 
+      |> Enum.map(fn(x) -> String.trim_trailing(x, ")") end)
+    end
+    
+    def uniq_links(lines) do
+      uniq_links(lines, %{})
+    end
+    
+    defp uniq_links([head | tail], linkcount)  do
+      link = case grab_link head do
+        nil   -> uniq_links(tail, linkcount)
+        [h|t] -> h
+      end
+      cnt = case Map.fetch(linkcount, link) do
+        :error   -> 1
+        {:ok, c} -> 
+          IO.puts "Duplicate link: #{link}"
+          c + 1
+      end
+      uniq_links(tail, Map.put(linkcount, link, cnt))
+    end
+    
+    defp uniq_links([], linkcount) do
+      case Enum.any?(Map.values(linkcount), fn(x) -> x > 1 end) do
+        true  -> throw "Duplicate links found"
+        false -> ""
+      end
+    end
+
+    #-----
+
     # Entry point
     def test_file(file) do
 
-        http = Http.start(20)
-
-
         lines = File.read!(file)
         debug "Using Earmark to parse to data structure we can work with."
-        { blocks, _links } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
+        { blocks, _links, _options } = Earmark.Parser.parse(String.split(lines, ~r{\r\n?|\n}))
 
         debug "Ensure that there is a header at first."
         [%Earmark.Block.Heading{} | blocks] = blocks
 
         debug "Ensure that there is a introduction."
         [_introduction | blocks] = blocks
+
+        debug "Ensure that there is a +1 hint paragraph."
+        [_plusone | blocks] = blocks
+
+        debug "Ensure that there is info about other curated lists of packages."
+        [_other_curated_lists | blocks] = blocks
 
         debug "Ensure that there is a table of content list."
         [%Earmark.Block.List{blocks: tableOfContent} | blocksList ] = blocks
@@ -76,25 +122,18 @@ defmodule Awesome do
 
         debug "Ensure headings are in alphabetic order."
         for list <- headings, do: check_string_list_in_order(list)
-        debug "Ensure Headings are equal to the once in the tableOfContent."
+        debug "Ensure headings are equal to the once in the tableOfContent."
         [^categories, ^resources] = headings;
 
         debug "Ensure entries are in alphabetic order."
         for block <- blocksList do
             sorted_entries block
         end
-
-        debug "Waiting for all the HTTP requests to finish ..."
-
-        responses = Task.await(http, 300000)
-        notOk = responses |> Enum.filter(fn({statuscode, _url}) -> not (statuscode in [200, 301, 302]) end)
-        case notOk do
-            [] ->
-                debug "No invalid links found"
-            invalidLinks ->
-                debug "INVALID links found:"
-                IO.inspect invalidLinks
-        end
+        
+        debug "Ensure links are unique."
+        String.split(lines, ~r{\r\n?|\n}) 
+        |> Enum.filter(fn(x) -> String.starts_with?(x, "* [") end) 
+        |> uniq_links
     end
 
     def parse_markdown_link(string) do
@@ -109,7 +148,7 @@ defmodule Awesome do
         entries = Enum.map(entriesList, fn %Earmark.Block.ListItem{blocks: [ %Earmark.Block.Para{lines: [ line ]} ]} -> line end)
         names = Enum.map(entries, fn line ->
             line = line |> String.strip(?~)
-            [^line, name | _rest] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)./, line
+            [name | _rest] = parse_line line
             name
         end)
         check_string_list_in_order(names)
@@ -176,25 +215,14 @@ defmodule Awesome do
 
     # Validate that the link as listitem is valid formatted.
     def validate_list_item(%Earmark.Block.ListItem{blocks: [%Earmark.Block.Para{lines: [line]}], type: :ul}) do
-        line = String.rstrip(line)
-        if String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
-            line = line |> String.strip(?~)
+        line = case String.starts_with?(line, "~~") and String.ends_with?(line, "~~") do
+            true ->
+                line |> String.rstrip() |> String.strip(?~)
+            false ->
+                String.rstrip(line)
         end
-        [^line, name, link, description] = Regex.run ~r/\[([^]]+)\]\(([^)]+)\) - (.+)\./, line
+        [name, link, description | _rest] = parse_line line
         IO.puts "\t'#{name}' #{link} '#{description}'"
-        request_http_url(link)
-    end
-
-    def request_http_url(url) do
-        #IO.inspect is_binary  url
-        #IO.inspect url
-        send(:http, {:get, url})
-        #Awesome.Http.request(42, url)
-        #IO.puts "Testing URL #{url}...\n"
-        #case HTTPoison.get(url) do
-        #  response = %HTTPoison.Response{status_code: 200} -> {:ok, response}
-        #  response -> throw "HTTP Request failed #{inspect response}"
-        #end
     end
 end
 

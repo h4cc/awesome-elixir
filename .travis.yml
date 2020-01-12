@@ -1,8 +1,12 @@
 language: elixir
+elixir:
+  - 1.4.2
+otp_release:
+  - 19.3
 
 # Using faster container based build environment.
 sudo: false
 
 before_install: cd ./tests
 
-script: mix run -r http.exs check.exs
+script: mix run check.exs

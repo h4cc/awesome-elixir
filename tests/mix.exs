@@ -15,8 +15,8 @@ defmodule MyProject.Mixfile do
 
   defp deps do
     [
-        {:earmark, "~> 0.1.12"},
-        {:httpoison, "~> 0.5"}
+        {:earmark, "~> 1.2"},
+        {:httpoison, "~> 0.11"}
     ]
   end
 end
