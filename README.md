@@ -980,6 +980,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [named_args](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 * [ok_jose](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 * [opus](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
+* [pathex](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
 * [pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipe_here](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 * [pipe_to](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
