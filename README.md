@@ -1216,9 +1216,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## PDF
 *Libraries and software for working with PDF files.*
 
+* [chromic_pdf](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
 * [gutenex](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 * [pdf2htmlex](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
-* [pdf_generator](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
+* [pdf_generator](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
+* [puppeteer_pdf](https://github.com/coletiv/puppeteer-pdf) - Another wrapper around puppeteer (HTML to PDF) for use in Elixir projects.
 
 ## Protocols
 *Special protocol and format libraries.*
