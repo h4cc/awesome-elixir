@@ -900,6 +900,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 * [spandex](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 * [telemetry](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+* [wobserver](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
 
 ## JSON
 *Libraries and implementations working with JSON.*
