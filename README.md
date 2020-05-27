@@ -52,7 +52,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [HTTP](#http)
     - [Images](#images)
     - [Instrumenting / Monitoring](#instrumenting--monitoring)
-    - [JSON](#json)x
+    - [JSON](#json)
     - [Languages](#languages)
     - [Lexical analysis](#lexical-analysis)
     - [Logging](#logging)
