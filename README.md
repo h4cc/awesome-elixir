@@ -1482,6 +1482,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [shortuuid](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
 * [simetric](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 * [slugger](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+* [smile](https://github.com/danigulyas/smile) - Small lib for converting emoji mappers to emoji characters, like in Slack messages.
 * [stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
