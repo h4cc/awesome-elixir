@@ -1180,6 +1180,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [neo4j_sips_models](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 * [panoramix](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 * [paper_trail](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+* [pillar](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 * [postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [rediscl](https://github.com/akdilsiz/elixir-rediscl) - A minimal redis client with connection pooling and pipe query builder.
