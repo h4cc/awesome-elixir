@@ -1690,6 +1690,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## XML
 *Libraries and implementations working with XML (for html tools please go to the [HTML](#html) section).*
 
+* [elixir-map-to-xml](https://github.com/gunnar2k/elixir-map-to-xml) – Converts an Elixir map to an XML document.
+* [elixir-xml-to-map](https://github.com/homanchou/elixir-xml-to-map) – Creates an Elixir Map data structure from an XML string.
 * [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
