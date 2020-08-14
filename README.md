@@ -803,6 +803,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 * [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 * [topo](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+* [wheretz](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
 ## GUI
 *Libraries for writing Graphical User Interfaces.*
