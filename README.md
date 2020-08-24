@@ -1033,6 +1033,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exfcm](https://github.com/Hajto/ExFCM) - Simple wrapper for posting Firebase Cloud Messages.
 * [exldap](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
+* [expyplot](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot
 * [expool](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
