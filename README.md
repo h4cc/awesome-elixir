@@ -1035,6 +1035,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
 * [expool](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
 * [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
+* [expyplot](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 * [exquisite](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync](https://github.com/falood/exsync) - Yet another Elixir reloader.
 * [funnel](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
