@@ -1377,6 +1377,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [chaperon](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 * [chemistry](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
+* [definject](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 * [double](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 * [ecto_it](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
 * [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
