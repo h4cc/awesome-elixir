@@ -1715,6 +1715,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 * [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 * [yaml_elixir](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+* [ymlr](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 * [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 # Resources
