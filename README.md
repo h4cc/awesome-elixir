@@ -1413,6 +1413,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mock](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [mockery](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 * [mockingbird](https://github.com/Driftrock/mockingbird) - A set of helpers to test code that involves http requests.
+* [mox](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
 * [pavlov](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 * [plug_test_helpers](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
