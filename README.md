@@ -1319,6 +1319,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries related to search indexing, search algorithms and search clients.*
 
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+* [elasticsearch_elixir_bulk_processor](https://hex.pm/packages/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 * [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
 
 ## Security
