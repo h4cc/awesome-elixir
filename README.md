@@ -468,6 +468,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [cesso](https://github.com/meh/cesso) - CSV handling library for Elixir.
 * [csv](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+* [csv2sql](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 * [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 * [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [nimble_csv](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
