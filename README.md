@@ -1814,7 +1814,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
 
 ## Reading
-*Elixir-releated reading materials.*
+*Elixir-related reading materials.*
 
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) - An online course that teaches both the Elixir language and the Phoenix framework.
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
