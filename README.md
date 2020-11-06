@@ -1186,6 +1186,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [moebius](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 * [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
 * [mongodb](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+* [mongodb_driver](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 * [mongodb_ecto](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 * [mysql](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
