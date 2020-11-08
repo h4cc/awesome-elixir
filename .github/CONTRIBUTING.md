@@ -7,21 +7,22 @@ These are just guidelines, not rules, use your best judgment and feel free to pr
 
 ## How Can I Contribute?
 
-### Creating Issues
-Do you know any cool Elixir project that isn't listed here? It isn't also on the [open issues](https://github.com/h4cc/awesome-elixir/issues)?
-Please create a new issue or submit a pull request, we will be happy to receive it.
-
 ### Submitting Pull Requests
-Feel free to take any open issue, just make sure that you follow the PR and contribution guidelines.
+
+Do you know any cool Elixir project that isn't listed here? Please submit a pull request, we will be happy to receive it.
+
+Feel free to take any open issue, just make sure that you follow the contribution guidelines.
 
 ### Improving the tests
-You are an awesome elixir developer and think that we can improve our tests? Nice! Feel free to send your contributions.
+
+You are an awesome Elixir developer and think that we can improve our tests? Nice! Feel free to send your contributions.
 
 ## Contribution Guidelines
 
+* Create a pull request, not an issue.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
-* Libraries that are compatible with latest elixir, hex-installable, tested and documented are preferred.
-* For packages use a link to the source repository like github or bitbucket.
+* Libraries that are compatible with latest Elixir, hex-installable, tested and documented are preferred.
+* For packages use a link to the source repository like GitHub or Bitbucket.
 * Please make an individual pull request for each suggestion.
 * Prefix duplicate library names with their vendor or namespace followed by a space.
 * Keep descriptions short and simple.
