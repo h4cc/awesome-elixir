@@ -1557,6 +1557,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ethereumex](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 * [everex](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 * [everyoneapi](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
+* [ex_changerate](https://github.com/81dr/ex_changerate) - Elixir client for [exchangerate.host](https://exchangerate.host) API.
 * [ex_codeship](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 * [ex_statsd](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [ex_twilio](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
