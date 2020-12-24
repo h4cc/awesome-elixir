@@ -1090,6 +1090,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Paasaa](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 * [Petrovich](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 * [Woolly](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
+* [Tongue](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
