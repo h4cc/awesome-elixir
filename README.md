@@ -1223,7 +1223,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [xandra](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
-* [kvs](https://github.com/synrc/kvs) - Abstract Chain Database
 
 ## OTP
 *Libraries for working with OTP related things.*
