@@ -774,10 +774,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Frameworks
 *Web development frameworks.*
 
-* [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
-* [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [kitto](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+* [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
+* [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
