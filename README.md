@@ -1337,9 +1337,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Security
 *Libraries and tools regarding security.*
 
+* [ca](https://github.com/synrc/ca) - Certificate Authority.
 * [clamxir](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
-* [ca](https://github.com/synrc/ca) - Certificate Authority.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 * [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
