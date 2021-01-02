@@ -103,6 +103,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Actors
 *Libraries and tools for working with actors and such.*
 
+* [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 * [dflow](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
 * [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
@@ -198,12 +199,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Applications
 *Standalone applications.*
-
-* [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.space)).
 * [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
+* [chat](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
-* [ExChat](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React(redux).
+* [exchat](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 * [Exon](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 * [ExShop](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 * [Hydra](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
@@ -211,7 +211,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated.
 * [medex](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
-* [n2o](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nvjorn](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 * [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
@@ -473,6 +472,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [csv](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 * [csv2sql](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 * [csvlixir](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
+* [ecsv](https://github.com/erpuno/ecsv) - Fast libcsv-based stream parser for Elixir.
 * [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [nimble_csv](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
@@ -776,6 +776,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [kitto](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+* [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
+* [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
@@ -1183,7 +1185,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [inquisitor](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 * [isn](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 * [kalecto](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
-* [kst](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+* [kvs](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 * [level](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 * [mariaex](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 * [memento](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
@@ -1335,6 +1337,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Security
 *Libraries and tools regarding security.*
 
+* [ca](https://github.com/synrc/ca) - Certificate Authority.
 * [clamxir](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
@@ -1690,6 +1693,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_gtin](https://github.com/kickinespresso/ex_gtin) - A validation library for GTIN codes under GS1 specification.
 * [ex_nric](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
+* [form](https://github.com/synrc/form) - Document forms and validation library.
 * [is](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 * [jeaux](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 * [optimal](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
