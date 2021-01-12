@@ -1716,7 +1716,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [silent_video](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## WebAssembly
-*Libraries for running WebAssembly (WASM) in Elixir or running Elixir an WebAssembly.*
+*Libraries for running WebAssembly (WASM) in Elixir or running Elixir on WebAssembly.*
 
 * [lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
 * [wasmex](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
