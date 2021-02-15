@@ -1455,6 +1455,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [base62](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 * [bencode](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
+* [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 * [caustic](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
 * [ccc](https://github.com/Joe-noh/ccc) - Character Code Converter.
