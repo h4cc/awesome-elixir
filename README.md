@@ -445,6 +445,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [figaro_elixir](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
+* [hush](https://github.com/gordalina/hush) - Release & Runtime configuration provider with support for AWS Secrets Manager, Google Secret Manager.
 * [sweetconfig](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 
 ## Cryptography
