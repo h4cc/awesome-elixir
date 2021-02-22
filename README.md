@@ -1326,7 +1326,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [accent](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 * [detergent](https://github.com/devinus/detergent) - An emulsifying Erlang SOAP library.
 * [detergentex](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
-* [SOAP client](https://github.com/elixir-soap/soap) - well-enough documented SOAP client
+* [SOAP client](https://github.com/elixir-soap/soap) - Well-enough Hex-documented SOAP client.
 * [maru](https://github.com/falood/maru) - Elixir copy of grape for creating REST-like APIs.
 * [mazurka](https://github.com/exstruct/mazurka) - hypermedia api toolkit.
 * [plug_rest](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
