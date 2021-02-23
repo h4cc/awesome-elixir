@@ -1330,7 +1330,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mazurka](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
 * [plug_rest](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
-* [SOAP client](https://github.com/elixir-soap/soap) - Hex-documented SOAP client.
+* [SOAP client](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 * [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 * [versionary](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
