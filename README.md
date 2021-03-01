@@ -1765,6 +1765,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir) - Bring Elixir into your company, with real-life strategies from the people who built Elixir and use it successfully at scale. This book has all the information you need to take your application from concept to production (2017).
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code (2017).
+* [Create a cryptocurrency trading bot in Elixir](https://leanpub.com/create-a-cryptocurrency-trading-bot-in-elixir) - Looking for a real-world Elixir/OTP project to gain hands-on experience? This book will take you on a journey to create a cryptocurrency trading bot in Elixir. You will be able to see first-hand, how complex systems are designed and developed as we will build them together! (2021).
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - This book is a set of recipes grouped by topic by Paulo A Pereira (2015).
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - (Portuguese) The book provides introduction to functional and concurrent programming with Elixir by Tiago Davi(2014).
 * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
@@ -1861,6 +1862,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
 * [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
+* [Frathon's YouTube Channel](https://www.youtube.com/c/Frathon) - YouTube channel dedicated to promote functional programming, publishing "real world" programming videos in Elixir like "Create a cryptocurrency trading bot in Elixir" series.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
