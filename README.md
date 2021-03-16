@@ -1499,6 +1499,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
+* [minigen](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 * [mimetype_parser](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
 * [monetized](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 * [money](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
