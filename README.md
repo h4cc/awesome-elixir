@@ -1500,6 +1500,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
 * [mimetype_parser](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
+* [minigen](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 * [monetized](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 * [money](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 * [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
