@@ -598,7 +598,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Embedded Systems
 *Embedded systems development.*
 
+* [firmata](https://github.com/entone/firmata) - Firmata protocol implemented in Elixir.
 * [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
+  * Additional Nerves-specific libraries may be found [here](https://nerves-project.org/libraries/)
 
 ## Encoding and Compression
 *Transforming data in different formats or compressing it.*
