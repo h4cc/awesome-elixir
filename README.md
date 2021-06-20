@@ -804,8 +804,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Binbo](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 * [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 * [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
-* [vim_snake](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework
 * [pictionary](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game([skribbl.io](https://skribbl.io/) clone)
+* [vim_snake](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
