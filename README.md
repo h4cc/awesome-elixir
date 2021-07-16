@@ -1324,6 +1324,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mix_docker](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
 * [renew](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
+* [versioce](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
