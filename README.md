@@ -208,7 +208,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Exon](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 * [ExShop](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 * [Hydra](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
-* [Igthorn](https://github.com/Frathon/Igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
+* [Igthorn](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated.
 * [medex](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
@@ -1871,7 +1871,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
 * [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
-* [Frathon's YouTube Channel](https://www.youtube.com/c/Frathon) - YouTube channel dedicated to promote functional programming, publishing "real world" programming videos in Elixir like "Create a cryptocurrency trading bot in Elixir" series.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - YouTube channel dedicated to promote functional programming, publishing "real world" programming videos in Elixir like "Hands-on Elixir & OTP: Cryptocurrency trading bot" series.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
