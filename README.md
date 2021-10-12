@@ -706,7 +706,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [access pass](https://github.com/AppDoctorIo/accesspass) - Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content)).
 * [addict](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 * [airbrake_plug](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
-* [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [better_params](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [commanded](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
@@ -904,6 +903,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_image_info](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
 * [exfavicon](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
+* [gi](https://github.com/LangPham/gi) - An Elixir wrapper for GraphicsMagick command line.
 * [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 * [image64](https://hex.pm/packages/image64) - A tool for working with base64 encoded images.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
@@ -1370,6 +1370,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [medusa](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
+* [pardall_markdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
