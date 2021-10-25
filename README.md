@@ -1669,10 +1669,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [zanox](https://github.com/rafaelss/zanox) - Zanox API.
 
 ## Translations and Internationalizations
-*Libraries providing translations or internationalizations.*
+*Libraries and tools providing translations or internationalizations.*
 
 * [exkanji](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
 * [exromaji](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
+* [free PO editor](https://pofile.net/free-po-editor) - A tool for translating PO files.
 * [getatrex](https://github.com/alexfilatov/getatrex) - Automatic translation tool of Gettext locales with Google Translate for Elixir/Phoenix projects.
 * [gettext](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 * [linguist](https://github.com/change/linguist) - Elixir Internationalization library.
