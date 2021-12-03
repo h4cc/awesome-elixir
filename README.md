@@ -421,6 +421,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dogma](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
+* [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
