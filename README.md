@@ -309,6 +309,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Benchmarking
 *Running code to see how long it takes, which is faster and/or if improvements have been made.*
 
+* [beamchmark](https://github.com/membraneframework/beamchmark) - A Tool for measuring EVM performance.
 * [benchee](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
 * [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
