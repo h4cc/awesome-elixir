@@ -706,7 +706,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [access pass](https://github.com/AppDoctorIo/accesspass) - Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content)).
 * [addict](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 * [airbrake_plug](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
-* [ashes](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [better_params](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
 * [blaguth](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [commanded](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
@@ -904,6 +903,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_image_info](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 * [exexif](https://github.com/pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
 * [exfavicon](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
+* [gi](https://github.com/LangPham/gi) - An Elixir wrapper for GraphicsMagick command line.
 * [identicon](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 * [image64](https://hex.pm/packages/image64) - A tool for working with base64 encoded images.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
@@ -1370,6 +1370,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [medusa](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
+* [pardall_markdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
@@ -1659,6 +1660,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [tg_client](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
+* [tradehub](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 * [ui_faces](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
 * [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
@@ -1772,7 +1774,6 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir) - Bring Elixir into your company, with real-life strategies from the people who built Elixir and use it successfully at scale. This book has all the information you need to take your application from concept to production (2017).
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code (2017).
-* [Create a cryptocurrency trading bot in Elixir](https://www.elixircryptobot.com) - Looking for a real-world Elixir/OTP project to gain hands-on experience? This book will take you on a journey to create a cryptocurrency trading bot in Elixir. You will be able to see first-hand, how complex systems are designed and developed as we will build them together! (2021).
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - This book is a set of recipes grouped by topic by Paulo A Pereira (2015).
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - (Portuguese) The book provides introduction to functional and concurrent programming with Elixir by Tiago Davi(2014).
 * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
@@ -1780,6 +1781,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways (2017).
 * [Getting Started - Elixir](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
+* [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) - Want to learn Elixir & OTP by creating a real-world project? With Hands-on *Elixir & OTP: Cryptocurrency trading bot* you will gain hands-on experience by working on an interesting software project. We will explore all the key abstractions and essential principles through iterative implementation improvements. (2021).
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
 * [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir) - Don’t board the Elixir train with an imperative mindset! To get the most out of functional languages, you need to think functionally (2017).
 * [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/book/cmelixir/metaprogramming-elixir) - Thorough explanation on how to exploit Elixir's metaprogramming capabilities to improve your Elixir coding by Chris McCord (2015).
