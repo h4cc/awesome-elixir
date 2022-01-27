@@ -446,6 +446,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [configparser_ex](https://github.com/easco/configparser_ex) - A simple Elixir parser for the same kind of files that Python's configparser library handles.
 * [conform](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 * [dotenv](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
+* [enux](https://hex.pm/packages/enux) - Helper module to load, validate and document your app's configuration from env and json files at runtime.
 * [ex_conf](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [figaro_elixir](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
