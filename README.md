@@ -466,8 +466,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_bcrypt](https://github.com/manelli/ex_bcrypt) - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
 * [ex_crypto](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 * [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+* [nimble_totp](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 * [ntru_elixir](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
-* [one_time_pass_ecto](https://github.com/riverrun/one_time_pass_ecto) - One-time password library for Elixir.
 * [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 * [rsa](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 * [rsa_ex](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
