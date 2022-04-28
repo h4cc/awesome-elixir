@@ -119,6 +119,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Algorithms and Data structures
 *Libraries and implementations of algorithms and data structures.*
 
+* [aja](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 * [aruspex](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 * [bimap](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
