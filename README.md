@@ -1825,6 +1825,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [ilexir](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
 * [intellij_elixir](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
+* [mix.nvim](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 * [Notepad++](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 * [Nova Elixir](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 * [nvim](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
