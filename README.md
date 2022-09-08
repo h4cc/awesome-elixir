@@ -1245,6 +1245,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 * [immortal](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 * [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
+* [matcha](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
 ## Package Management
 *Libraries and tools for package and dependency management.*
