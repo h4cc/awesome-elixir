@@ -692,6 +692,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [format_parser.ex](https://github.com/ahtung/format_parser.ex) - Elixir library to figure out the type and the format of a file.
 * [fs](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 * [fwatch](https://github.com/ryo33/fwatch-ex) - A callback-based file watcher based on __fs__.
+* [ivcu](https://github.com/elixir-ivcu/ivcu) - File Validator, Converter, and Uploader.
 * [librex](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 * [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [sentix](https://github.com/whitfin/sentix) - A cross-platform file watcher for Elixir based on fswatch.
