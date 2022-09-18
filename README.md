@@ -816,6 +816,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 * [pictionary](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
 * [rayex](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
+* [Rovex](https://github.com/emadb/rovex) - An implementation of the Mars Rover kata in Elixir transformed in a basic multiplayer game.
 * [vim_snake](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework.
 
 ## Geolocation
