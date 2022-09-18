@@ -69,6 +69,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [PDF](#pdf)
     - [Protocols](#protocols)
     - [Queue](#queue)
+    - [QUIC](#quic)
     - [Release Management](#release-management)
     - [REST and API](#rest-and-api)
     - [Search](#search)
@@ -534,6 +535,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [extrace](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 * [git_hooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+* [inspector](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience. 
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [rexbug](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
@@ -1325,6 +1327,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [verk](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
+## QUIC
+*Libraries and tools for QUIC transport layer network protocol
+
+* [quicer](https://github.com/emqx/quic) - QUIC protocol erlang library.
 
 ## Release Management
 *Libraries and tools for release management.*
