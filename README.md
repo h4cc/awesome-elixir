@@ -1543,6 +1543,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [smile](https://github.com/danigulyas/smile) - Small lib for converting emoji mappers to emoji characters, like in Slack messages.
 * [stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
+* [transformer](https://github.com/ByeongUkChoi/transformer) - Flexible type conversion lightweight library.
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 * [ua_inspector](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 * [ua_parser2](https://github.com/nazipov/ua_parser2-elixir) - A port of ua-parser2 to Elixir. User agent parser library.
