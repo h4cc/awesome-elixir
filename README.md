@@ -202,6 +202,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Applications
 *Standalone applications.*
+* [Caddishouse](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts using Phoenix/LiveView.
 * [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 * [chat](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
@@ -242,6 +243,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries working with sounds and tones.*
 
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings
+* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings
 * [firmata](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 * [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
