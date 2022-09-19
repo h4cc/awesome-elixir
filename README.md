@@ -999,7 +999,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [codec-beam](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
 * [Countries](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 * [countriex](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
-* [cubdb](https://hex.pm/packages/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
+* [cubdb](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
