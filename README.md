@@ -1002,7 +1002,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
-* [ecto_list](https://hex.pm/packages/ecto_list) - Simple ordered model management with Ecto.
 * [egaugex](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
 * [elixir-browser](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 * [erlang_term](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
@@ -1116,6 +1115,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_factory](https://hex.pm/packages/ecto_factory) - Easily generate structs based on your ecto schemas.
 * [ecto_fixtures](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
 * [ecto_lazy_float](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
+* [ecto_list](https://github.com/popo63301/ecto_list) - Simple ordered model management with Ecto.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_mnesia](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 * [ecto_ordered](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
