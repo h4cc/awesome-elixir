@@ -841,6 +841,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
 * [proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 * [segseg](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+* [srtm](https://github.com/adriankumpf/srtm) - Query locations for elevation data from the NASA Shuttle Radar Topography Mission.
 * [topo](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 * [wheretz](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
