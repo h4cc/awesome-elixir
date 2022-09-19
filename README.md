@@ -96,6 +96,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Editors](#editors)
     - [Newsletters](#newsletters)
     - [Other Awesome Lists](#other-awesome-lists)
+    - [Podcasts](#podcasts)
     - [Reading](#reading)
     - [Screencasts](#screencasts)
     - [Styleguides](#styleguides)
@@ -1893,6 +1894,14 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 * [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
 * [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
+
+## Podcasts
+*Podcasts discussing the Elixir language and community.*
+
+* [Elixir Fountain](https://soundcloud.com/elixirfountain)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
+* [Elixir Outlaws](https://elixiroutlaws.com)
+* [Elixir Talk](https://soundcloud.com/elixirtalk)
 
 ## Reading
 *Elixir-related reading materials.*
