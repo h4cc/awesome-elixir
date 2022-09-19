@@ -1,11 +1,4 @@
-## Title
-
-Add Package "name-of-the-package"
-
-## Description
-
-Resolves #issue-number
-
-## Commit message
-
-A short description of the package
+<!--
+Before submitting your pull request, please read the contributing guidelines:
+https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md
+-->
