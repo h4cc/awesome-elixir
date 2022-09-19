@@ -879,7 +879,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Instrumenting / Monitoring
 *Libraries for collecting and exporting metrics.*
 
-* [app_optex](https://hex.pm/packages/app_optex) - Client for AppOptics API. Send metrics and tags to AppOptics time series service.
+* [app_optex](https://github.com/sashman/app_optex) - Client for AppOptics API. Send metrics and tags to AppOptics time series service.
 * [appsignal-elixir](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 * [elixometer](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
 * [erlang-metrics](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
