@@ -897,6 +897,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ivar](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mint](https://github.com/ericmj/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
+* [Mechanize](https://github.com/gushonorato/mechanize) - Build web scrapers and automate interaction with websites in Elixir with ease!
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
