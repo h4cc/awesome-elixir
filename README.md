@@ -236,6 +236,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
 
+* [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks
 * [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
