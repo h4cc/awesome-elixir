@@ -422,6 +422,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 * [skycluster](https://github.com/Nebo15/skycluster) - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
+* [vercel](https://github.com/Bounceapp/elixir-vercel) - An Elixir wrapper for Vercel's API.
 
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
@@ -1113,6 +1114,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [notifier](https://hex.pm/packages/notifier) - A pluggable architecture for desktop notifications.
 * [onetime](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
 * [pact](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
+* [passbook](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
 * [phone](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
