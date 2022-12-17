@@ -1515,6 +1515,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Walkman](https://github.com/derekkraan/walkman) - Isolate tests from the real world, inspired by Ruby's VCR.
 * [wallaby](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 * [white_bread](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+* [ex_integration_coveralls](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the intergration tests code coverage. Related introduction article: [The solution of Elixir continuous runtime system code coverage collection](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
