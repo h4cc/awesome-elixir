@@ -1684,7 +1684,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 * [nacha](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
 * [nadia](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
-* [omise](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
+* [omise](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 * [opbeat](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
