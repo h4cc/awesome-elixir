@@ -1276,7 +1276,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [triplex](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
 * [triton](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
-* [unreal](https://github.com/cart96/unreal) - Unofficial SurrealDB driver for ELixir.
+* [unreal](https://github.com/cart96/unreal) - Unofficial SurrealDB driver for Elixir.
 * [xandra](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
