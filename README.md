@@ -244,6 +244,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
+* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
@@ -545,7 +546,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exrun](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [extrace](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 * [git_hooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
-* [inspector](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience. 
+* [inspector](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience.
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [rexbug](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
@@ -1464,7 +1465,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 * [definject](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 * [double](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
-* [dummy](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way 
+* [dummy](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way
 * [ecto_it](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
 * [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 * [elixir-auto-test](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
