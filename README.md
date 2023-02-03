@@ -115,6 +115,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 * [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
+* [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 * [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
