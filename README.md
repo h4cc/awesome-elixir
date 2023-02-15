@@ -1928,6 +1928,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
 * [Elixir Outlaws](https://elixiroutlaws.com)
 * [Elixir Talk](https://soundcloud.com/elixirtalk)
+* [Thinking Elixir](https://podcast.thinkingelixir.com)
 
 ## Reading
 *Elixir-related reading materials.*
