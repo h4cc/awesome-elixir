@@ -442,6 +442,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 * [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
+* [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
