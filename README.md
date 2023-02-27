@@ -814,6 +814,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Web development frameworks.*
 
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+* [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 * [kitto](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 * [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
 * [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
@@ -825,7 +826,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [RIG](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
-* [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 
 ## Games
 *Libraries for and implementations of games.*
