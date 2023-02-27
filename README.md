@@ -825,6 +825,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [RIG](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+* [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 
 ## Games
 *Libraries for and implementations of games.*
