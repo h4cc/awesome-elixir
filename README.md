@@ -158,7 +158,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fsm](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 * [fuse](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 * [gen_fsm](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen_fsm.
-* [graphex](https://github.com/stocks29/graphex) - A library for composing and executing task graphs in elixir. [Docs](https://hexdocs.pm/graphex)
+* [graphex](https://github.com/stocks29/graphex) - A library for composing and executing task graphs in elixir.
 * [graphmath](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
 * [hypex](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
@@ -233,15 +233,16 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 * [Startup Job](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [Tai](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
-* [utils](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 * [uai_shot](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+* [utils](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 * [workbench](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
 
-* [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks
+* [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
+* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 * [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
@@ -249,14 +250,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
-* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
 
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
-* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings
-* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings
+* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings.
+* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings.
 * [firmata](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 * [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
@@ -328,7 +328,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Running code to see how long it takes, which is faster and/or if improvements have been made.*
 
 * [beamchmark](https://github.com/membraneframework/beamchmark) - A Tool for measuring EVM performance.
-* [benchee](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
+* [benchee](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
 * [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 * [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
@@ -424,7 +424,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
 * [libcluster](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 * [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
-* [nomad](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
+* [nomad](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 * [sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 * [skycluster](https://github.com/Nebo15/skycluster) - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
@@ -439,11 +439,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code](https://github.com/axelson/dep_viz/)).
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.([Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
 * [dogma](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
+* [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 * [excellent_migrations](https://github.com/Artur-Sulej/excellent_migrations) - Detecting potentially dangerous operations in database migrations.
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 * [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
-* [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
@@ -478,7 +478,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [hush_aws_secrets_manager](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 * [hush_gcp_secret_manager](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 * [mahaul](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
-* [skogsra](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease
+* [skogsra](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease.
 * [sweetconfig](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 * [weave](https://gitlab.com/gt8/open-source/elixir/weave) - JIT configuration loader that works with Kubernetes and Docker Swarm.
 
@@ -637,11 +637,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Errors and Exception Handling
 *Working with errors and exceptions.*
 
+* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [OK](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 * [sentry-elixir](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
-* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
@@ -671,7 +671,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 * [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 * [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-* [oop](https://github.com/wojtekmach/oop) - OOP in Elixir!
+* [oop](https://github.com/wojtekmach/oop) - OOP in Elixir.
 * [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
 * [phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
@@ -877,7 +877,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
-* [meseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [meseeks](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [modest_ex](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 * [myhtmlex](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
@@ -892,7 +892,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cauldron](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 * [Crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 * [Crawly](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
-* [SpiderMan](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
 * [elli](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [etag_plug](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 * [explode](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
@@ -908,8 +907,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [ivar](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
+* [Mechanize](https://github.com/gushonorato/mechanize) - Build web scrapers and automate interaction with websites in Elixir with ease.
 * [mint](https://github.com/ericmj/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
-* [Mechanize](https://github.com/gushonorato/mechanize) - Build web scrapers and automate interaction with websites in Elixir with ease!
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
@@ -919,6 +918,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [sparql_client](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 * [spell](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+* [SpiderMan](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
 * [tesla](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [Tube](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 * [uri_query](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
@@ -963,13 +963,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
 * [newrelic.ex](https://github.com/romul/newrelic.ex) - Collects metrics from your Elixir/Phoenix application and sends them to [NewRelic](https://newrelic.com/).
+* [prom_ex](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 * [prometheus](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 * [prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
 * [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 * [prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
 * [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 * [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
-* [prom_ex](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 * [spandex](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 * [telemetry](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 * [wobserver](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
@@ -1284,7 +1284,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 * [timex_ecto](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 * [tirexs](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
-* [triplex](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
+* [triplex](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 * [triton](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [unreal](https://github.com/cart96/unreal) - Unofficial SurrealDB driver for Elixir.
@@ -1299,7 +1299,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 * [immortal](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 * [libex_config](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
-* [matcha](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
 ## Package Management
 *Libraries and tools for package and dependency management.*
@@ -1348,6 +1347,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exdisque](https://github.com/mosic/exdisque) - Elixir client for [Disque](https://github.com/antirez/disque), an in-memory, distributed job queue.
 * [exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
 * [exrabbit](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
+* [faktory_worker](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
 * [flume](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 * [gen_rmq](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 * [heapq](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
@@ -1356,7 +1356,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kaffe](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [oban](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
-* [faktory_worker](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
 * [opq](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [que](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
@@ -1370,7 +1369,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ## QUIC
-*Libraries and tools for QUIC transport layer network protocol
+*Libraries and tools for QUIC transport layer network protocol.*
 
 * [quicer](https://github.com/emqx/quic) - QUIC protocol erlang library.
 
@@ -1387,7 +1386,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mix_docker](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
 * [renew](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
-* [versioce](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project
+* [versioce](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
@@ -1406,10 +1405,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Search
 *Libraries related to search indexing, search algorithms and search clients.*
 
+* [elasticlunr](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 * [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
-* [elasticlunr](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 
 ## Security
 *Libraries and tools regarding security.*
@@ -1436,8 +1435,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [medusa](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
 * [NimblePublisher](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
-* [pardall_markdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
+* [pardall_markdown](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## Statistics
@@ -1477,12 +1476,13 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 * [definject](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 * [double](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
-* [dummy](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way
+* [dummy](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way.
 * [ecto_it](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
 * [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 * [elixir-auto-test](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
 * [espec](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 * [espec_phoenix](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
+* [ex_integration_coveralls](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 * [ex_machina](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 * [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 * [ex_spec](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
@@ -1529,7 +1529,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Walkman](https://github.com/derekkraan/walkman) - Isolate tests from the real world, inspired by Ruby's VCR.
 * [wallaby](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 * [white_bread](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
-* [ex_integration_coveralls](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
@@ -1604,8 +1603,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [smile](https://github.com/danigulyas/smile) - Small lib for converting emoji mappers to emoji characters, like in Slack messages.
 * [stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 * [tau](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
-* [transformer](https://github.com/ByeongUkChoi/transformer) - Flexible type conversion lightweight library.
 * [tomlex](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
+* [transformer](https://github.com/ByeongUkChoi/transformer) - Flexible type conversion lightweight library.
 * [ua_inspector](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 * [ua_parser2](https://github.com/nazipov/ua_parser2-elixir) - A port of ua-parser2 to Elixir. User agent parser library.
 * [unit_fun](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
@@ -1774,7 +1773,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mandrake](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 * [mnemonix](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 * [plasm](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted_before, .inserted_after, etc.
-* [plugmap](https://github.com/nerdslabs/plugmap) - Plugmap is sitemap generation library for Plug/Phoenix Framework. [Doc](https://hexdocs.pm/plugmap/readme.html)
+* [plugmap](https://github.com/nerdslabs/plugmap) - Plugmap is sitemap generation library for Plug/Phoenix Framework.
 * [pubsub](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 * [quark](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 * [retry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
@@ -1828,7 +1827,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exoml](https://github.com/Overbryd/exoml) - A module to decode/encode xml into a tree structure.
 * [fast_xml](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
-* [meeseeks](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [meeseeks](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [saxy](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
@@ -1860,7 +1859,6 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) - A short book to learn the basic of Elixir and its ecosystem.
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
-* [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways (2017).
 * [Getting Started - Elixir](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 * [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) - Want to learn Elixir & OTP by creating a real-world project? With Hands-on *Elixir & OTP: Cryptocurrency trading bot* you will gain hands-on experience by working on an interesting software project. We will explore all the key abstractions and essential principles through iterative implementation improvements. (2021).
@@ -1874,6 +1872,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) - Definitive guide to build web applications with the Phoenix framework by Chris McCord, José Valim and Bruce Tate (2015).
 * [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
+* [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets
 *Useful Elixir-related cheat sheets.*
@@ -1935,11 +1934,11 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Podcasts
 *Podcasts discussing the Elixir language and community.*
 
-* [Elixir Fountain](https://soundcloud.com/elixirfountain)
-* [Elixir Mix](https://devchat.tv/elixir-mix/)
-* [Elixir Outlaws](https://elixiroutlaws.com)
-* [Elixir Talk](https://soundcloud.com/elixirtalk)
-* [Thinking Elixir](https://podcast.thinkingelixir.com)
+* [Elixir Fountain](https://soundcloud.com/elixirfountain) - The Elixir Fountain podcast.
+* [Elixir Mix](https://devchat.tv/elixir-mix/) - The Elixir Mix podcast.
+* [Elixir Outlaws](https://elixiroutlaws.com) - The Elixir Outlaws podcast.
+* [Elixir Talk](https://soundcloud.com/elixirtalk) - The Elixir Talk podcast.
+* [Thinking Elixir](https://podcast.thinkingelixir.com) - The Thinking Elixir podcast.
 
 ## Reading
 *Elixir-related reading materials.*
@@ -1960,6 +1959,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir related conference talks.
 * [Curso de Elixir de 0 a 100](https://www.youtube.com/watch?v=-K74G9nlzSY&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg) - Complete course of elixir (in spanish) for free.
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) - Functional, Parallel, Reliable (and fun!), taught by Dave Thomas.
+* [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT) - Learn Elixir by building a practical example. Learn how GenServer, Agents and many other elixir primitives work.
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
 * [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
@@ -1967,7 +1967,6 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
-* [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT) - Learn Elixir by building a practical example. Learn how GenServer, Agents and many other elixir primitives work.
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
@@ -1985,16 +1984,15 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
 * [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
 * [Elixir Flashcards](https://elixircards.co.uk/) - Flashcards are a powerful way to improve your knowledge. Elixircards are hand crafted, professionally printed flashcards for levelling up your Elixir.
-* [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
-* [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries
+* [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search.
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
+* [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries.
 * [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
-* [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.
