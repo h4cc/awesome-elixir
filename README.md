@@ -1210,6 +1210,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dproto](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 * [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 * [ecto](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+* [ecto_anon](https://github.com/WTTJ/ecto_anon) - Simple way to handle data anonymization directly in your Ecto schemas.
 * [ecto_cassandra](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
 * [ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 * [ecto_facade](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
@@ -1406,6 +1407,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Search
 *Libraries related to search indexing, search algorithms and search clients.*
 
+* [algoliax](https://github.com/WTTJ/algoliax) - An Algolia library for Elixir, usable with Ecto schemas.
 * [elasticlunr](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
@@ -1631,6 +1633,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bitmex](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 * [bitpay](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 * [cashier](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+* [chargebeex](https://github.com/WTTJ/chargebeex) - An Elixir client for Chargebee API.
 * [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [coinbase](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
