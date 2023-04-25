@@ -55,7 +55,7 @@ defmodule Awesome do
     link =
       case grab_link(head) do
         nil -> uniq_links(tail, linkcount)
-        [h | t] -> h
+        [h | _t] -> h
       end
 
     cnt =
