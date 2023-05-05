@@ -1423,7 +1423,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Ockam](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
-* [site_encrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites
+* [site_encrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
 * [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
