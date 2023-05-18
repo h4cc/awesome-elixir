@@ -822,6 +822,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kitto](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 * [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
 * [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+* [Petal Components](https://github.com/petalframework/petal_components) - A set of HEEX components that makes it easy for Phoenix developers to build beautiful web apps.
 * [phoenix](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
