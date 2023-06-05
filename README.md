@@ -1799,6 +1799,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_nric](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [form](https://github.com/synrc/form) - Document forms and validation library.
+* [goal](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 * [is](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 * [jeaux](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 * [optimal](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
