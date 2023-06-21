@@ -1739,7 +1739,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [stripity_stripe](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 * [tagplay](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
-* [telegex](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+* [telegex](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 * [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [tg_client](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
