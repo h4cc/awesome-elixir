@@ -1467,6 +1467,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 * [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+* [sneeze](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup](https://github.com/weavejester/hiccup).
 * [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 * [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
