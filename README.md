@@ -840,6 +840,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for and implementations of games.*
 
 * [Binbo](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+* [ECSx](https://hexdocs.pm/ecsx/initial_setup.html) - An Entity-Component-System framework providing a battle ship game as a tutorial ([read more on Dockyard blog](https://dockyard.com/blog/2023/07/06/ecsx-a-new-approach-to-game-development-in-elixir)).
 * [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 * [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 * [pictionary](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
