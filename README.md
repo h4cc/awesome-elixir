@@ -246,6 +246,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
+* [Noizu-OpenAi](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library.
 * [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
@@ -270,6 +271,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [coherence](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix. ([Docs](https://hexdocs.pm/coherence/Coherence.html)).
 * [doorman](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 * [elixir_auth_google](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+* [ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) - AWS Managed Streaming for Apache Kafka (MSK) IAM Authentication plugin for Broadway Kafka.
 * [github_oauth](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
 * [goth](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 * [guardian](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
@@ -387,6 +389,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [memoize](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 * [nebulex](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+* [request_cache_plug](https://github.com/MikaAK/request_cache_plug) - Easy to use caching for requests in either Phoenix Controllers or GraphQL resolvers. Bypasses JSON encoding/decoding for a large speedup.
 * [stash](https://github.com/whitfin/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Chatting
@@ -638,6 +641,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Working with errors and exceptions.*
 
 * [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
+* [elixir_error_message](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [OK](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
@@ -836,6 +840,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for and implementations of games.*
 
 * [Binbo](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+* [ECSx](https://hexdocs.pm/ecsx/initial_setup.html) - An Entity-Component-System framework providing a battle ship game as a tutorial ([read more on Dockyard blog](https://dockyard.com/blog/2023/07/06/ecsx-a-new-approach-to-game-development-in-elixir)).
 * [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 * [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 * [pictionary](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
@@ -1466,6 +1471,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 * [slime](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+* [sneeze](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup](https://github.com/weavejester/hiccup).
 * [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 * [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
@@ -1516,6 +1522,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mix_test_interactive](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 * [mix_test_watch](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 * [mixunit](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
+* [mneme](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
 * [mock](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [mockery](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 * [mockingbird](https://github.com/Driftrock/mockingbird) - A set of helpers to test code that involves http requests.
@@ -1738,7 +1745,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [stripity_stripe](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 * [tagplay](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
-* [telegex](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+* [telegex](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 * [telephonist](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [tg_client](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
