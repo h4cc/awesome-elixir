@@ -86,7 +86,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Validations](#validations)
     - [Version Control](#version-control)
     - [Video](#video)
-    - [WebAssembly](#web-assembly)
+    - [WebAssembly](#webassembly)
     - [XML](#xml)
     - [YAML](#yaml)
 - [Resources](#resources)
