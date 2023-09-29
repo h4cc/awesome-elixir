@@ -117,6 +117,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
 * [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 * [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
+* [spawn](https://github.com/eigr/spawn) - Elixir poliglot actors service mesh.
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
 ## Algorithms and Data structures
