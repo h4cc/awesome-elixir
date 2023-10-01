@@ -109,7 +109,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 * [dflow](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
 * [ex_lttb](https://github.com/ispirata/ex_lttb) - An Elixir downsampling library that retains the visual characteristics of your data.
-* [exactor](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
 * [mon_handler](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
 * [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
