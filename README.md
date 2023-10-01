@@ -107,17 +107,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and tools for working with actors and such.*
 * [alf](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
 * [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
-* [dflow](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
-* [ex_lttb](https://github.com/ispirata/ex_lttb) - An Elixir downsampling library that retains the visual characteristics of your data.
-* [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
-* [mon_handler](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
-* [pool_ring](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
-* [poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
 * [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
-* [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
 * [spawn](https://github.com/eigr/spawn) - Elixir poliglot actors service mesh.
-* [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
 ## Algorithms and Data structures
 *Libraries and implementations of algorithms and data structures.*
