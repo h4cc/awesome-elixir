@@ -884,6 +884,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [readability](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [texas](https://gitlab.com/dgmcguire/texas) - Texas is a powerful abstraction over updating your clients using server-side rendering and server-side Virtual DOM diff/patching.
 * [tidy_ex](https://github.com/f34nk/tidy_ex) - Elixir binding to the granddaddy of HTML tools [http://www.html-tidy.org](http://www.html-tidy.org).
+* [vnu-elixir](https://github.com/angelikatyborska/vnu-elixir) - Elixir client for the [Nu HTML Checker](https://validator.w3.org/nu/). Provides HTML, CSS, and SVG validation.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
