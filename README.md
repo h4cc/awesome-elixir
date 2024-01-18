@@ -1569,6 +1569,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [ex_brace_expansion](https://github.com/gniquil/ex_brace_expansion) - Brace expansion, as known from sh/bash, in Elixir.
 * [ex_cldr](https://github.com/kipcole9/cldr) - Cldr is an Elixir library for the Unicode Consortium's Common Locale Data Repository (CLDR).
+* [ex_pression](https://github.com/balance-platform/ex_pression) - Evaluate user input expressions.
 * [ex_rfc3966](https://github.com/marcelog/ex_rfc3966) - Elixir Tel URI parser compatible with RFC3966.
 * [ex_rfc3986](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
 * [ex_uc](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
