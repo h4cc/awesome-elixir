@@ -1931,6 +1931,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Useful Elixir-related newsletters.*
 
 * [Elixir Digest](http://elixirdigest.net) - A weekly newsletter with the latest articles on Elixir and Phoenix.
+* [Elixir Merge](https://elixirmerge.com) - A daily newsletter which delivers two curated updates (articles, tutorials, videos, podcasts) in each edition in quick-read format.
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar) - The "official" Elixir newsletter, published weekly via email by Plataformatec.
 * [ElixirWeekly](https://elixirweekly.net) - The Elixir community newsletter, covering stuff you easily miss, shared on [ElixirStatus](http://elixirstatus.com) and the web.
 
