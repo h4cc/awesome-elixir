@@ -1888,6 +1888,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) - Definitive guide to build web applications with the Phoenix framework by Chris McCord, José Valim and Bruce Tate (2015).
 * [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
+* [The Phoenix LiveView Cookbook](https://www.liveviewcookbook.com/) - A Phoenix LiveView e-book containing tried and tested recipes for solving common problems.
 * [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets
