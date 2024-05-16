@@ -1359,6 +1359,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [flume](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 * [gen_rmq](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 * [heapq](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
+* [honeycomb](https://github.com/Hentioe/honeycomb) - Another scheduling system, focusing on the collection of results for one-time tasks.
 * [honeydew](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 * [hulaaki](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
 * [kaffe](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
