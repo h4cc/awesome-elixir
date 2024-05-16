@@ -41,7 +41,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Feature Flags and Toggles](#feature-flags-and-toggles)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
-    - [Formulars](#formulars)
+    - [Forms](#forms)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
     - [Games](#games)
@@ -724,8 +724,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
-## Formulars
-*Handling web formulars and similar stuff.*
+## Forms
+*Handling web forms and similar stuff.*
 
 * [forms](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
