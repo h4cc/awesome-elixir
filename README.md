@@ -1387,6 +1387,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [changex](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 * [distillery](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 * [eliver](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+* [expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages.
 * [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 * [exrm_deb](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 * [exrm_heroku](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
