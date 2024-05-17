@@ -832,7 +832,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [RIG](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
-* [Ash Framework](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir
+* [Ash Framework](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
 ## Games
 *Libraries for and implementations of games.*
