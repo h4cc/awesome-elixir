@@ -41,7 +41,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Feature Flags and Toggles](#feature-flags-and-toggles)
     - [Feeds](#feeds)
     - [Files and Directories](#files-and-directories)
-    - [Formulars](#formulars)
+    - [Forms](#forms)
     - [Framework Components](#framework-components)
     - [Frameworks](#frameworks)
     - [Games](#games)
@@ -180,7 +180,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qcomplex](https://github.com/q60/complex) - Elixir library implementing complex numbers and math operations for them.
 * [qex](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 * [qrational](https://github.com/q60/rational) - Elixir library implementing rational numbers and math operations for them.
-* [ratio](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+* [ratio](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 * [remodel](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [rendezvous](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
@@ -553,7 +553,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [extrace](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 * [git_hooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 * [inspector](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience.
-* [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
+* [observer_cli](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
 * [quaff](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [rexbug](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 * [visualixir](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
@@ -672,7 +672,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 * [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [oop](https://github.com/wojtekmach/oop) - OOP in Elixir.
-* [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+* [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
 * [phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
 * [phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
@@ -724,8 +724,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 * [zarex](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
-## Formulars
-*Handling web formulars and similar stuff.*
+## Forms
+*Handling web forms and similar stuff.*
 
 * [forms](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
