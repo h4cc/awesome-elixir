@@ -448,6 +448,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Anything helpful for building CLI applications.*
 
 * [anubis](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
+* [elementtui](https://codeberg.org/edwinvanl/elementtui) - Library to help create terminal user interfaces (TUI).
 * [ex_cli](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
 * [ex_prompt](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 * [firex](https://github.com/msoedov/firex) - Firex is a library for automatically generating command line interfaces (CLIs) from an elixir module.
