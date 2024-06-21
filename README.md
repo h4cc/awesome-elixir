@@ -1626,6 +1626,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [transformer](https://github.com/ByeongUkChoi/transformer) - Flexible type conversion lightweight library.
 * [ua_inspector](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 * [ua_parser2](https://github.com/nazipov/ua_parser2-elixir) - A port of ua-parser2 to Elixir. User agent parser library.
+* [unique_names_generator](https://github.com/jongirard/unique_names_generator) - Generate seeded random and unique names.
 * [unit_fun](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
 * [uuid](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
