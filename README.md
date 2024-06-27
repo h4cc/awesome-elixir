@@ -1982,6 +1982,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir vs Ruby | How Switching To Elixir Made Our Team Better](https://foxbox.com/blog/elixir-vs-ruby/) - Long-form post that explains in detail when and why you should choose Elixir over Ruby.
 * [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+* [Learn With Me: Elixir](https://inquisitivedeveloper.com/tag/lwm-elixir/) - _ A series where I learn Elixir and you can learn along with me. _
 
 ## Screencasts
 *Cool video tutorials.*
