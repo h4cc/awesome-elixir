@@ -1074,6 +1074,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 * [shorter_maps](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 * [typed_struct](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
+* [typed_structor](https://github.com/elixir-typed-structor/typed_structor) - A library for defining structs with types effortlessly.
 * [unsafe](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
 
 ## Markdown
