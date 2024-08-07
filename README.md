@@ -26,6 +26,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Configuration](#configuration)
     - [Cryptography](#cryptography)
     - [CSV](#csv)
+    - [Data Visualization](#data-visualization)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Deployment](#deployment)
@@ -512,6 +513,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecsv](https://github.com/erpuno/ecsv) - Fast libcsv-based stream parser for Elixir.
 * [ex_csv](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [nimble_csv](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+
+## Data Visualization
+*Libraries for creating visualizations with data.*
+
+* [plox](https://github.com/gridpoint-com/plox) - Server-side rendered SVG graphing components for Phoenix and LiveView.
 
 ## Date and Time
 *Libraries for working with dates and times.*
