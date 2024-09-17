@@ -459,6 +459,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [owl](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 * [phoenix-cli](https://phoenix-cli.github.io/) - Command-line interface for Phoenix Framework like Rails commands.
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+* [prompt](https://github.com/silbermm/prompt) - Toolkit for building command line applications in Elixir.
 * [ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 * [scribe](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 * [table_rex](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
