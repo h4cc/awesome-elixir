@@ -1833,7 +1833,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [optimal](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
 * [shape](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [skooma](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
-* [to_atom_in](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set
+* [to_atom_in](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
