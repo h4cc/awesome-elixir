@@ -641,7 +641,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Transforming data in different formats or compressing it.*
 
 * [ex_rlp](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
-* [huffman](https://github.com/SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
+* [huffman](https://github.com/tyre/huffman) - Huffman encoding and decoding in Elixir.
 
 ## Errors and Exception Handling
 *Working with errors and exceptions.*
