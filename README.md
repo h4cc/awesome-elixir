@@ -1384,9 +1384,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [distillery](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 * [eliver](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 * [expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages.
-* [exrm_deb](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
-* [exrm_heroku](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
-* [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
 * [renew](https://github.com/Nebo15/renew) - Mix task to create mix projects that builds into Docker containers.
 * [versioce](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
