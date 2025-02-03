@@ -1235,7 +1235,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ectophile](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [elastic](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
 * [elastix](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
-* [eredis](https://github.com/wooga/eredis) - Erlang Redis client.
+* [eredis](https://github.com/Nordix/eredis) - Erlang Redis client.
 * [erlastic_search](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 * [esqlite](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 * [eternal](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
