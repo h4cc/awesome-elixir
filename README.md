@@ -1758,6 +1758,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
 * [mandrake](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 * [mnemonix](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+* [once_more](https://github.com/vegris/once_more) - Simple retries with composable backoff strategies.
 * [pachka](https://github.com/vegris/pachka) - Message batching library for Elixir applications.
 * [plasm](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted_before, .inserted_after, etc.
 * [plugmap](https://github.com/nerdslabs/plugmap) - Plugmap is sitemap generation library for Plug/Phoenix Framework.
