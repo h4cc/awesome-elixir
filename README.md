@@ -638,7 +638,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir_error_message](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 * [exceptional](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [happy](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
-* [Honeybadger Elixir](https://github.com/honeybadger-io/honeybadger-elixir) - The official [Honeybadger](https://www.honeybadger.io/) Elixir package.
 * [OK](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 * [sentry-elixir](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
