@@ -872,7 +872,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Hardware
 *Hardware related things like I/O interfaces and such.*
 
-* [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+* [elixir-circuits](https://github.com/elixir-circuits) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI (old version [elixir_ale](https://github.com/fhunleth/elixir_ale))
 * [nerves](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ## HTML
