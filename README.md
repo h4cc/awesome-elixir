@@ -916,6 +916,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 * [plug_wait1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
 * [raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+* [req](https://github.com/wojtekmach/req) - A batteries-included HTTP client for Elixir.
 * [river](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [sparql_client](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
