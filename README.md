@@ -817,6 +817,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Ash Framework](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 * [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
+* [Hologram](https://github.com/bartblast/hologram) - Full stack Elixir web framework that intelligently transpiles Elixir client-side code to JavaScript.
 * [kitto](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 * [n2o](https://github.com/synrc/n2o) - Distributed Application Server.
 * [nitro](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
