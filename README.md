@@ -724,6 +724,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Forms
 *Handling web forms and similar stuff.*
 
+* [CKEditor 5 Phoenix](https://github.com/Mati365/ckeditor5-phoenix) - WYSIWYG CKEditor 5 Phoenix integration. 
 * [forms](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ## Framework Components
