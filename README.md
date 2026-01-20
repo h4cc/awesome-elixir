@@ -748,6 +748,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser](https://github.com/graphql/libgraphqlparser).
 * [http_router](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [kerosene](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
+* [live_capture](https://github.com/achempion/live_capture) - Zero-boilerplate storybook for LiveView components.
 * [live_vue](https://github.com/Valian/live_vue) - End-to-end reactivity for Phoenix LiveView and Vue.
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
 * [multiverse](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
