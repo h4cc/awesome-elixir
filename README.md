@@ -1573,6 +1573,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [inet_cidr](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
+* [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Document intelligence library powered by Rust NIFs that extracts text, tables, and metadata from 62+ file formats including PDF, Office, images (with OCR), HTML, email, and archives.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
 * [mimetype_parser](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
