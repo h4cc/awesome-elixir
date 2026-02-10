@@ -749,6 +749,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [http_router](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 * [kerosene](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
 * [live_vue](https://github.com/Valian/live_vue) - End-to-end reactivity for Phoenix LiveView and Vue.
+* [lotus](https://github.com/typhoonworks/lotus) - Embeddable business intelligence for Phoenix apps — SQL editor, dashboards, charts, and AI query generation that mount directly in your app. ([Docs](https://hexdocs.pm/lotus)).
 * [mellon](https://github.com/sajmoon/mellon) - An authentication module for Plug applications.
 * [multiverse](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 * [params](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
