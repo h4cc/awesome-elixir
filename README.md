@@ -1993,6 +1993,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
 * [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries.
 * [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
+* [HexHire](https://hexhire.io) - A remote-only job board for Elixir developer positions.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
 
