@@ -620,6 +620,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mailman](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 * [pop3mail](https://hex.pm/packages/pop3mail) - Pop3 client to download email (including attachments) from the inbox via the commandline or Elixir API.
 * [ravenx](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
+* [shiko_notifications](https://github.com/Leandro-Moreno/shiko_notifications) - Multi-channel notification SDK for email, SMS, WhatsApp, push, and Telegram with 23 provider adapters, bulk sending, A/B testing, and analytics.
 * [smoothie](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
 * [swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
 
@@ -950,6 +951,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [image64](https://hex.pm/packages/image64) - A tool for working with base64 encoded images.
 * [imagineer](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [imgex](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
+* [imgproxy_url](https://github.com/Leandro-Moreno/imgproxy_url) - Signed imgproxy URL generator with HMAC-SHA256 for Elixir.
 * [mogrify](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 * [png](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
 * [thumbnex](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
@@ -1413,6 +1415,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [ca](https://github.com/synrc/ca) - Certificate Authority.
 * [clamxir](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+* [ex_turnstile](https://github.com/Leandro-Moreno/ex_turnstile) - Cloudflare Turnstile server-side token verification for Elixir.
 * [code_signing](https://github.com/benknowles/code_signing) - Signing and verifying BEAM files with Ed25519 signatures.
 * [Ockam](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
