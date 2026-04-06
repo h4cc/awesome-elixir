@@ -103,6 +103,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
   - [Styleguides](#styleguides)
   - [Websites](#websites)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Elixir/OTP development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ## Actors
 *Libraries and tools for working with actors and such.*
