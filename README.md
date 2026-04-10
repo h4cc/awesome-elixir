@@ -372,6 +372,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=h4cc_awesome-elixir) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## Caching
 *Libraries for caching data.*
 
