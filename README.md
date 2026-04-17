@@ -22,6 +22,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
   - [Chatting](#chatting)
   - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
   - [Code Analysis](#code-analysis)
+  - [Code Generators](#code-generators)
   - [Command Line Applications](#command-line-applications)
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
@@ -244,7 +245,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 * [Noizu-OpenAi](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library. ([Docs](https://hexdocs.pm/noizu_labs_open_ai/api-reference.html)).
 * [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
-* [ReqLLM](https://github.com/agentjido/req_llm) - LLM Client supporting over 100+ LLM Providers and Models
+* [ReqLLM](https://github.com/agentjido/req_llm) - LLM Client supporting over 100+ LLM Providers and Models.
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
@@ -440,6 +441,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 * [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
+
+## Code Generators
+*Libraries and tools for automatically generating code or project scaffolding.*
+
+* [smithy-beam](https://github.com/f34nk/smithy-beam) - [Smithy](https://smithy.io/) code generator for BEAM languages (Erlang, Elixir, Gleam). **Contract-first** API development.
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
