@@ -244,7 +244,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 * [Noizu-OpenAi](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library. ([Docs](https://hexdocs.pm/noizu_labs_open_ai/api-reference.html)).
 * [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
-* [ReqLLM](https://github.com/agentjido/req_llm) - LLM Client supporting over 100+ LLM Providers and Models
+* [ReqLLM](https://github.com/agentjido/req_llm) - LLM Client supporting over 100+ LLM Providers and Models.
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
@@ -1175,6 +1175,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [reverse_proxy](https://github.com/slogsdon/elixir-reverse-proxy) - Plug-based reverse proxy for routing, header rewrites, and basic load balancing.
 * [sise](https://github.com/aytchell/sise) - A simple to use SSDP client.
 * [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Sockerl is an advanced Erlang/Elixir socket library for TCP protocols and provides fast, useful and easy-to-use API for implementing servers, clients and client connection pools.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
@@ -1394,6 +1395,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [maru](https://github.com/falood/maru) - Elixir copy of grape for creating REST-like APIs.
 * [mazurka](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
 * [plug_rest](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
+* [sap](https://github.com/slogsdon/sap) - Plug toolkit for modeling HTTP request handling as a decision tree of composable combinators.
 * [signaturex](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [SOAP client](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 * [urna](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
