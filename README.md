@@ -44,6 +44,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
   - [Files and Directories](#files-and-directories)
   - [Forms](#forms)
   - [Framework Components](#framework-components)
+- [Phoenix](https://github.com/phoenixframework/phoenix) - Productive. Reliable. Fast.
   - [Frameworks](#frameworks)
   - [Games](#games)
   - [Geolocation](#geolocation)
