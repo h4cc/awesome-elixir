@@ -399,7 +399,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kaguya](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 * [slacker](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [yocingo](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
-* [TelegramEx](https://github.com/lsdrfrx/telegram_ex) - Elixir library for building Telegram bots in declarative way with macro-based API
+* [TelegramEx](https://github.com/lsdrfrx/telegram_ex) - Elixir library for building Telegram bots in declarative way with macro-based API.
 
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
