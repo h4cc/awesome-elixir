@@ -236,6 +236,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [AshAI](https://github.com/ash-project/ash_ai) - AI and LLM toolkit for Ash applications. MCP server, MCP dev tools, vector embeddings, chat interfaces, and more.
 * [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
 * [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
+* [ElGraph](https://github.com/showjihyun/ElGraph) - Graph-first agent framework on the BEAM: durable execution, human-in-the-loop, time-travel, checkpoints, and bidirectional MCP — a LangGraph alternative with no Python. ([Docs](https://hexdocs.pm/el_graph)).
 * [ExLLama](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
 * [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 * [GenAI](https://github.com/noizu-labs-ml/genai) - An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models. ([Docs](https://hexdocs.pm/genai/GenAI.html)).
