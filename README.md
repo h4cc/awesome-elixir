@@ -830,6 +830,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [RIG](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
+* [spikard](https://github.com/Goldziher/spikard) - Rust-powered polyglot HTTP framework with type-safe routing, tower middleware, and OpenAPI/GraphQL/JSON-RPC codegen (Elixir binding over a Rust core).
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
