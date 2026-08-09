@@ -456,6 +456,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [progress_bar](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 * [prompt](https://github.com/silbermm/prompt) - Toolkit for building command line applications in Elixir.
 * [ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+* [raxol](https://github.com/DROOdotFOO/raxol) - Multi-surface runtime where one application renders to terminal, browser, SSH and agent surfaces.
 * [scribe](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 * [table_rex](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 * [tabula](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
