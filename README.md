@@ -248,6 +248,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
+* [toolnexus](https://github.com/muthuishere/toolnexus) - Agent SDK with MCP tools and agent skills built in, byte-identical across JavaScript, Python, Go, Java, C#, and Elixir. ([Docs](https://muthuishere.github.io/toolnexus/)).
 * [Weaviate](https://github.com/noizu-labs-ml/elixir-weaviate) - Weaviate client and macros for declaring records. ([Docs](https://hexdocs.pm/noizu_weaviate/api-reference.html)).
 
 ## Audio and Sounds
