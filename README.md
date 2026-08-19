@@ -334,6 +334,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Sharing is caring with Elixir*
 
 * [bento](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+* [elixir_torrent](https://github.com/daniboybye/ElixirTorrent) - Complete BitTorrent client engine with DHT, magnet links, peer exchange, BitTorrent v2 and MSE/PE encryption.
 * [tracker_request](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 * [wire](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
