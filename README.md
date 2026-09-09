@@ -1173,6 +1173,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 * [hades](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 * [mac](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
+* [macula-station](https://github.com/macula-io/macula-station) - Realm-agnostic relay for the Macula P2P mesh: Kademlia DHT, SWIM-Lifeguard failure detection, pub/sub, RPC relay, and content-addressed transfer over QUIC.
 * [pool](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [sise](https://github.com/aytchell/sise) - A simple to use SSDP client.
