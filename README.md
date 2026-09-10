@@ -253,7 +253,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
 
-* [audio_proxy](https://github.com/audioproxy/audioproxy) - On-the-fly audio transcoding proxy: signed URLs describe the variant (format, bitrate, trim, loudness, waveform peaks) and it is rendered on demand and cached.
+* [audio_proxy](https://github.com/audioproxy/audioproxy) - On-the-fly audio transcoding proxy.
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 * [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings.
 * [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings.
