@@ -604,6 +604,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [estree](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 * [phoenix_gon](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
 * [phoenix_routes_js](https://github.com/khusnetdinov/phoenix_routes_js) - Phoenix routes helpers in JavaScript code and browser console.
+* [quickbeam](https://github.com/elixir-volt/quickbeam) - JavaScript and TypeScript runtime for the BEAM where each runtime is a supervised GenServer with Web APIs backed by OTP and a native DOM.
 
 ## Email
 *Working with Email and stuff.*
