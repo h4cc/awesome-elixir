@@ -371,6 +371,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
+* [volt](https://github.com/elixir-volt/volt) - Elixir-native frontend build tool with dev server, HMR, Tailwind CSS, and production builds for JavaScript, TypeScript, and Vue, no Node.js required.
 
 ## Caching
 *Libraries for caching data.*
