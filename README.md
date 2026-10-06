@@ -201,6 +201,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Applications
 *Standalone applications.*
 * [Caddishouse](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts using Phoenix/LiveView.
+* [Camelot AI](https://github.com/T0ha/camelot) - Self-hosted or cloud kanban board for managing AI coding agents (Claude Code, Codex) with human approval gates and GitHub integration.
 * [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 * [chat](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
