@@ -1204,6 +1204,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [caylir](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
 * [comeonin_ecto_password](https://github.com/vic/comeonin_ecto_password) - Ecto custom type for storing encrypted password using Comeonin.
 * [couchdb_connector](https://github.com/locolupo/couchdb_connector) - A connector for CouchDB, the Erlang-based, JSON document database.
+* [cratis_chronicle](https://github.com/Cratis/Chronicle.Elixir) - Elixir client for Cratis Chronicle, an event sourcing database.
 * [database_url](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 * [datomex](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [ddb_client](https://github.com/dalmatinerdb/ddb_client) - DalmatinerDB client.
