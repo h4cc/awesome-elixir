@@ -810,6 +810,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [torch](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [turn_the_page](https://hex.pm/packages/turn_the_page) - Fast, simple and lightweight pagination system for your Elixir application.
+* [vicander](https://github.com/blackuprise/vicander) - Domain-Driven Design framework: aggregates, commands, queries, an Ecto event outbox, projections and an MCP server.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 * [weebo](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
 
