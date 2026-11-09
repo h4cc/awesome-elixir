@@ -371,6 +371,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [remix](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 * [rotor](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [sass_elixir](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
+* [tuist_ex](https://github.com/tuist/tuist/tree/main/tuist_ex) - Hex package that connects Mix projects to Tuist build infrastructure for dependency caching and build/test insights.
 
 ## Caching
 *Libraries for caching data.*
