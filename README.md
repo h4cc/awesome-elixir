@@ -1293,6 +1293,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [walex](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
 * [xandra](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
+* [zkdb_elixir](https://github.com/SMC17/zkdb-elixir) - Elixir/OTP Zig NIF bindings for zkdb SIMD time-series aggregations, asof joins, and window joins.
 
 ## OTP
 *Libraries for working with OTP related things.*
